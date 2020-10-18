@@ -1,0 +1,4292 @@
+"C:\Program Files\Java\jdk-11.0.8\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.2\lib\idea_rt.jar=3772:C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\82102\OneDrive\NetworkProgramming\Selective-Repeat\out\production\Selective-Repeat Receiver
+Packet with sequence number 0 received
+########## Success ##########
+Sending ACK for 0
+
+Packet with sequence number 1 received
+########## Success ##########
+Sending ACK for 1
+
+Packet with sequence number 2 received
+########## Success ##########
+Sending ACK for 2
+
+Packet with sequence number 3 received
+########## Success ##########
+Sending ACK for 3
+
+Packet with sequence number 4 received
+########## Success ##########
+Sending ACK for 4
+
+XXXXXXXX 5 packet loss XXXXXXX
+
+Packet with sequence number 6 received
+Waiting for 5, But 6 received (buffered)
+Sending ACK for 6
+
+Packet with sequence number 7 received
+Waiting for 5, But 7 received (buffered)
+Sending ACK for 7
+
+Packet with sequence number 8 received
+Waiting for 5, But 8 received (buffered)
+Sending ACK for 8
+
+Packet with sequence number 9 received
+Waiting for 5, But 9 received (buffered)
+Sending ACK for 9
+
+Packet with sequence number 10 received
+Waiting for 5, But 10 received (buffered)
+Sending ACK for 10
+
+Packet with sequence number 11 received
+Waiting for 5, But 11 received (buffered)
+Sending ACK for 11
+
+Packet with sequence number 12 received
+Waiting for 5, But 12 received (buffered)
+Sending ACK for 12
+
+Packet with sequence number 13 received
+Waiting for 5, But 13 received (buffered)
+Sending ACK for 13
+
+Packet with sequence number 14 received
+Waiting for 5, But 14 received (buffered)
+Sending ACK for 14
+
+Packet with sequence number 5 received
+########## Success ##########
+Reassemble packet: 6 7 8 9 10 11 12 13 14 
+Sending ACK for 5
+
+Packet with sequence number 15 received
+########## Success ##########
+Sending ACK for 15
+
+Packet with sequence number 16 received
+########## Success ##########
+Sending ACK for 16
+
+Packet with sequence number 17 received
+########## Success ##########
+Sending ACK for 17
+
+Packet with sequence number 18 received
+########## Success ##########
+Sending ACK for 18
+
+Packet with sequence number 19 received
+########## Success ##########
+Sending ACK for 19
+
+Packet with sequence number 20 received
+########## Success ##########
+Sending ACK for 20
+
+Packet with sequence number 21 received
+########## Success ##########
+Sending ACK for 21
+
+Packet with sequence number 22 received
+########## Success ##########
+Sending ACK for 22
+
+Packet with sequence number 23 received
+########## Success ##########
+Sending ACK for 23
+
+Packet with sequence number 24 received
+########## Success ##########
+Sending ACK for 24
+
+Packet with sequence number 25 received
+########## Success ##########
+Sending ACK for 25
+
+Packet with sequence number 26 received
+########## Success ##########
+Sending ACK for 26
+
+Packet with sequence number 27 received
+########## Success ##########
+Sending ACK for 27
+
+Packet with sequence number 28 received
+########## Success ##########
+Sending ACK for 28
+
+Packet with sequence number 29 received
+########## Success ##########
+Sending ACK for 29
+
+Packet with sequence number 30 received
+########## Success ##########
+Sending ACK for 30
+
+Packet with sequence number 31 received
+########## Success ##########
+Sending ACK for 31
+
+Packet with sequence number 32 received
+########## Success ##########
+Sending ACK for 32
+
+Packet with sequence number 33 received
+########## Success ##########
+Sending ACK for 33
+
+XXXXXXXX 34 packet loss XXXXXXX
+
+Packet with sequence number 35 received
+Waiting for 34, But 35 received (buffered)
+Sending ACK for 35
+
+Packet with sequence number 36 received
+Waiting for 34, But 36 received (buffered)
+Sending ACK for 36
+
+Packet with sequence number 37 received
+Waiting for 34, But 37 received (buffered)
+Sending ACK for 37
+
+Packet with sequence number 38 received
+Waiting for 34, But 38 received (buffered)
+Sending ACK for 38
+
+Packet with sequence number 39 received
+Waiting for 34, But 39 received (buffered)
+Sending ACK for 39
+
+Packet with sequence number 40 received
+Waiting for 34, But 40 received (buffered)
+Sending ACK for 40
+
+Packet with sequence number 41 received
+Waiting for 34, But 41 received (buffered)
+Sending ACK for 41
+
+Packet with sequence number 42 received
+Waiting for 34, But 42 received (buffered)
+Sending ACK for 42
+
+XXXXXXXX 43 packet loss XXXXXXX
+
+Packet with sequence number 34 received
+########## Success ##########
+Reassemble packet: 35 36 37 38 39 40 41 42 
+Sending ACK for 34
+
+Packet with sequence number 44 received
+Waiting for 43, But 44 received (buffered)
+Sending ACK for 44
+
+Packet with sequence number 45 received
+Waiting for 43, But 45 received (buffered)
+Sending ACK for 45
+
+Packet with sequence number 46 received
+Waiting for 43, But 46 received (buffered)
+Sending ACK for 46
+
+Packet with sequence number 47 received
+Waiting for 43, But 47 received (buffered)
+Sending ACK for 47
+
+Packet with sequence number 48 received
+Waiting for 43, But 48 received (buffered)
+Sending ACK for 48
+
+XXXXXXXX 49 packet loss XXXXXXX
+
+Packet with sequence number 50 received
+Waiting for 43, But 50 received (buffered)
+Sending ACK for 50
+
+Packet with sequence number 51 received
+Waiting for 43, But 51 received (buffered)
+Sending ACK for 51
+
+Packet with sequence number 52 received
+Waiting for 43, But 52 received (buffered)
+Sending ACK for 52
+
+Packet with sequence number 43 received
+########## Success ##########
+Reassemble packet: 44 45 46 47 48 
+Sending ACK for 43
+
+Packet with sequence number 53 received
+Waiting for 49, But 53 received (buffered)
+Sending ACK for 53
+
+Packet with sequence number 54 received
+Waiting for 49, But 54 received (buffered)
+Sending ACK for 54
+
+XXXXXXXX 55 packet loss XXXXXXX
+
+Packet with sequence number 56 received
+Waiting for 49, But 56 received (buffered)
+Sending ACK for 56
+
+Packet with sequence number 57 received
+Waiting for 49, But 57 received (buffered)
+Sending ACK for 57
+
+Packet with sequence number 58 received
+Waiting for 49, But 58 received (buffered)
+Sending ACK for 58
+
+Packet with sequence number 49 received
+########## Success ##########
+Reassemble packet: 50 51 52 53 54 
+Sending ACK for 49
+
+Packet with sequence number 59 received
+Waiting for 55, But 59 received (buffered)
+Sending ACK for 59
+
+Packet with sequence number 60 received
+Waiting for 55, But 60 received (buffered)
+Sending ACK for 60
+
+XXXXXXXX 61 packet loss XXXXXXX
+
+Packet with sequence number 62 received
+Waiting for 55, But 62 received (buffered)
+Sending ACK for 62
+
+Packet with sequence number 63 received
+Waiting for 55, But 63 received (buffered)
+Sending ACK for 63
+
+XXXXXXXX 64 packet loss XXXXXXX
+
+Packet with sequence number 55 received
+########## Success ##########
+Reassemble packet: 56 57 58 59 60 
+Sending ACK for 55
+
+Packet with sequence number 65 received
+Waiting for 61, But 65 received (buffered)
+Sending ACK for 65
+
+Packet with sequence number 66 received
+Waiting for 61, But 66 received (buffered)
+Sending ACK for 66
+
+XXXXXXXX 67 packet loss XXXXXXX
+
+Packet with sequence number 68 received
+Waiting for 61, But 68 received (buffered)
+Sending ACK for 68
+
+XXXXXXXX 69 packet loss XXXXXXX
+
+XXXXXXXX 70 packet loss XXXXXXX
+
+XXXXXXXX 61 packet loss XXXXXXX
+
+Packet with sequence number 61 received
+########## Success ##########
+Reassemble packet: 62 63 
+Sending ACK for 61
+
+Packet with sequence number 71 received
+Waiting for 64, But 71 received (buffered)
+Sending ACK for 71
+
+Packet with sequence number 72 received
+Waiting for 64, But 72 received (buffered)
+Sending ACK for 72
+
+Packet with sequence number 73 received
+Waiting for 64, But 73 received (buffered)
+Sending ACK for 73
+
+Packet with sequence number 64 received
+########## Success ##########
+Reassemble packet: 65 66 
+Sending ACK for 64
+
+Packet with sequence number 74 received
+Waiting for 67, But 74 received (buffered)
+Sending ACK for 74
+
+Packet with sequence number 75 received
+Waiting for 67, But 75 received (buffered)
+Sending ACK for 75
+
+Packet with sequence number 76 received
+Waiting for 67, But 76 received (buffered)
+Sending ACK for 76
+
+Packet with sequence number 67 received
+########## Success ##########
+Reassemble packet: 68 
+Sending ACK for 67
+
+Packet with sequence number 77 received
+Waiting for 69, But 77 received (buffered)
+Sending ACK for 77
+
+Packet with sequence number 78 received
+Waiting for 69, But 78 received (buffered)
+Sending ACK for 78
+
+Packet with sequence number 69 received
+########## Success ##########
+Reassemble packet: 
+Sending ACK for 69
+
+Packet with sequence number 79 received
+Waiting for 70, But 79 received (buffered)
+Sending ACK for 79
+
+Packet with sequence number 70 received
+########## Success ##########
+Reassemble packet: 71 72 73 74 75 76 77 78 79 
+Sending ACK for 70
+
+Packet with sequence number 80 received
+########## Success ##########
+Sending ACK for 80
+
+Packet with sequence number 81 received
+########## Success ##########
+Sending ACK for 81
+
+Packet with sequence number 82 received
+########## Success ##########
+Sending ACK for 82
+
+Packet with sequence number 83 received
+########## Success ##########
+Sending ACK for 83
+
+Packet with sequence number 84 received
+########## Success ##########
+Sending ACK for 84
+
+Packet with sequence number 85 received
+########## Success ##########
+Sending ACK for 85
+
+Packet with sequence number 86 received
+########## Success ##########
+Sending ACK for 86
+
+Packet with sequence number 87 received
+########## Success ##########
+Sending ACK for 87
+
+Packet with sequence number 88 received
+########## Success ##########
+Sending ACK for 88
+
+Packet with sequence number 89 received
+########## Success ##########
+Sending ACK for 89
+
+Packet with sequence number 90 received
+########## Success ##########
+Sending ACK for 90
+
+Packet with sequence number 91 received
+########## Success ##########
+Sending ACK for 91
+
+Packet with sequence number 92 received
+########## Success ##########
+Sending ACK for 92
+
+Packet with sequence number 93 received
+########## Success ##########
+Sending ACK for 93
+
+Packet with sequence number 94 received
+########## Success ##########
+Sending ACK for 94
+
+Packet with sequence number 95 received
+########## Success ##########
+Sending ACK for 95
+
+Packet with sequence number 96 received
+########## Success ##########
+Sending ACK for 96
+
+Packet with sequence number 97 received
+########## Success ##########
+Sending ACK for 97
+
+Packet with sequence number 98 received
+########## Success ##########
+Sending ACK for 98
+
+Packet with sequence number 99 received
+########## Success ##########
+Sending ACK for 99
+
+Packet with sequence number 100 received
+########## Success ##########
+Sending ACK for 100
+
+Packet with sequence number 101 received
+########## Success ##########
+Sending ACK for 101
+
+Packet with sequence number 102 received
+########## Success ##########
+Sending ACK for 102
+
+Packet with sequence number 103 received
+########## Success ##########
+Sending ACK for 103
+
+XXXXXXXX 104 packet loss XXXXXXX
+
+Packet with sequence number 105 received
+Waiting for 104, But 105 received (buffered)
+Sending ACK for 105
+
+Packet with sequence number 106 received
+Waiting for 104, But 106 received (buffered)
+Sending ACK for 106
+
+Packet with sequence number 107 received
+Waiting for 104, But 107 received (buffered)
+Sending ACK for 107
+
+Packet with sequence number 108 received
+Waiting for 104, But 108 received (buffered)
+Sending ACK for 108
+
+Packet with sequence number 109 received
+Waiting for 104, But 109 received (buffered)
+Sending ACK for 109
+
+Packet with sequence number 110 received
+Waiting for 104, But 110 received (buffered)
+Sending ACK for 110
+
+Packet with sequence number 111 received
+Waiting for 104, But 111 received (buffered)
+Sending ACK for 111
+
+Packet with sequence number 112 received
+Waiting for 104, But 112 received (buffered)
+Sending ACK for 112
+
+Packet with sequence number 113 received
+Waiting for 104, But 113 received (buffered)
+Sending ACK for 113
+
+Packet with sequence number 104 received
+########## Success ##########
+Reassemble packet: 105 106 107 108 109 110 111 112 113 
+Sending ACK for 104
+
+Packet with sequence number 114 received
+########## Success ##########
+Sending ACK for 114
+
+Packet with sequence number 115 received
+########## Success ##########
+Sending ACK for 115
+
+Packet with sequence number 116 received
+########## Success ##########
+Sending ACK for 116
+
+Packet with sequence number 117 received
+########## Success ##########
+Sending ACK for 117
+
+Packet with sequence number 118 received
+########## Success ##########
+Sending ACK for 118
+
+Packet with sequence number 119 received
+########## Success ##########
+Sending ACK for 119
+
+Packet with sequence number 120 received
+########## Success ##########
+Sending ACK for 120
+
+Packet with sequence number 121 received
+########## Success ##########
+Sending ACK for 121
+
+Packet with sequence number 122 received
+########## Success ##########
+Sending ACK for 122
+
+XXXXXXXX 123 packet loss XXXXXXX
+
+Packet with sequence number 124 received
+Waiting for 123, But 124 received (buffered)
+Sending ACK for 124
+
+Packet with sequence number 125 received
+Waiting for 123, But 125 received (buffered)
+Sending ACK for 125
+
+Packet with sequence number 126 received
+Waiting for 123, But 126 received (buffered)
+Sending ACK for 126
+
+Packet with sequence number 127 received
+Waiting for 123, But 127 received (buffered)
+Sending ACK for 127
+
+Packet with sequence number 128 received
+Waiting for 123, But 128 received (buffered)
+Sending ACK for 128
+
+Packet with sequence number 129 received
+Waiting for 123, But 129 received (buffered)
+Sending ACK for 129
+
+Packet with sequence number 130 received
+Waiting for 123, But 130 received (buffered)
+Sending ACK for 130
+
+Packet with sequence number 131 received
+Waiting for 123, But 131 received (buffered)
+Sending ACK for 131
+
+Packet with sequence number 132 received
+Waiting for 123, But 132 received (buffered)
+Sending ACK for 132
+
+Packet with sequence number 123 received
+########## Success ##########
+Reassemble packet: 124 125 126 127 128 129 130 131 132 
+Sending ACK for 123
+
+Packet with sequence number 133 received
+########## Success ##########
+Sending ACK for 133
+
+Packet with sequence number 134 received
+########## Success ##########
+Sending ACK for 134
+
+Packet with sequence number 135 received
+########## Success ##########
+Sending ACK for 135
+
+Packet with sequence number 136 received
+########## Success ##########
+Sending ACK for 136
+
+Packet with sequence number 137 received
+########## Success ##########
+Sending ACK for 137
+
+Packet with sequence number 138 received
+########## Success ##########
+Sending ACK for 138
+
+Packet with sequence number 139 received
+########## Success ##########
+Sending ACK for 139
+
+Packet with sequence number 140 received
+########## Success ##########
+Sending ACK for 140
+
+Packet with sequence number 141 received
+########## Success ##########
+Sending ACK for 141
+
+Packet with sequence number 142 received
+########## Success ##########
+Sending ACK for 142
+
+Packet with sequence number 143 received
+########## Success ##########
+Sending ACK for 143
+
+Packet with sequence number 144 received
+########## Success ##########
+Sending ACK for 144
+
+Packet with sequence number 145 received
+########## Success ##########
+Sending ACK for 145
+
+Packet with sequence number 146 received
+########## Success ##########
+Sending ACK for 146
+
+XXXXXXXX 147 packet loss XXXXXXX
+
+Packet with sequence number 148 received
+Waiting for 147, But 148 received (buffered)
+Sending ACK for 148
+
+Packet with sequence number 149 received
+Waiting for 147, But 149 received (buffered)
+Sending ACK for 149
+
+Packet with sequence number 150 received
+Waiting for 147, But 150 received (buffered)
+Sending ACK for 150
+
+Packet with sequence number 151 received
+Waiting for 147, But 151 received (buffered)
+Sending ACK for 151
+
+Packet with sequence number 152 received
+Waiting for 147, But 152 received (buffered)
+Sending ACK for 152
+
+Packet with sequence number 153 received
+Waiting for 147, But 153 received (buffered)
+Sending ACK for 153
+
+XXXXXXXX 154 packet loss XXXXXXX
+
+XXXXXXXX 155 packet loss XXXXXXX
+
+Packet with sequence number 156 received
+Waiting for 147, But 156 received (buffered)
+Sending ACK for 156
+
+Packet with sequence number 147 received
+########## Success ##########
+Reassemble packet: 148 149 150 151 152 153 
+Sending ACK for 147
+
+Packet with sequence number 157 received
+Waiting for 154, But 157 received (buffered)
+Sending ACK for 157
+
+Packet with sequence number 158 received
+Waiting for 154, But 158 received (buffered)
+Sending ACK for 158
+
+Packet with sequence number 159 received
+Waiting for 154, But 159 received (buffered)
+Sending ACK for 159
+
+Packet with sequence number 160 received
+Waiting for 154, But 160 received (buffered)
+Sending ACK for 160
+
+Packet with sequence number 161 received
+Waiting for 154, But 161 received (buffered)
+Sending ACK for 161
+
+Packet with sequence number 162 received
+Waiting for 154, But 162 received (buffered)
+Sending ACK for 162
+
+Packet with sequence number 163 received
+Waiting for 154, But 163 received (buffered)
+Sending ACK for 163
+
+Packet with sequence number 154 received
+########## Success ##########
+Reassemble packet: 
+Sending ACK for 154
+
+Packet with sequence number 164 received
+Waiting for 155, But 164 received (buffered)
+Sending ACK for 164
+
+Packet with sequence number 155 received
+########## Success ##########
+Reassemble packet: 156 157 158 159 160 161 162 163 164 
+Sending ACK for 155
+
+Packet with sequence number 165 received
+########## Success ##########
+Sending ACK for 165
+
+Packet with sequence number 166 received
+########## Success ##########
+Sending ACK for 166
+
+Packet with sequence number 167 received
+########## Success ##########
+Sending ACK for 167
+
+Packet with sequence number 168 received
+########## Success ##########
+Sending ACK for 168
+
+Packet with sequence number 169 received
+########## Success ##########
+Sending ACK for 169
+
+Packet with sequence number 170 received
+########## Success ##########
+Sending ACK for 170
+
+Packet with sequence number 171 received
+########## Success ##########
+Sending ACK for 171
+
+Packet with sequence number 172 received
+########## Success ##########
+Sending ACK for 172
+
+Packet with sequence number 173 received
+########## Success ##########
+Sending ACK for 173
+
+Packet with sequence number 174 received
+########## Success ##########
+Sending ACK for 174
+
+Packet with sequence number 175 received
+########## Success ##########
+Sending ACK for 175
+
+Packet with sequence number 176 received
+########## Success ##########
+Sending ACK for 176
+
+Packet with sequence number 177 received
+########## Success ##########
+Sending ACK for 177
+
+Packet with sequence number 178 received
+########## Success ##########
+Sending ACK for 178
+
+Packet with sequence number 179 received
+########## Success ##########
+Sending ACK for 179
+
+Packet with sequence number 180 received
+########## Success ##########
+Sending ACK for 180
+
+XXXXXXXX 181 packet loss XXXXXXX
+
+Packet with sequence number 182 received
+Waiting for 181, But 182 received (buffered)
+Sending ACK for 182
+
+Packet with sequence number 183 received
+Waiting for 181, But 183 received (buffered)
+Sending ACK for 183
+
+Packet with sequence number 184 received
+Waiting for 181, But 184 received (buffered)
+Sending ACK for 184
+
+XXXXXXXX 185 packet loss XXXXXXX
+
+Packet with sequence number 186 received
+Waiting for 181, But 186 received (buffered)
+Sending ACK for 186
+
+Packet with sequence number 187 received
+Waiting for 181, But 187 received (buffered)
+Sending ACK for 187
+
+Packet with sequence number 188 received
+Waiting for 181, But 188 received (buffered)
+Sending ACK for 188
+
+Packet with sequence number 189 received
+Waiting for 181, But 189 received (buffered)
+Sending ACK for 189
+
+Packet with sequence number 190 received
+Waiting for 181, But 190 received (buffered)
+Sending ACK for 190
+
+Packet with sequence number 181 received
+########## Success ##########
+Reassemble packet: 182 183 184 
+Sending ACK for 181
+
+Packet with sequence number 191 received
+Waiting for 185, But 191 received (buffered)
+Sending ACK for 191
+
+Packet with sequence number 192 received
+Waiting for 185, But 192 received (buffered)
+Sending ACK for 192
+
+Packet with sequence number 193 received
+Waiting for 185, But 193 received (buffered)
+Sending ACK for 193
+
+Packet with sequence number 194 received
+Waiting for 185, But 194 received (buffered)
+Sending ACK for 194
+
+Packet with sequence number 185 received
+########## Success ##########
+Reassemble packet: 186 187 188 189 190 191 192 193 194 
+Sending ACK for 185
+
+Packet with sequence number 195 received
+########## Success ##########
+Sending ACK for 195
+
+Packet with sequence number 196 received
+########## Success ##########
+Sending ACK for 196
+
+Packet with sequence number 197 received
+########## Success ##########
+Sending ACK for 197
+
+Packet with sequence number 198 received
+########## Success ##########
+Sending ACK for 198
+
+XXXXXXXX 199 packet loss XXXXXXX
+
+Packet with sequence number 200 received
+Waiting for 199, But 200 received (buffered)
+Sending ACK for 200
+
+Packet with sequence number 201 received
+Waiting for 199, But 201 received (buffered)
+Sending ACK for 201
+
+Packet with sequence number 202 received
+Waiting for 199, But 202 received (buffered)
+Sending ACK for 202
+
+Packet with sequence number 203 received
+Waiting for 199, But 203 received (buffered)
+Sending ACK for 203
+
+XXXXXXXX 204 packet loss XXXXXXX
+
+Packet with sequence number 205 received
+Waiting for 199, But 205 received (buffered)
+Sending ACK for 205
+
+Packet with sequence number 206 received
+Waiting for 199, But 206 received (buffered)
+Sending ACK for 206
+
+Packet with sequence number 207 received
+Waiting for 199, But 207 received (buffered)
+Sending ACK for 207
+
+Packet with sequence number 208 received
+Waiting for 199, But 208 received (buffered)
+Sending ACK for 208
+
+Packet with sequence number 199 received
+########## Success ##########
+Reassemble packet: 200 201 202 203 
+Sending ACK for 199
+
+Packet with sequence number 209 received
+Waiting for 204, But 209 received (buffered)
+Sending ACK for 209
+
+Packet with sequence number 210 received
+Waiting for 204, But 210 received (buffered)
+Sending ACK for 210
+
+Packet with sequence number 211 received
+Waiting for 204, But 211 received (buffered)
+Sending ACK for 211
+
+XXXXXXXX 212 packet loss XXXXXXX
+
+Packet with sequence number 213 received
+Waiting for 204, But 213 received (buffered)
+Sending ACK for 213
+
+Packet with sequence number 204 received
+########## Success ##########
+Reassemble packet: 205 206 207 208 209 210 211 
+Sending ACK for 204
+
+Packet with sequence number 214 received
+Waiting for 212, But 214 received (buffered)
+Sending ACK for 214
+
+Packet with sequence number 215 received
+Waiting for 212, But 215 received (buffered)
+Sending ACK for 215
+
+Packet with sequence number 216 received
+Waiting for 212, But 216 received (buffered)
+Sending ACK for 216
+
+Packet with sequence number 217 received
+Waiting for 212, But 217 received (buffered)
+Sending ACK for 217
+
+Packet with sequence number 218 received
+Waiting for 212, But 218 received (buffered)
+Sending ACK for 218
+
+XXXXXXXX 219 packet loss XXXXXXX
+
+Packet with sequence number 220 received
+Waiting for 212, But 220 received (buffered)
+Sending ACK for 220
+
+Packet with sequence number 221 received
+Waiting for 212, But 221 received (buffered)
+Sending ACK for 221
+
+Packet with sequence number 212 received
+########## Success ##########
+Reassemble packet: 213 214 215 216 217 218 
+Sending ACK for 212
+
+Packet with sequence number 222 received
+Waiting for 219, But 222 received (buffered)
+Sending ACK for 222
+
+XXXXXXXX 223 packet loss XXXXXXX
+
+Packet with sequence number 224 received
+Waiting for 219, But 224 received (buffered)
+Sending ACK for 224
+
+Packet with sequence number 225 received
+Waiting for 219, But 225 received (buffered)
+Sending ACK for 225
+
+Packet with sequence number 226 received
+Waiting for 219, But 226 received (buffered)
+Sending ACK for 226
+
+Packet with sequence number 227 received
+Waiting for 219, But 227 received (buffered)
+Sending ACK for 227
+
+Packet with sequence number 228 received
+Waiting for 219, But 228 received (buffered)
+Sending ACK for 228
+
+Packet with sequence number 219 received
+########## Success ##########
+Reassemble packet: 220 221 222 
+Sending ACK for 219
+
+Packet with sequence number 229 received
+Waiting for 223, But 229 received (buffered)
+Sending ACK for 229
+
+Packet with sequence number 230 received
+Waiting for 223, But 230 received (buffered)
+Sending ACK for 230
+
+Packet with sequence number 231 received
+Waiting for 223, But 231 received (buffered)
+Sending ACK for 231
+
+Packet with sequence number 232 received
+Waiting for 223, But 232 received (buffered)
+Sending ACK for 232
+
+Packet with sequence number 223 received
+########## Success ##########
+Reassemble packet: 224 225 226 227 228 229 230 231 232 
+Sending ACK for 223
+
+Packet with sequence number 233 received
+########## Success ##########
+Sending ACK for 233
+
+Packet with sequence number 234 received
+########## Success ##########
+Sending ACK for 234
+
+Packet with sequence number 235 received
+########## Success ##########
+Sending ACK for 235
+
+Packet with sequence number 236 received
+########## Success ##########
+Sending ACK for 236
+
+Packet with sequence number 237 received
+########## Success ##########
+Sending ACK for 237
+
+Packet with sequence number 238 received
+########## Success ##########
+Sending ACK for 238
+
+Packet with sequence number 239 received
+########## Success ##########
+Sending ACK for 239
+
+Packet with sequence number 240 received
+########## Success ##########
+Sending ACK for 240
+
+Packet with sequence number 241 received
+########## Success ##########
+Sending ACK for 241
+
+Packet with sequence number 242 received
+########## Success ##########
+Sending ACK for 242
+
+Packet with sequence number 243 received
+########## Success ##########
+Sending ACK for 243
+
+Packet with sequence number 244 received
+########## Success ##########
+Sending ACK for 244
+
+Packet with sequence number 245 received
+########## Success ##########
+Sending ACK for 245
+
+Packet with sequence number 246 received
+########## Success ##########
+Sending ACK for 246
+
+Packet with sequence number 247 received
+########## Success ##########
+Sending ACK for 247
+
+Packet with sequence number 248 received
+########## Success ##########
+Sending ACK for 248
+
+Packet with sequence number 249 received
+########## Success ##########
+Sending ACK for 249
+
+Packet with sequence number 250 received
+########## Success ##########
+Sending ACK for 250
+
+Packet with sequence number 251 received
+########## Success ##########
+Sending ACK for 251
+
+Packet with sequence number 252 received
+########## Success ##########
+Sending ACK for 252
+
+Packet with sequence number 253 received
+########## Success ##########
+Sending ACK for 253
+
+Packet with sequence number 254 received
+########## Success ##########
+Sending ACK for 254
+
+Packet with sequence number 255 received
+########## Success ##########
+Sending ACK for 255
+
+Packet with sequence number 256 received
+########## Success ##########
+Sending ACK for 256
+
+Packet with sequence number 257 received
+########## Success ##########
+Sending ACK for 257
+
+Packet with sequence number 258 received
+########## Success ##########
+Sending ACK for 258
+
+Packet with sequence number 259 received
+########## Success ##########
+Sending ACK for 259
+
+Packet with sequence number 260 received
+########## Success ##########
+Sending ACK for 260
+
+Packet with sequence number 261 received
+########## Success ##########
+Sending ACK for 261
+
+Packet with sequence number 262 received
+########## Success ##########
+Sending ACK for 262
+
+Packet with sequence number 263 received
+########## Success ##########
+Sending ACK for 263
+
+Packet with sequence number 264 received
+########## Success ##########
+Sending ACK for 264
+
+Packet with sequence number 265 received
+########## Success ##########
+Sending ACK for 265
+
+Packet with sequence number 266 received
+########## Success ##########
+Sending ACK for 266
+
+Packet with sequence number 267 received
+########## Success ##########
+Sending ACK for 267
+
+Packet with sequence number 268 received
+########## Success ##########
+Sending ACK for 268
+
+Packet with sequence number 269 received
+########## Success ##########
+Sending ACK for 269
+
+Packet with sequence number 270 received
+########## Success ##########
+Sending ACK for 270
+
+Packet with sequence number 271 received
+########## Success ##########
+Sending ACK for 271
+
+Packet with sequence number 272 received
+########## Success ##########
+Sending ACK for 272
+
+Packet with sequence number 273 received
+########## Success ##########
+Sending ACK for 273
+
+XXXXXXXX 274 packet loss XXXXXXX
+
+Packet with sequence number 275 received
+Waiting for 274, But 275 received (buffered)
+Sending ACK for 275
+
+Packet with sequence number 276 received
+Waiting for 274, But 276 received (buffered)
+Sending ACK for 276
+
+Packet with sequence number 277 received
+Waiting for 274, But 277 received (buffered)
+Sending ACK for 277
+
+Packet with sequence number 278 received
+Waiting for 274, But 278 received (buffered)
+Sending ACK for 278
+
+Packet with sequence number 279 received
+Waiting for 274, But 279 received (buffered)
+Sending ACK for 279
+
+Packet with sequence number 280 received
+Waiting for 274, But 280 received (buffered)
+Sending ACK for 280
+
+Packet with sequence number 281 received
+Waiting for 274, But 281 received (buffered)
+Sending ACK for 281
+
+Packet with sequence number 282 received
+Waiting for 274, But 282 received (buffered)
+Sending ACK for 282
+
+Packet with sequence number 283 received
+Waiting for 274, But 283 received (buffered)
+Sending ACK for 283
+
+Packet with sequence number 274 received
+########## Success ##########
+Reassemble packet: 275 276 277 278 279 280 281 282 283 
+Sending ACK for 274
+
+Packet with sequence number 284 received
+########## Success ##########
+Sending ACK for 284
+
+Packet with sequence number 285 received
+########## Success ##########
+Sending ACK for 285
+
+Packet with sequence number 286 received
+########## Success ##########
+Sending ACK for 286
+
+Packet with sequence number 287 received
+########## Success ##########
+Sending ACK for 287
+
+Packet with sequence number 288 received
+########## Success ##########
+Sending ACK for 288
+
+Packet with sequence number 289 received
+########## Success ##########
+Sending ACK for 289
+
+Packet with sequence number 290 received
+########## Success ##########
+Sending ACK for 290
+
+Packet with sequence number 291 received
+########## Success ##########
+Sending ACK for 291
+
+Packet with sequence number 292 received
+########## Success ##########
+Sending ACK for 292
+
+Packet with sequence number 293 received
+########## Success ##########
+Sending ACK for 293
+
+Packet with sequence number 294 received
+########## Success ##########
+Sending ACK for 294
+
+XXXXXXXX 295 packet loss XXXXXXX
+
+Packet with sequence number 296 received
+Waiting for 295, But 296 received (buffered)
+Sending ACK for 296
+
+Packet with sequence number 297 received
+Waiting for 295, But 297 received (buffered)
+Sending ACK for 297
+
+Packet with sequence number 298 received
+Waiting for 295, But 298 received (buffered)
+Sending ACK for 298
+
+Packet with sequence number 299 received
+Waiting for 295, But 299 received (buffered)
+Sending ACK for 299
+
+Packet with sequence number 300 received
+Waiting for 295, But 300 received (buffered)
+Sending ACK for 300
+
+Packet with sequence number 301 received
+Waiting for 295, But 301 received (buffered)
+Sending ACK for 301
+
+Packet with sequence number 302 received
+Waiting for 295, But 302 received (buffered)
+Sending ACK for 302
+
+Packet with sequence number 303 received
+Waiting for 295, But 303 received (buffered)
+Sending ACK for 303
+
+Packet with sequence number 304 received
+Waiting for 295, But 304 received (buffered)
+Sending ACK for 304
+
+Packet with sequence number 295 received
+########## Success ##########
+Reassemble packet: 296 297 298 299 300 301 302 303 304 
+Sending ACK for 295
+
+Packet with sequence number 305 received
+########## Success ##########
+Sending ACK for 305
+
+XXXXXXXX 306 packet loss XXXXXXX
+
+Packet with sequence number 307 received
+Waiting for 306, But 307 received (buffered)
+Sending ACK for 307
+
+Packet with sequence number 308 received
+Waiting for 306, But 308 received (buffered)
+Sending ACK for 308
+
+Packet with sequence number 309 received
+Waiting for 306, But 309 received (buffered)
+Sending ACK for 309
+
+Packet with sequence number 310 received
+Waiting for 306, But 310 received (buffered)
+Sending ACK for 310
+
+Packet with sequence number 311 received
+Waiting for 306, But 311 received (buffered)
+Sending ACK for 311
+
+XXXXXXXX 312 packet loss XXXXXXX
+
+Packet with sequence number 313 received
+Waiting for 306, But 313 received (buffered)
+Sending ACK for 313
+
+Packet with sequence number 314 received
+Waiting for 306, But 314 received (buffered)
+Sending ACK for 314
+
+Packet with sequence number 315 received
+Waiting for 306, But 315 received (buffered)
+Sending ACK for 315
+
+Packet with sequence number 306 received
+########## Success ##########
+Reassemble packet: 307 308 309 310 311 
+Sending ACK for 306
+
+Packet with sequence number 316 received
+Waiting for 312, But 316 received (buffered)
+Sending ACK for 316
+
+Packet with sequence number 317 received
+Waiting for 312, But 317 received (buffered)
+Sending ACK for 317
+
+Packet with sequence number 318 received
+Waiting for 312, But 318 received (buffered)
+Sending ACK for 318
+
+Packet with sequence number 319 received
+Waiting for 312, But 319 received (buffered)
+Sending ACK for 319
+
+Packet with sequence number 320 received
+Waiting for 312, But 320 received (buffered)
+Sending ACK for 320
+
+Packet with sequence number 321 received
+Waiting for 312, But 321 received (buffered)
+Sending ACK for 321
+
+Packet with sequence number 312 received
+########## Success ##########
+Reassemble packet: 313 314 315 316 317 318 319 320 321 
+Sending ACK for 312
+
+Packet with sequence number 322 received
+########## Success ##########
+Sending ACK for 322
+
+Packet with sequence number 323 received
+########## Success ##########
+Sending ACK for 323
+
+Packet with sequence number 324 received
+########## Success ##########
+Sending ACK for 324
+
+Packet with sequence number 325 received
+########## Success ##########
+Sending ACK for 325
+
+Packet with sequence number 326 received
+########## Success ##########
+Sending ACK for 326
+
+Packet with sequence number 327 received
+########## Success ##########
+Sending ACK for 327
+
+Packet with sequence number 328 received
+########## Success ##########
+Sending ACK for 328
+
+Packet with sequence number 329 received
+########## Success ##########
+Sending ACK for 329
+
+Packet with sequence number 330 received
+########## Success ##########
+Sending ACK for 330
+
+Packet with sequence number 331 received
+########## Success ##########
+Sending ACK for 331
+
+XXXXXXXX 332 packet loss XXXXXXX
+
+Packet with sequence number 333 received
+Waiting for 332, But 333 received (buffered)
+Sending ACK for 333
+
+Packet with sequence number 334 received
+Waiting for 332, But 334 received (buffered)
+Sending ACK for 334
+
+XXXXXXXX 335 packet loss XXXXXXX
+
+Packet with sequence number 336 received
+Waiting for 332, But 336 received (buffered)
+Sending ACK for 336
+
+Packet with sequence number 337 received
+Waiting for 332, But 337 received (buffered)
+Sending ACK for 337
+
+XXXXXXXX 338 packet loss XXXXXXX
+
+Packet with sequence number 339 received
+Waiting for 332, But 339 received (buffered)
+Sending ACK for 339
+
+Packet with sequence number 340 received
+Waiting for 332, But 340 received (buffered)
+Sending ACK for 340
+
+XXXXXXXX 341 packet loss XXXXXXX
+
+Packet with sequence number 332 received
+########## Success ##########
+Reassemble packet: 333 334 
+Sending ACK for 332
+
+Packet with sequence number 342 received
+Waiting for 335, But 342 received (buffered)
+Sending ACK for 342
+
+Packet with sequence number 343 received
+Waiting for 335, But 343 received (buffered)
+Sending ACK for 343
+
+Packet with sequence number 344 received
+Waiting for 335, But 344 received (buffered)
+Sending ACK for 344
+
+Packet with sequence number 335 received
+########## Success ##########
+Reassemble packet: 336 337 
+Sending ACK for 335
+
+Packet with sequence number 345 received
+Waiting for 338, But 345 received (buffered)
+Sending ACK for 345
+
+Packet with sequence number 346 received
+Waiting for 338, But 346 received (buffered)
+Sending ACK for 346
+
+Packet with sequence number 347 received
+Waiting for 338, But 347 received (buffered)
+Sending ACK for 347
+
+XXXXXXXX 338 packet loss XXXXXXX
+
+Packet with sequence number 338 received
+########## Success ##########
+Reassemble packet: 339 340 
+Sending ACK for 338
+
+Packet with sequence number 348 received
+Waiting for 341, But 348 received (buffered)
+Sending ACK for 348
+
+Packet with sequence number 349 received
+Waiting for 341, But 349 received (buffered)
+Sending ACK for 349
+
+Packet with sequence number 350 received
+Waiting for 341, But 350 received (buffered)
+Sending ACK for 350
+
+Packet with sequence number 341 received
+########## Success ##########
+Reassemble packet: 342 343 344 345 346 347 348 349 350 
+Sending ACK for 341
+
+Packet with sequence number 351 received
+########## Success ##########
+Sending ACK for 351
+
+Packet with sequence number 352 received
+########## Success ##########
+Sending ACK for 352
+
+Packet with sequence number 353 received
+########## Success ##########
+Sending ACK for 353
+
+Packet with sequence number 354 received
+########## Success ##########
+Sending ACK for 354
+
+Packet with sequence number 355 received
+########## Success ##########
+Sending ACK for 355
+
+Packet with sequence number 356 received
+########## Success ##########
+Sending ACK for 356
+
+Packet with sequence number 357 received
+########## Success ##########
+Sending ACK for 357
+
+Packet with sequence number 358 received
+########## Success ##########
+Sending ACK for 358
+
+Packet with sequence number 359 received
+########## Success ##########
+Sending ACK for 359
+
+Packet with sequence number 360 received
+########## Success ##########
+Sending ACK for 360
+
+XXXXXXXX 361 packet loss XXXXXXX
+
+Packet with sequence number 362 received
+Waiting for 361, But 362 received (buffered)
+Sending ACK for 362
+
+Packet with sequence number 363 received
+Waiting for 361, But 363 received (buffered)
+Sending ACK for 363
+
+Packet with sequence number 364 received
+Waiting for 361, But 364 received (buffered)
+Sending ACK for 364
+
+Packet with sequence number 365 received
+Waiting for 361, But 365 received (buffered)
+Sending ACK for 365
+
+Packet with sequence number 366 received
+Waiting for 361, But 366 received (buffered)
+Sending ACK for 366
+
+Packet with sequence number 367 received
+Waiting for 361, But 367 received (buffered)
+Sending ACK for 367
+
+Packet with sequence number 368 received
+Waiting for 361, But 368 received (buffered)
+Sending ACK for 368
+
+Packet with sequence number 369 received
+Waiting for 361, But 369 received (buffered)
+Sending ACK for 369
+
+Packet with sequence number 370 received
+Waiting for 361, But 370 received (buffered)
+Sending ACK for 370
+
+Packet with sequence number 361 received
+########## Success ##########
+Reassemble packet: 362 363 364 365 366 367 368 369 370 
+Sending ACK for 361
+
+Packet with sequence number 371 received
+########## Success ##########
+Sending ACK for 371
+
+Packet with sequence number 372 received
+########## Success ##########
+Sending ACK for 372
+
+Packet with sequence number 373 received
+########## Success ##########
+Sending ACK for 373
+
+XXXXXXXX 374 packet loss XXXXXXX
+
+Packet with sequence number 375 received
+Waiting for 374, But 375 received (buffered)
+Sending ACK for 375
+
+Packet with sequence number 376 received
+Waiting for 374, But 376 received (buffered)
+Sending ACK for 376
+
+Packet with sequence number 377 received
+Waiting for 374, But 377 received (buffered)
+Sending ACK for 377
+
+XXXXXXXX 378 packet loss XXXXXXX
+
+Packet with sequence number 379 received
+Waiting for 374, But 379 received (buffered)
+Sending ACK for 379
+
+Packet with sequence number 380 received
+Waiting for 374, But 380 received (buffered)
+Sending ACK for 380
+
+Packet with sequence number 381 received
+Waiting for 374, But 381 received (buffered)
+Sending ACK for 381
+
+Packet with sequence number 382 received
+Waiting for 374, But 382 received (buffered)
+Sending ACK for 382
+
+Packet with sequence number 383 received
+Waiting for 374, But 383 received (buffered)
+Sending ACK for 383
+
+Packet with sequence number 374 received
+########## Success ##########
+Reassemble packet: 375 376 377 
+Sending ACK for 374
+
+Packet with sequence number 384 received
+Waiting for 378, But 384 received (buffered)
+Sending ACK for 384
+
+Packet with sequence number 385 received
+Waiting for 378, But 385 received (buffered)
+Sending ACK for 385
+
+Packet with sequence number 386 received
+Waiting for 378, But 386 received (buffered)
+Sending ACK for 386
+
+Packet with sequence number 387 received
+Waiting for 378, But 387 received (buffered)
+Sending ACK for 387
+
+Packet with sequence number 378 received
+########## Success ##########
+Reassemble packet: 379 380 381 382 383 384 385 386 387 
+Sending ACK for 378
+
+Packet with sequence number 388 received
+########## Success ##########
+Sending ACK for 388
+
+Packet with sequence number 389 received
+########## Success ##########
+Sending ACK for 389
+
+Packet with sequence number 390 received
+########## Success ##########
+Sending ACK for 390
+
+Packet with sequence number 391 received
+########## Success ##########
+Sending ACK for 391
+
+Packet with sequence number 392 received
+########## Success ##########
+Sending ACK for 392
+
+Packet with sequence number 393 received
+########## Success ##########
+Sending ACK for 393
+
+Packet with sequence number 394 received
+########## Success ##########
+Sending ACK for 394
+
+XXXXXXXX 395 packet loss XXXXXXX
+
+Packet with sequence number 396 received
+Waiting for 395, But 396 received (buffered)
+Sending ACK for 396
+
+Packet with sequence number 397 received
+Waiting for 395, But 397 received (buffered)
+Sending ACK for 397
+
+Packet with sequence number 398 received
+Waiting for 395, But 398 received (buffered)
+Sending ACK for 398
+
+Packet with sequence number 399 received
+Waiting for 395, But 399 received (buffered)
+Sending ACK for 399
+
+Packet with sequence number 400 received
+Waiting for 395, But 400 received (buffered)
+Sending ACK for 400
+
+Packet with sequence number 401 received
+Waiting for 395, But 401 received (buffered)
+Sending ACK for 401
+
+Packet with sequence number 402 received
+Waiting for 395, But 402 received (buffered)
+Sending ACK for 402
+
+Packet with sequence number 403 received
+Waiting for 395, But 403 received (buffered)
+Sending ACK for 403
+
+Packet with sequence number 404 received
+Waiting for 395, But 404 received (buffered)
+Sending ACK for 404
+
+Packet with sequence number 395 received
+########## Success ##########
+Reassemble packet: 396 397 398 399 400 401 402 403 404 
+Sending ACK for 395
+
+Packet with sequence number 405 received
+########## Success ##########
+Sending ACK for 405
+
+Packet with sequence number 406 received
+########## Success ##########
+Sending ACK for 406
+
+Packet with sequence number 407 received
+########## Success ##########
+Sending ACK for 407
+
+Packet with sequence number 408 received
+########## Success ##########
+Sending ACK for 408
+
+Packet with sequence number 409 received
+########## Success ##########
+Sending ACK for 409
+
+Packet with sequence number 410 received
+########## Success ##########
+Sending ACK for 410
+
+Packet with sequence number 411 received
+########## Success ##########
+Sending ACK for 411
+
+Packet with sequence number 412 received
+########## Success ##########
+Sending ACK for 412
+
+Packet with sequence number 413 received
+########## Success ##########
+Sending ACK for 413
+
+Packet with sequence number 414 received
+########## Success ##########
+Sending ACK for 414
+
+Packet with sequence number 415 received
+########## Success ##########
+Sending ACK for 415
+
+Packet with sequence number 416 received
+########## Success ##########
+Sending ACK for 416
+
+Packet with sequence number 417 received
+########## Success ##########
+Sending ACK for 417
+
+Packet with sequence number 418 received
+########## Success ##########
+Sending ACK for 418
+
+Packet with sequence number 419 received
+########## Success ##########
+Sending ACK for 419
+
+Packet with sequence number 420 received
+########## Success ##########
+Sending ACK for 420
+
+Packet with sequence number 421 received
+########## Success ##########
+Sending ACK for 421
+
+Packet with sequence number 422 received
+########## Success ##########
+Sending ACK for 422
+
+Packet with sequence number 423 received
+########## Success ##########
+Sending ACK for 423
+
+Packet with sequence number 424 received
+########## Success ##########
+Sending ACK for 424
+
+Packet with sequence number 425 received
+########## Success ##########
+Sending ACK for 425
+
+Packet with sequence number 426 received
+########## Success ##########
+Sending ACK for 426
+
+Packet with sequence number 427 received
+########## Success ##########
+Sending ACK for 427
+
+Packet with sequence number 428 received
+########## Success ##########
+Sending ACK for 428
+
+Packet with sequence number 429 received
+########## Success ##########
+Sending ACK for 429
+
+Packet with sequence number 430 received
+########## Success ##########
+Sending ACK for 430
+
+Packet with sequence number 431 received
+########## Success ##########
+Sending ACK for 431
+
+Packet with sequence number 432 received
+########## Success ##########
+Sending ACK for 432
+
+Packet with sequence number 433 received
+########## Success ##########
+Sending ACK for 433
+
+Packet with sequence number 434 received
+########## Success ##########
+Sending ACK for 434
+
+Packet with sequence number 435 received
+########## Success ##########
+Sending ACK for 435
+
+Packet with sequence number 436 received
+########## Success ##########
+Sending ACK for 436
+
+Packet with sequence number 437 received
+########## Success ##########
+Sending ACK for 437
+
+Packet with sequence number 438 received
+########## Success ##########
+Sending ACK for 438
+
+Packet with sequence number 439 received
+########## Success ##########
+Sending ACK for 439
+
+Packet with sequence number 440 received
+########## Success ##########
+Sending ACK for 440
+
+Packet with sequence number 441 received
+########## Success ##########
+Sending ACK for 441
+
+Packet with sequence number 442 received
+########## Success ##########
+Sending ACK for 442
+
+Packet with sequence number 443 received
+########## Success ##########
+Sending ACK for 443
+
+Packet with sequence number 444 received
+########## Success ##########
+Sending ACK for 444
+
+Packet with sequence number 445 received
+########## Success ##########
+Sending ACK for 445
+
+XXXXXXXX 446 packet loss XXXXXXX
+
+Packet with sequence number 447 received
+Waiting for 446, But 447 received (buffered)
+Sending ACK for 447
+
+Packet with sequence number 448 received
+Waiting for 446, But 448 received (buffered)
+Sending ACK for 448
+
+Packet with sequence number 449 received
+Waiting for 446, But 449 received (buffered)
+Sending ACK for 449
+
+Packet with sequence number 450 received
+Waiting for 446, But 450 received (buffered)
+Sending ACK for 450
+
+Packet with sequence number 451 received
+Waiting for 446, But 451 received (buffered)
+Sending ACK for 451
+
+Packet with sequence number 452 received
+Waiting for 446, But 452 received (buffered)
+Sending ACK for 452
+
+Packet with sequence number 453 received
+Waiting for 446, But 453 received (buffered)
+Sending ACK for 453
+
+Packet with sequence number 454 received
+Waiting for 446, But 454 received (buffered)
+Sending ACK for 454
+
+Packet with sequence number 455 received
+Waiting for 446, But 455 received (buffered)
+Sending ACK for 455
+
+Packet with sequence number 446 received
+########## Success ##########
+Reassemble packet: 447 448 449 450 451 452 453 454 455 
+Sending ACK for 446
+
+Packet with sequence number 456 received
+########## Success ##########
+Sending ACK for 456
+
+Packet with sequence number 457 received
+########## Success ##########
+Sending ACK for 457
+
+Packet with sequence number 458 received
+########## Success ##########
+Sending ACK for 458
+
+Packet with sequence number 459 received
+########## Success ##########
+Sending ACK for 459
+
+XXXXXXXX 460 packet loss XXXXXXX
+
+Packet with sequence number 461 received
+Waiting for 460, But 461 received (buffered)
+Sending ACK for 461
+
+Packet with sequence number 462 received
+Waiting for 460, But 462 received (buffered)
+Sending ACK for 462
+
+Packet with sequence number 463 received
+Waiting for 460, But 463 received (buffered)
+Sending ACK for 463
+
+Packet with sequence number 464 received
+Waiting for 460, But 464 received (buffered)
+Sending ACK for 464
+
+Packet with sequence number 465 received
+Waiting for 460, But 465 received (buffered)
+Sending ACK for 465
+
+Packet with sequence number 466 received
+Waiting for 460, But 466 received (buffered)
+Sending ACK for 466
+
+Packet with sequence number 467 received
+Waiting for 460, But 467 received (buffered)
+Sending ACK for 467
+
+Packet with sequence number 468 received
+Waiting for 460, But 468 received (buffered)
+Sending ACK for 468
+
+XXXXXXXX 469 packet loss XXXXXXX
+
+Packet with sequence number 460 received
+########## Success ##########
+Reassemble packet: 461 462 463 464 465 466 467 468 
+Sending ACK for 460
+
+Packet with sequence number 470 received
+Waiting for 469, But 470 received (buffered)
+Sending ACK for 470
+
+Packet with sequence number 471 received
+Waiting for 469, But 471 received (buffered)
+Sending ACK for 471
+
+Packet with sequence number 472 received
+Waiting for 469, But 472 received (buffered)
+Sending ACK for 472
+
+Packet with sequence number 473 received
+Waiting for 469, But 473 received (buffered)
+Sending ACK for 473
+
+Packet with sequence number 474 received
+Waiting for 469, But 474 received (buffered)
+Sending ACK for 474
+
+Packet with sequence number 475 received
+Waiting for 469, But 475 received (buffered)
+Sending ACK for 475
+
+XXXXXXXX 476 packet loss XXXXXXX
+
+Packet with sequence number 477 received
+Waiting for 469, But 477 received (buffered)
+Sending ACK for 477
+
+Packet with sequence number 478 received
+Waiting for 469, But 478 received (buffered)
+Sending ACK for 478
+
+Packet with sequence number 469 received
+########## Success ##########
+Reassemble packet: 470 471 472 473 474 475 
+Sending ACK for 469
+
+Packet with sequence number 479 received
+Waiting for 476, But 479 received (buffered)
+Sending ACK for 479
+
+XXXXXXXX 480 packet loss XXXXXXX
+
+Packet with sequence number 481 received
+Waiting for 476, But 481 received (buffered)
+Sending ACK for 481
+
+Packet with sequence number 482 received
+Waiting for 476, But 482 received (buffered)
+Sending ACK for 482
+
+Packet with sequence number 483 received
+Waiting for 476, But 483 received (buffered)
+Sending ACK for 483
+
+Packet with sequence number 484 received
+Waiting for 476, But 484 received (buffered)
+Sending ACK for 484
+
+Packet with sequence number 485 received
+Waiting for 476, But 485 received (buffered)
+Sending ACK for 485
+
+Packet with sequence number 476 received
+########## Success ##########
+Reassemble packet: 477 478 479 
+Sending ACK for 476
+
+XXXXXXXX 486 packet loss XXXXXXX
+
+Packet with sequence number 487 received
+Waiting for 480, But 487 received (buffered)
+Sending ACK for 487
+
+Packet with sequence number 488 received
+Waiting for 480, But 488 received (buffered)
+Sending ACK for 488
+
+Packet with sequence number 489 received
+Waiting for 480, But 489 received (buffered)
+Sending ACK for 489
+
+Packet with sequence number 480 received
+########## Success ##########
+Reassemble packet: 481 482 483 484 485 
+Sending ACK for 480
+
+XXXXXXXX 490 packet loss XXXXXXX
+
+Packet with sequence number 491 received
+Waiting for 486, But 491 received (buffered)
+Sending ACK for 491
+
+XXXXXXXX 492 packet loss XXXXXXX
+
+Packet with sequence number 493 received
+Waiting for 486, But 493 received (buffered)
+Sending ACK for 493
+
+Packet with sequence number 494 received
+Waiting for 486, But 494 received (buffered)
+Sending ACK for 494
+
+Packet with sequence number 495 received
+Waiting for 486, But 495 received (buffered)
+Sending ACK for 495
+
+Packet with sequence number 486 received
+########## Success ##########
+Reassemble packet: 487 488 489 
+Sending ACK for 486
+
+Packet with sequence number 496 received
+Waiting for 490, But 496 received (buffered)
+Sending ACK for 496
+
+Packet with sequence number 497 received
+Waiting for 490, But 497 received (buffered)
+Sending ACK for 497
+
+XXXXXXXX 498 packet loss XXXXXXX
+
+Packet with sequence number 499 received
+Waiting for 490, But 499 received (buffered)
+Sending ACK for 499
+
+Packet with sequence number 490 received
+########## Success ##########
+Reassemble packet: 491 
+Sending ACK for 490
+
+Packet with sequence number 500 received
+Waiting for 492, But 500 received (buffered)
+Sending ACK for 500
+
+Packet with sequence number 501 received
+Waiting for 492, But 501 received (buffered)
+Sending ACK for 501
+
+Packet with sequence number 492 received
+########## Success ##########
+Reassemble packet: 493 494 495 496 497 
+Sending ACK for 492
+
+Packet with sequence number 502 received
+Waiting for 498, But 502 received (buffered)
+Sending ACK for 502
+
+XXXXXXXX 503 packet loss XXXXXXX
+
+XXXXXXXX 504 packet loss XXXXXXX
+
+Packet with sequence number 505 received
+Waiting for 498, But 505 received (buffered)
+Sending ACK for 505
+
+Packet with sequence number 506 received
+Waiting for 498, But 506 received (buffered)
+Sending ACK for 506
+
+Packet with sequence number 507 received
+Waiting for 498, But 507 received (buffered)
+Sending ACK for 507
+
+Packet with sequence number 498 received
+########## Success ##########
+Reassemble packet: 499 500 501 502 
+Sending ACK for 498
+
+Packet with sequence number 508 received
+Waiting for 503, But 508 received (buffered)
+Sending ACK for 508
+
+XXXXXXXX 509 packet loss XXXXXXX
+
+Packet with sequence number 510 received
+Waiting for 503, But 510 received (buffered)
+Sending ACK for 510
+
+Packet with sequence number 511 received
+Waiting for 503, But 511 received (buffered)
+Sending ACK for 511
+
+Packet with sequence number 512 received
+Waiting for 503, But 512 received (buffered)
+Sending ACK for 512
+
+Packet with sequence number 503 received
+########## Success ##########
+Reassemble packet: 
+Sending ACK for 503
+
+Packet with sequence number 513 received
+Waiting for 504, But 513 received (buffered)
+Sending ACK for 513
+
+Packet with sequence number 504 received
+########## Success ##########
+Reassemble packet: 505 506 507 508 
+Sending ACK for 504
+
+Packet with sequence number 514 received
+Waiting for 509, But 514 received (buffered)
+Sending ACK for 514
+
+XXXXXXXX 515 packet loss XXXXXXX
+
+Packet with sequence number 516 received
+Waiting for 509, But 516 received (buffered)
+Sending ACK for 516
+
+Packet with sequence number 517 received
+Waiting for 509, But 517 received (buffered)
+Sending ACK for 517
+
+Packet with sequence number 518 received
+Waiting for 509, But 518 received (buffered)
+Sending ACK for 518
+
+Packet with sequence number 509 received
+########## Success ##########
+Reassemble packet: 510 511 512 513 514 
+Sending ACK for 509
+
+Packet with sequence number 519 received
+Waiting for 515, But 519 received (buffered)
+Sending ACK for 519
+
+Packet with sequence number 520 received
+Waiting for 515, But 520 received (buffered)
+Sending ACK for 520
+
+Packet with sequence number 521 received
+Waiting for 515, But 521 received (buffered)
+Sending ACK for 521
+
+Packet with sequence number 522 received
+Waiting for 515, But 522 received (buffered)
+Sending ACK for 522
+
+Packet with sequence number 523 received
+Waiting for 515, But 523 received (buffered)
+Sending ACK for 523
+
+Packet with sequence number 524 received
+Waiting for 515, But 524 received (buffered)
+Sending ACK for 524
+
+XXXXXXXX 515 packet loss XXXXXXX
+
+Packet with sequence number 515 received
+########## Success ##########
+Reassemble packet: 516 517 518 519 520 521 522 523 524 
+Sending ACK for 515
+
+Packet with sequence number 525 received
+########## Success ##########
+Sending ACK for 525
+
+Packet with sequence number 526 received
+########## Success ##########
+Sending ACK for 526
+
+Packet with sequence number 527 received
+########## Success ##########
+Sending ACK for 527
+
+Packet with sequence number 528 received
+########## Success ##########
+Sending ACK for 528
+
+Packet with sequence number 529 received
+########## Success ##########
+Sending ACK for 529
+
+Packet with sequence number 530 received
+########## Success ##########
+Sending ACK for 530
+
+Packet with sequence number 531 received
+########## Success ##########
+Sending ACK for 531
+
+Packet with sequence number 532 received
+########## Success ##########
+Sending ACK for 532
+
+Packet with sequence number 533 received
+########## Success ##########
+Sending ACK for 533
+
+Packet with sequence number 534 received
+########## Success ##########
+Sending ACK for 534
+
+Packet with sequence number 535 received
+########## Success ##########
+Sending ACK for 535
+
+XXXXXXXX 536 packet loss XXXXXXX
+
+Packet with sequence number 537 received
+Waiting for 536, But 537 received (buffered)
+Sending ACK for 537
+
+XXXXXXXX 538 packet loss XXXXXXX
+
+Packet with sequence number 539 received
+Waiting for 536, But 539 received (buffered)
+Sending ACK for 539
+
+Packet with sequence number 540 received
+Waiting for 536, But 540 received (buffered)
+Sending ACK for 540
+
+Packet with sequence number 541 received
+Waiting for 536, But 541 received (buffered)
+Sending ACK for 541
+
+Packet with sequence number 542 received
+Waiting for 536, But 542 received (buffered)
+Sending ACK for 542
+
+Packet with sequence number 543 received
+Waiting for 536, But 543 received (buffered)
+Sending ACK for 543
+
+Packet with sequence number 544 received
+Waiting for 536, But 544 received (buffered)
+Sending ACK for 544
+
+Packet with sequence number 545 received
+Waiting for 536, But 545 received (buffered)
+Sending ACK for 545
+
+Packet with sequence number 536 received
+########## Success ##########
+Reassemble packet: 537 
+Sending ACK for 536
+
+XXXXXXXX 546 packet loss XXXXXXX
+
+Packet with sequence number 547 received
+Waiting for 538, But 547 received (buffered)
+Sending ACK for 547
+
+Packet with sequence number 538 received
+########## Success ##########
+Reassemble packet: 539 540 541 542 543 544 545 
+Sending ACK for 538
+
+Packet with sequence number 548 received
+Waiting for 546, But 548 received (buffered)
+Sending ACK for 548
+
+Packet with sequence number 549 received
+Waiting for 546, But 549 received (buffered)
+Sending ACK for 549
+
+Packet with sequence number 550 received
+Waiting for 546, But 550 received (buffered)
+Sending ACK for 550
+
+Packet with sequence number 551 received
+Waiting for 546, But 551 received (buffered)
+Sending ACK for 551
+
+Packet with sequence number 552 received
+Waiting for 546, But 552 received (buffered)
+Sending ACK for 552
+
+Packet with sequence number 553 received
+Waiting for 546, But 553 received (buffered)
+Sending ACK for 553
+
+Packet with sequence number 554 received
+Waiting for 546, But 554 received (buffered)
+Sending ACK for 554
+
+XXXXXXXX 555 packet loss XXXXXXX
+
+XXXXXXXX 546 packet loss XXXXXXX
+
+Packet with sequence number 546 received
+########## Success ##########
+Reassemble packet: 547 548 549 550 551 552 553 554 
+Sending ACK for 546
+
+Packet with sequence number 556 received
+Waiting for 555, But 556 received (buffered)
+Sending ACK for 556
+
+Packet with sequence number 557 received
+Waiting for 555, But 557 received (buffered)
+Sending ACK for 557
+
+Packet with sequence number 558 received
+Waiting for 555, But 558 received (buffered)
+Sending ACK for 558
+
+Packet with sequence number 559 received
+Waiting for 555, But 559 received (buffered)
+Sending ACK for 559
+
+Packet with sequence number 560 received
+Waiting for 555, But 560 received (buffered)
+Sending ACK for 560
+
+Packet with sequence number 561 received
+Waiting for 555, But 561 received (buffered)
+Sending ACK for 561
+
+Packet with sequence number 562 received
+Waiting for 555, But 562 received (buffered)
+Sending ACK for 562
+
+Packet with sequence number 563 received
+Waiting for 555, But 563 received (buffered)
+Sending ACK for 563
+
+Packet with sequence number 564 received
+Waiting for 555, But 564 received (buffered)
+Sending ACK for 564
+
+Packet with sequence number 555 received
+########## Success ##########
+Reassemble packet: 556 557 558 559 560 561 562 563 564 
+Sending ACK for 555
+
+Packet with sequence number 565 received
+########## Success ##########
+Sending ACK for 565
+
+Packet with sequence number 566 received
+########## Success ##########
+Sending ACK for 566
+
+Packet with sequence number 567 received
+########## Success ##########
+Sending ACK for 567
+
+Packet with sequence number 568 received
+########## Success ##########
+Sending ACK for 568
+
+Packet with sequence number 569 received
+########## Success ##########
+Sending ACK for 569
+
+Packet with sequence number 570 received
+########## Success ##########
+Sending ACK for 570
+
+Packet with sequence number 571 received
+########## Success ##########
+Sending ACK for 571
+
+Packet with sequence number 572 received
+########## Success ##########
+Sending ACK for 572
+
+Packet with sequence number 573 received
+########## Success ##########
+Sending ACK for 573
+
+Packet with sequence number 574 received
+########## Success ##########
+Sending ACK for 574
+
+Packet with sequence number 575 received
+########## Success ##########
+Sending ACK for 575
+
+Packet with sequence number 576 received
+########## Success ##########
+Sending ACK for 576
+
+Packet with sequence number 577 received
+########## Success ##########
+Sending ACK for 577
+
+Packet with sequence number 578 received
+########## Success ##########
+Sending ACK for 578
+
+Packet with sequence number 579 received
+########## Success ##########
+Sending ACK for 579
+
+Packet with sequence number 580 received
+########## Success ##########
+Sending ACK for 580
+
+Packet with sequence number 581 received
+########## Success ##########
+Sending ACK for 581
+
+Packet with sequence number 582 received
+########## Success ##########
+Sending ACK for 582
+
+Packet with sequence number 583 received
+########## Success ##########
+Sending ACK for 583
+
+Packet with sequence number 584 received
+########## Success ##########
+Sending ACK for 584
+
+Packet with sequence number 585 received
+########## Success ##########
+Sending ACK for 585
+
+Packet with sequence number 586 received
+########## Success ##########
+Sending ACK for 586
+
+Packet with sequence number 587 received
+########## Success ##########
+Sending ACK for 587
+
+XXXXXXXX 588 packet loss XXXXXXX
+
+Packet with sequence number 589 received
+Waiting for 588, But 589 received (buffered)
+Sending ACK for 589
+
+Packet with sequence number 590 received
+Waiting for 588, But 590 received (buffered)
+Sending ACK for 590
+
+Packet with sequence number 591 received
+Waiting for 588, But 591 received (buffered)
+Sending ACK for 591
+
+Packet with sequence number 592 received
+Waiting for 588, But 592 received (buffered)
+Sending ACK for 592
+
+Packet with sequence number 593 received
+Waiting for 588, But 593 received (buffered)
+Sending ACK for 593
+
+Packet with sequence number 594 received
+Waiting for 588, But 594 received (buffered)
+Sending ACK for 594
+
+Packet with sequence number 595 received
+Waiting for 588, But 595 received (buffered)
+Sending ACK for 595
+
+Packet with sequence number 596 received
+Waiting for 588, But 596 received (buffered)
+Sending ACK for 596
+
+Packet with sequence number 597 received
+Waiting for 588, But 597 received (buffered)
+Sending ACK for 597
+
+Packet with sequence number 588 received
+########## Success ##########
+Reassemble packet: 589 590 591 592 593 594 595 596 597 
+Sending ACK for 588
+
+Packet with sequence number 598 received
+########## Success ##########
+Sending ACK for 598
+
+Packet with sequence number 599 received
+########## Success ##########
+Sending ACK for 599
+
+Packet with sequence number 600 received
+########## Success ##########
+Sending ACK for 600
+
+Packet with sequence number 601 received
+########## Success ##########
+Sending ACK for 601
+
+Packet with sequence number 602 received
+########## Success ##########
+Sending ACK for 602
+
+Packet with sequence number 603 received
+########## Success ##########
+Sending ACK for 603
+
+Packet with sequence number 604 received
+########## Success ##########
+Sending ACK for 604
+
+Packet with sequence number 605 received
+########## Success ##########
+Sending ACK for 605
+
+Packet with sequence number 606 received
+########## Success ##########
+Sending ACK for 606
+
+Packet with sequence number 607 received
+########## Success ##########
+Sending ACK for 607
+
+Packet with sequence number 608 received
+########## Success ##########
+Sending ACK for 608
+
+Packet with sequence number 609 received
+########## Success ##########
+Sending ACK for 609
+
+Packet with sequence number 610 received
+########## Success ##########
+Sending ACK for 610
+
+Packet with sequence number 611 received
+########## Success ##########
+Sending ACK for 611
+
+Packet with sequence number 612 received
+########## Success ##########
+Sending ACK for 612
+
+Packet with sequence number 613 received
+########## Success ##########
+Sending ACK for 613
+
+Packet with sequence number 614 received
+########## Success ##########
+Sending ACK for 614
+
+Packet with sequence number 615 received
+########## Success ##########
+Sending ACK for 615
+
+Packet with sequence number 616 received
+########## Success ##########
+Sending ACK for 616
+
+Packet with sequence number 617 received
+########## Success ##########
+Sending ACK for 617
+
+Packet with sequence number 618 received
+########## Success ##########
+Sending ACK for 618
+
+Packet with sequence number 619 received
+########## Success ##########
+Sending ACK for 619
+
+Packet with sequence number 620 received
+########## Success ##########
+Sending ACK for 620
+
+Packet with sequence number 621 received
+########## Success ##########
+Sending ACK for 621
+
+Packet with sequence number 622 received
+########## Success ##########
+Sending ACK for 622
+
+Packet with sequence number 623 received
+########## Success ##########
+Sending ACK for 623
+
+Packet with sequence number 624 received
+########## Success ##########
+Sending ACK for 624
+
+Packet with sequence number 625 received
+########## Success ##########
+Sending ACK for 625
+
+Packet with sequence number 626 received
+########## Success ##########
+Sending ACK for 626
+
+Packet with sequence number 627 received
+########## Success ##########
+Sending ACK for 627
+
+Packet with sequence number 628 received
+########## Success ##########
+Sending ACK for 628
+
+Packet with sequence number 629 received
+########## Success ##########
+Sending ACK for 629
+
+Packet with sequence number 630 received
+########## Success ##########
+Sending ACK for 630
+
+Packet with sequence number 631 received
+########## Success ##########
+Sending ACK for 631
+
+Packet with sequence number 632 received
+########## Success ##########
+Sending ACK for 632
+
+Packet with sequence number 633 received
+########## Success ##########
+Sending ACK for 633
+
+Packet with sequence number 634 received
+########## Success ##########
+Sending ACK for 634
+
+Packet with sequence number 635 received
+########## Success ##########
+Sending ACK for 635
+
+Packet with sequence number 636 received
+########## Success ##########
+Sending ACK for 636
+
+Packet with sequence number 637 received
+########## Success ##########
+Sending ACK for 637
+
+Packet with sequence number 638 received
+########## Success ##########
+Sending ACK for 638
+
+Packet with sequence number 639 received
+########## Success ##########
+Sending ACK for 639
+
+XXXXXXXX 640 packet loss XXXXXXX
+
+Packet with sequence number 641 received
+Waiting for 640, But 641 received (buffered)
+Sending ACK for 641
+
+XXXXXXXX 642 packet loss XXXXXXX
+
+Packet with sequence number 643 received
+Waiting for 640, But 643 received (buffered)
+Sending ACK for 643
+
+Packet with sequence number 644 received
+Waiting for 640, But 644 received (buffered)
+Sending ACK for 644
+
+Packet with sequence number 645 received
+Waiting for 640, But 645 received (buffered)
+Sending ACK for 645
+
+Packet with sequence number 646 received
+Waiting for 640, But 646 received (buffered)
+Sending ACK for 646
+
+XXXXXXXX 647 packet loss XXXXXXX
+
+Packet with sequence number 648 received
+Waiting for 640, But 648 received (buffered)
+Sending ACK for 648
+
+Packet with sequence number 649 received
+Waiting for 640, But 649 received (buffered)
+Sending ACK for 649
+
+Packet with sequence number 640 received
+########## Success ##########
+Reassemble packet: 641 
+Sending ACK for 640
+
+Packet with sequence number 650 received
+Waiting for 642, But 650 received (buffered)
+Sending ACK for 650
+
+Packet with sequence number 651 received
+Waiting for 642, But 651 received (buffered)
+Sending ACK for 651
+
+Packet with sequence number 642 received
+########## Success ##########
+Reassemble packet: 643 644 645 646 
+Sending ACK for 642
+
+Packet with sequence number 652 received
+Waiting for 647, But 652 received (buffered)
+Sending ACK for 652
+
+Packet with sequence number 653 received
+Waiting for 647, But 653 received (buffered)
+Sending ACK for 653
+
+Packet with sequence number 654 received
+Waiting for 647, But 654 received (buffered)
+Sending ACK for 654
+
+Packet with sequence number 655 received
+Waiting for 647, But 655 received (buffered)
+Sending ACK for 655
+
+Packet with sequence number 656 received
+Waiting for 647, But 656 received (buffered)
+Sending ACK for 656
+
+Packet with sequence number 647 received
+########## Success ##########
+Reassemble packet: 648 649 650 651 652 653 654 655 656 
+Sending ACK for 647
+
+Packet with sequence number 657 received
+########## Success ##########
+Sending ACK for 657
+
+Packet with sequence number 658 received
+########## Success ##########
+Sending ACK for 658
+
+Packet with sequence number 659 received
+########## Success ##########
+Sending ACK for 659
+
+Packet with sequence number 660 received
+########## Success ##########
+Sending ACK for 660
+
+Packet with sequence number 661 received
+########## Success ##########
+Sending ACK for 661
+
+Packet with sequence number 662 received
+########## Success ##########
+Sending ACK for 662
+
+Packet with sequence number 663 received
+########## Success ##########
+Sending ACK for 663
+
+Packet with sequence number 664 received
+########## Success ##########
+Sending ACK for 664
+
+Packet with sequence number 665 received
+########## Success ##########
+Sending ACK for 665
+
+Packet with sequence number 666 received
+########## Success ##########
+Sending ACK for 666
+
+XXXXXXXX 667 packet loss XXXXXXX
+
+Packet with sequence number 668 received
+Waiting for 667, But 668 received (buffered)
+Sending ACK for 668
+
+Packet with sequence number 669 received
+Waiting for 667, But 669 received (buffered)
+Sending ACK for 669
+
+Packet with sequence number 670 received
+Waiting for 667, But 670 received (buffered)
+Sending ACK for 670
+
+Packet with sequence number 671 received
+Waiting for 667, But 671 received (buffered)
+Sending ACK for 671
+
+Packet with sequence number 672 received
+Waiting for 667, But 672 received (buffered)
+Sending ACK for 672
+
+Packet with sequence number 673 received
+Waiting for 667, But 673 received (buffered)
+Sending ACK for 673
+
+Packet with sequence number 674 received
+Waiting for 667, But 674 received (buffered)
+Sending ACK for 674
+
+Packet with sequence number 675 received
+Waiting for 667, But 675 received (buffered)
+Sending ACK for 675
+
+Packet with sequence number 676 received
+Waiting for 667, But 676 received (buffered)
+Sending ACK for 676
+
+Packet with sequence number 667 received
+########## Success ##########
+Reassemble packet: 668 669 670 671 672 673 674 675 676 
+Sending ACK for 667
+
+Packet with sequence number 677 received
+########## Success ##########
+Sending ACK for 677
+
+Packet with sequence number 678 received
+########## Success ##########
+Sending ACK for 678
+
+Packet with sequence number 679 received
+########## Success ##########
+Sending ACK for 679
+
+Packet with sequence number 680 received
+########## Success ##########
+Sending ACK for 680
+
+Packet with sequence number 681 received
+########## Success ##########
+Sending ACK for 681
+
+Packet with sequence number 682 received
+########## Success ##########
+Sending ACK for 682
+
+Packet with sequence number 683 received
+########## Success ##########
+Sending ACK for 683
+
+Packet with sequence number 684 received
+########## Success ##########
+Sending ACK for 684
+
+XXXXXXXX 685 packet loss XXXXXXX
+
+Packet with sequence number 686 received
+Waiting for 685, But 686 received (buffered)
+Sending ACK for 686
+
+Packet with sequence number 687 received
+Waiting for 685, But 687 received (buffered)
+Sending ACK for 687
+
+Packet with sequence number 688 received
+Waiting for 685, But 688 received (buffered)
+Sending ACK for 688
+
+Packet with sequence number 689 received
+Waiting for 685, But 689 received (buffered)
+Sending ACK for 689
+
+Packet with sequence number 690 received
+Waiting for 685, But 690 received (buffered)
+Sending ACK for 690
+
+Packet with sequence number 691 received
+Waiting for 685, But 691 received (buffered)
+Sending ACK for 691
+
+Packet with sequence number 692 received
+Waiting for 685, But 692 received (buffered)
+Sending ACK for 692
+
+Packet with sequence number 693 received
+Waiting for 685, But 693 received (buffered)
+Sending ACK for 693
+
+Packet with sequence number 694 received
+Waiting for 685, But 694 received (buffered)
+Sending ACK for 694
+
+Packet with sequence number 685 received
+########## Success ##########
+Reassemble packet: 686 687 688 689 690 691 692 693 694 
+Sending ACK for 685
+
+Packet with sequence number 695 received
+########## Success ##########
+Sending ACK for 695
+
+Packet with sequence number 696 received
+########## Success ##########
+Sending ACK for 696
+
+Packet with sequence number 697 received
+########## Success ##########
+Sending ACK for 697
+
+Packet with sequence number 698 received
+########## Success ##########
+Sending ACK for 698
+
+Packet with sequence number 699 received
+########## Success ##########
+Sending ACK for 699
+
+Packet with sequence number 700 received
+########## Success ##########
+Sending ACK for 700
+
+Packet with sequence number 701 received
+########## Success ##########
+Sending ACK for 701
+
+Packet with sequence number 702 received
+########## Success ##########
+Sending ACK for 702
+
+Packet with sequence number 703 received
+########## Success ##########
+Sending ACK for 703
+
+Packet with sequence number 704 received
+########## Success ##########
+Sending ACK for 704
+
+XXXXXXXX 705 packet loss XXXXXXX
+
+XXXXXXXX 706 packet loss XXXXXXX
+
+Packet with sequence number 707 received
+Waiting for 705, But 707 received (buffered)
+Sending ACK for 707
+
+Packet with sequence number 708 received
+Waiting for 705, But 708 received (buffered)
+Sending ACK for 708
+
+Packet with sequence number 709 received
+Waiting for 705, But 709 received (buffered)
+Sending ACK for 709
+
+Packet with sequence number 710 received
+Waiting for 705, But 710 received (buffered)
+Sending ACK for 710
+
+Packet with sequence number 711 received
+Waiting for 705, But 711 received (buffered)
+Sending ACK for 711
+
+Packet with sequence number 712 received
+Waiting for 705, But 712 received (buffered)
+Sending ACK for 712
+
+Packet with sequence number 713 received
+Waiting for 705, But 713 received (buffered)
+Sending ACK for 713
+
+Packet with sequence number 714 received
+Waiting for 705, But 714 received (buffered)
+Sending ACK for 714
+
+Packet with sequence number 705 received
+########## Success ##########
+Reassemble packet: 
+Sending ACK for 705
+
+Packet with sequence number 715 received
+Waiting for 706, But 715 received (buffered)
+Sending ACK for 715
+
+Packet with sequence number 706 received
+########## Success ##########
+Reassemble packet: 707 708 709 710 711 712 713 714 715 
+Sending ACK for 706
+
+Packet with sequence number 716 received
+########## Success ##########
+Sending ACK for 716
+
+Packet with sequence number 717 received
+########## Success ##########
+Sending ACK for 717
+
+Packet with sequence number 718 received
+########## Success ##########
+Sending ACK for 718
+
+Packet with sequence number 719 received
+########## Success ##########
+Sending ACK for 719
+
+Packet with sequence number 720 received
+########## Success ##########
+Sending ACK for 720
+
+Packet with sequence number 721 received
+########## Success ##########
+Sending ACK for 721
+
+Packet with sequence number 722 received
+########## Success ##########
+Sending ACK for 722
+
+Packet with sequence number 723 received
+########## Success ##########
+Sending ACK for 723
+
+Packet with sequence number 724 received
+########## Success ##########
+Sending ACK for 724
+
+Packet with sequence number 725 received
+########## Success ##########
+Sending ACK for 725
+
+Packet with sequence number 726 received
+########## Success ##########
+Sending ACK for 726
+
+Packet with sequence number 727 received
+########## Success ##########
+Sending ACK for 727
+
+Packet with sequence number 728 received
+########## Success ##########
+Sending ACK for 728
+
+Packet with sequence number 729 received
+########## Success ##########
+Sending ACK for 729
+
+Packet with sequence number 730 received
+########## Success ##########
+Sending ACK for 730
+
+Packet with sequence number 731 received
+########## Success ##########
+Sending ACK for 731
+
+Packet with sequence number 732 received
+########## Success ##########
+Sending ACK for 732
+
+XXXXXXXX 733 packet loss XXXXXXX
+
+Packet with sequence number 734 received
+Waiting for 733, But 734 received (buffered)
+Sending ACK for 734
+
+Packet with sequence number 735 received
+Waiting for 733, But 735 received (buffered)
+Sending ACK for 735
+
+Packet with sequence number 736 received
+Waiting for 733, But 736 received (buffered)
+Sending ACK for 736
+
+Packet with sequence number 737 received
+Waiting for 733, But 737 received (buffered)
+Sending ACK for 737
+
+Packet with sequence number 738 received
+Waiting for 733, But 738 received (buffered)
+Sending ACK for 738
+
+Packet with sequence number 739 received
+Waiting for 733, But 739 received (buffered)
+Sending ACK for 739
+
+Packet with sequence number 740 received
+Waiting for 733, But 740 received (buffered)
+Sending ACK for 740
+
+Packet with sequence number 741 received
+Waiting for 733, But 741 received (buffered)
+Sending ACK for 741
+
+Packet with sequence number 742 received
+Waiting for 733, But 742 received (buffered)
+Sending ACK for 742
+
+Packet with sequence number 733 received
+########## Success ##########
+Reassemble packet: 734 735 736 737 738 739 740 741 742 
+Sending ACK for 733
+
+Packet with sequence number 743 received
+########## Success ##########
+Sending ACK for 743
+
+Packet with sequence number 744 received
+########## Success ##########
+Sending ACK for 744
+
+XXXXXXXX 745 packet loss XXXXXXX
+
+Packet with sequence number 746 received
+Waiting for 745, But 746 received (buffered)
+Sending ACK for 746
+
+Packet with sequence number 747 received
+Waiting for 745, But 747 received (buffered)
+Sending ACK for 747
+
+Packet with sequence number 748 received
+Waiting for 745, But 748 received (buffered)
+Sending ACK for 748
+
+Packet with sequence number 749 received
+Waiting for 745, But 749 received (buffered)
+Sending ACK for 749
+
+Packet with sequence number 750 received
+Waiting for 745, But 750 received (buffered)
+Sending ACK for 750
+
+Packet with sequence number 751 received
+Waiting for 745, But 751 received (buffered)
+Sending ACK for 751
+
+Packet with sequence number 752 received
+Waiting for 745, But 752 received (buffered)
+Sending ACK for 752
+
+Packet with sequence number 753 received
+Waiting for 745, But 753 received (buffered)
+Sending ACK for 753
+
+Packet with sequence number 754 received
+Waiting for 745, But 754 received (buffered)
+Sending ACK for 754
+
+Packet with sequence number 745 received
+########## Success ##########
+Reassemble packet: 746 747 748 749 750 751 752 753 754 
+Sending ACK for 745
+
+Packet with sequence number 755 received
+########## Success ##########
+Sending ACK for 755
+
+Packet with sequence number 756 received
+########## Success ##########
+Sending ACK for 756
+
+Packet with sequence number 757 received
+########## Success ##########
+Sending ACK for 757
+
+Packet with sequence number 758 received
+########## Success ##########
+Sending ACK for 758
+
+Packet with sequence number 759 received
+########## Success ##########
+Sending ACK for 759
+
+Packet with sequence number 760 received
+########## Success ##########
+Sending ACK for 760
+
+Packet with sequence number 761 received
+########## Success ##########
+Sending ACK for 761
+
+Packet with sequence number 762 received
+########## Success ##########
+Sending ACK for 762
+
+Packet with sequence number 763 received
+########## Success ##########
+Sending ACK for 763
+
+Packet with sequence number 764 received
+########## Success ##########
+Sending ACK for 764
+
+Packet with sequence number 765 received
+########## Success ##########
+Sending ACK for 765
+
+Packet with sequence number 766 received
+########## Success ##########
+Sending ACK for 766
+
+Packet with sequence number 767 received
+########## Success ##########
+Sending ACK for 767
+
+Packet with sequence number 768 received
+########## Success ##########
+Sending ACK for 768
+
+XXXXXXXX 769 packet loss XXXXXXX
+
+Packet with sequence number 770 received
+Waiting for 769, But 770 received (buffered)
+Sending ACK for 770
+
+Packet with sequence number 771 received
+Waiting for 769, But 771 received (buffered)
+Sending ACK for 771
+
+Packet with sequence number 772 received
+Waiting for 769, But 772 received (buffered)
+Sending ACK for 772
+
+Packet with sequence number 773 received
+Waiting for 769, But 773 received (buffered)
+Sending ACK for 773
+
+Packet with sequence number 774 received
+Waiting for 769, But 774 received (buffered)
+Sending ACK for 774
+
+Packet with sequence number 775 received
+Waiting for 769, But 775 received (buffered)
+Sending ACK for 775
+
+XXXXXXXX 776 packet loss XXXXXXX
+
+XXXXXXXX 777 packet loss XXXXXXX
+
+Packet with sequence number 778 received
+Waiting for 769, But 778 received (buffered)
+Sending ACK for 778
+
+Packet with sequence number 769 received
+########## Success ##########
+Reassemble packet: 770 771 772 773 774 775 
+Sending ACK for 769
+
+Packet with sequence number 779 received
+Waiting for 776, But 779 received (buffered)
+Sending ACK for 779
+
+Packet with sequence number 780 received
+Waiting for 776, But 780 received (buffered)
+Sending ACK for 780
+
+Packet with sequence number 781 received
+Waiting for 776, But 781 received (buffered)
+Sending ACK for 781
+
+Packet with sequence number 782 received
+Waiting for 776, But 782 received (buffered)
+Sending ACK for 782
+
+Packet with sequence number 783 received
+Waiting for 776, But 783 received (buffered)
+Sending ACK for 783
+
+Packet with sequence number 784 received
+Waiting for 776, But 784 received (buffered)
+Sending ACK for 784
+
+Packet with sequence number 785 received
+Waiting for 776, But 785 received (buffered)
+Sending ACK for 785
+
+Packet with sequence number 776 received
+########## Success ##########
+Reassemble packet: 
+Sending ACK for 776
+
+Packet with sequence number 786 received
+Waiting for 777, But 786 received (buffered)
+Sending ACK for 786
+
+Packet with sequence number 777 received
+########## Success ##########
+Reassemble packet: 778 779 780 781 782 783 784 785 786 
+Sending ACK for 777
+
+Packet with sequence number 787 received
+########## Success ##########
+Sending ACK for 787
+
+Packet with sequence number 788 received
+########## Success ##########
+Sending ACK for 788
+
+Packet with sequence number 789 received
+########## Success ##########
+Sending ACK for 789
+
+Packet with sequence number 790 received
+########## Success ##########
+Sending ACK for 790
+
+Packet with sequence number 791 received
+########## Success ##########
+Sending ACK for 791
+
+Packet with sequence number 792 received
+########## Success ##########
+Sending ACK for 792
+
+Packet with sequence number 793 received
+########## Success ##########
+Sending ACK for 793
+
+Packet with sequence number 794 received
+########## Success ##########
+Sending ACK for 794
+
+Packet with sequence number 795 received
+########## Success ##########
+Sending ACK for 795
+
+Packet with sequence number 796 received
+########## Success ##########
+Sending ACK for 796
+
+XXXXXXXX 797 packet loss XXXXXXX
+
+Packet with sequence number 798 received
+Waiting for 797, But 798 received (buffered)
+Sending ACK for 798
+
+Packet with sequence number 799 received
+Waiting for 797, But 799 received (buffered)
+Sending ACK for 799
+
+Packet with sequence number 800 received
+Waiting for 797, But 800 received (buffered)
+Sending ACK for 800
+
+Packet with sequence number 801 received
+Waiting for 797, But 801 received (buffered)
+Sending ACK for 801
+
+Packet with sequence number 802 received
+Waiting for 797, But 802 received (buffered)
+Sending ACK for 802
+
+Packet with sequence number 803 received
+Waiting for 797, But 803 received (buffered)
+Sending ACK for 803
+
+Packet with sequence number 804 received
+Waiting for 797, But 804 received (buffered)
+Sending ACK for 804
+
+Packet with sequence number 805 received
+Waiting for 797, But 805 received (buffered)
+Sending ACK for 805
+
+XXXXXXXX 806 packet loss XXXXXXX
+
+Packet with sequence number 797 received
+########## Success ##########
+Reassemble packet: 798 799 800 801 802 803 804 805 
+Sending ACK for 797
+
+XXXXXXXX 807 packet loss XXXXXXX
+
+Packet with sequence number 808 received
+Waiting for 806, But 808 received (buffered)
+Sending ACK for 808
+
+Packet with sequence number 809 received
+Waiting for 806, But 809 received (buffered)
+Sending ACK for 809
+
+Packet with sequence number 810 received
+Waiting for 806, But 810 received (buffered)
+Sending ACK for 810
+
+Packet with sequence number 811 received
+Waiting for 806, But 811 received (buffered)
+Sending ACK for 811
+
+Packet with sequence number 812 received
+Waiting for 806, But 812 received (buffered)
+Sending ACK for 812
+
+Packet with sequence number 813 received
+Waiting for 806, But 813 received (buffered)
+Sending ACK for 813
+
+Packet with sequence number 814 received
+Waiting for 806, But 814 received (buffered)
+Sending ACK for 814
+
+Packet with sequence number 815 received
+Waiting for 806, But 815 received (buffered)
+Sending ACK for 815
+
+Packet with sequence number 806 received
+########## Success ##########
+Reassemble packet: 
+Sending ACK for 806
+
+Packet with sequence number 816 received
+Waiting for 807, But 816 received (buffered)
+Sending ACK for 816
+
+Packet with sequence number 807 received
+########## Success ##########
+Reassemble packet: 808 809 810 811 812 813 814 815 816 
+Sending ACK for 807
+
+Packet with sequence number 817 received
+########## Success ##########
+Sending ACK for 817
+
+Packet with sequence number 818 received
+########## Success ##########
+Sending ACK for 818
+
+Packet with sequence number 819 received
+########## Success ##########
+Sending ACK for 819
+
+Packet with sequence number 820 received
+########## Success ##########
+Sending ACK for 820
+
+XXXXXXXX 821 packet loss XXXXXXX
+
+Packet with sequence number 822 received
+Waiting for 821, But 822 received (buffered)
+Sending ACK for 822
+
+XXXXXXXX 823 packet loss XXXXXXX
+
+Packet with sequence number 824 received
+Waiting for 821, But 824 received (buffered)
+Sending ACK for 824
+
+Packet with sequence number 825 received
+Waiting for 821, But 825 received (buffered)
+Sending ACK for 825
+
+Packet with sequence number 826 received
+Waiting for 821, But 826 received (buffered)
+Sending ACK for 826
+
+Packet with sequence number 827 received
+Waiting for 821, But 827 received (buffered)
+Sending ACK for 827
+
+Packet with sequence number 828 received
+Waiting for 821, But 828 received (buffered)
+Sending ACK for 828
+
+Packet with sequence number 829 received
+Waiting for 821, But 829 received (buffered)
+Sending ACK for 829
+
+Packet with sequence number 830 received
+Waiting for 821, But 830 received (buffered)
+Sending ACK for 830
+
+Packet with sequence number 821 received
+########## Success ##########
+Reassemble packet: 822 
+Sending ACK for 821
+
+Packet with sequence number 831 received
+Waiting for 823, But 831 received (buffered)
+Sending ACK for 831
+
+XXXXXXXX 832 packet loss XXXXXXX
+
+Packet with sequence number 823 received
+########## Success ##########
+Reassemble packet: 824 825 826 827 828 829 830 831 
+Sending ACK for 823
+
+Packet with sequence number 833 received
+Waiting for 832, But 833 received (buffered)
+Sending ACK for 833
+
+XXXXXXXX 834 packet loss XXXXXXX
+
+XXXXXXXX 835 packet loss XXXXXXX
+
+Packet with sequence number 836 received
+Waiting for 832, But 836 received (buffered)
+Sending ACK for 836
+
+XXXXXXXX 837 packet loss XXXXXXX
+
+Packet with sequence number 838 received
+Waiting for 832, But 838 received (buffered)
+Sending ACK for 838
+
+Packet with sequence number 839 received
+Waiting for 832, But 839 received (buffered)
+Sending ACK for 839
+
+Packet with sequence number 840 received
+Waiting for 832, But 840 received (buffered)
+Sending ACK for 840
+
+Packet with sequence number 841 received
+Waiting for 832, But 841 received (buffered)
+Sending ACK for 841
+
+Packet with sequence number 832 received
+########## Success ##########
+Reassemble packet: 833 
+Sending ACK for 832
+
+Packet with sequence number 842 received
+Waiting for 834, But 842 received (buffered)
+Sending ACK for 842
+
+Packet with sequence number 843 received
+Waiting for 834, But 843 received (buffered)
+Sending ACK for 843
+
+Packet with sequence number 834 received
+########## Success ##########
+Reassemble packet: 
+Sending ACK for 834
+
+Packet with sequence number 844 received
+Waiting for 835, But 844 received (buffered)
+Sending ACK for 844
+
+Packet with sequence number 835 received
+########## Success ##########
+Reassemble packet: 836 
+Sending ACK for 835
+
+Packet with sequence number 845 received
+Waiting for 837, But 845 received (buffered)
+Sending ACK for 845
+
+Packet with sequence number 846 received
+Waiting for 837, But 846 received (buffered)
+Sending ACK for 846
+
+Packet with sequence number 837 received
+########## Success ##########
+Reassemble packet: 838 839 840 841 842 843 844 845 846 
+Sending ACK for 837
+
+Packet with sequence number 847 received
+########## Success ##########
+Sending ACK for 847
+
+Packet with sequence number 848 received
+########## Success ##########
+Sending ACK for 848
+
+Packet with sequence number 849 received
+########## Success ##########
+Sending ACK for 849
+
+Packet with sequence number 850 received
+########## Success ##########
+Sending ACK for 850
+
+XXXXXXXX 851 packet loss XXXXXXX
+
+Packet with sequence number 852 received
+Waiting for 851, But 852 received (buffered)
+Sending ACK for 852
+
+Packet with sequence number 853 received
+Waiting for 851, But 853 received (buffered)
+Sending ACK for 853
+
+XXXXXXXX 854 packet loss XXXXXXX
+
+Packet with sequence number 855 received
+Waiting for 851, But 855 received (buffered)
+Sending ACK for 855
+
+Packet with sequence number 856 received
+Waiting for 851, But 856 received (buffered)
+Sending ACK for 856
+
+Packet with sequence number 857 received
+Waiting for 851, But 857 received (buffered)
+Sending ACK for 857
+
+Packet with sequence number 858 received
+Waiting for 851, But 858 received (buffered)
+Sending ACK for 858
+
+Packet with sequence number 859 received
+Waiting for 851, But 859 received (buffered)
+Sending ACK for 859
+
+Packet with sequence number 860 received
+Waiting for 851, But 860 received (buffered)
+Sending ACK for 860
+
+Packet with sequence number 851 received
+########## Success ##########
+Reassemble packet: 852 853 
+Sending ACK for 851
+
+Packet with sequence number 861 received
+Waiting for 854, But 861 received (buffered)
+Sending ACK for 861
+
+Packet with sequence number 862 received
+Waiting for 854, But 862 received (buffered)
+Sending ACK for 862
+
+XXXXXXXX 863 packet loss XXXXXXX
+
+Packet with sequence number 854 received
+########## Success ##########
+Reassemble packet: 855 856 857 858 859 860 861 862 
+Sending ACK for 854
+
+Packet with sequence number 864 received
+Waiting for 863, But 864 received (buffered)
+Sending ACK for 864
+
+Packet with sequence number 865 received
+Waiting for 863, But 865 received (buffered)
+Sending ACK for 865
+
+Packet with sequence number 866 received
+Waiting for 863, But 866 received (buffered)
+Sending ACK for 866
+
+Packet with sequence number 867 received
+Waiting for 863, But 867 received (buffered)
+Sending ACK for 867
+
+XXXXXXXX 868 packet loss XXXXXXX
+
+Packet with sequence number 869 received
+Waiting for 863, But 869 received (buffered)
+Sending ACK for 869
+
+Packet with sequence number 870 received
+Waiting for 863, But 870 received (buffered)
+Sending ACK for 870
+
+Packet with sequence number 871 received
+Waiting for 863, But 871 received (buffered)
+Sending ACK for 871
+
+Packet with sequence number 872 received
+Waiting for 863, But 872 received (buffered)
+Sending ACK for 872
+
+Packet with sequence number 863 received
+########## Success ##########
+Reassemble packet: 864 865 866 867 
+Sending ACK for 863
+
+Packet with sequence number 873 received
+Waiting for 868, But 873 received (buffered)
+Sending ACK for 873
+
+Packet with sequence number 874 received
+Waiting for 868, But 874 received (buffered)
+Sending ACK for 874
+
+Packet with sequence number 875 received
+Waiting for 868, But 875 received (buffered)
+Sending ACK for 875
+
+Packet with sequence number 876 received
+Waiting for 868, But 876 received (buffered)
+Sending ACK for 876
+
+Packet with sequence number 877 received
+Waiting for 868, But 877 received (buffered)
+Sending ACK for 877
+
+Packet with sequence number 868 received
+########## Success ##########
+Reassemble packet: 869 870 871 872 873 874 875 876 877 
+Sending ACK for 868
+
+Packet with sequence number 878 received
+########## Success ##########
+Sending ACK for 878
+
+Packet with sequence number 879 received
+########## Success ##########
+Sending ACK for 879
+
+Packet with sequence number 880 received
+########## Success ##########
+Sending ACK for 880
+
+Packet with sequence number 881 received
+########## Success ##########
+Sending ACK for 881
+
+Packet with sequence number 882 received
+########## Success ##########
+Sending ACK for 882
+
+Packet with sequence number 883 received
+########## Success ##########
+Sending ACK for 883
+
+Packet with sequence number 884 received
+########## Success ##########
+Sending ACK for 884
+
+Packet with sequence number 885 received
+########## Success ##########
+Sending ACK for 885
+
+XXXXXXXX 886 packet loss XXXXXXX
+
+Packet with sequence number 887 received
+Waiting for 886, But 887 received (buffered)
+Sending ACK for 887
+
+Packet with sequence number 888 received
+Waiting for 886, But 888 received (buffered)
+Sending ACK for 888
+
+Packet with sequence number 889 received
+Waiting for 886, But 889 received (buffered)
+Sending ACK for 889
+
+Packet with sequence number 890 received
+Waiting for 886, But 890 received (buffered)
+Sending ACK for 890
+
+Packet with sequence number 891 received
+Waiting for 886, But 891 received (buffered)
+Sending ACK for 891
+
+Packet with sequence number 892 received
+Waiting for 886, But 892 received (buffered)
+Sending ACK for 892
+
+Packet with sequence number 893 received
+Waiting for 886, But 893 received (buffered)
+Sending ACK for 893
+
+Packet with sequence number 894 received
+Waiting for 886, But 894 received (buffered)
+Sending ACK for 894
+
+Packet with sequence number 895 received
+Waiting for 886, But 895 received (buffered)
+Sending ACK for 895
+
+Packet with sequence number 886 received
+########## Success ##########
+Reassemble packet: 887 888 889 890 891 892 893 894 895 
+Sending ACK for 886
+
+Packet with sequence number 896 received
+########## Success ##########
+Sending ACK for 896
+
+XXXXXXXX 897 packet loss XXXXXXX
+
+Packet with sequence number 898 received
+Waiting for 897, But 898 received (buffered)
+Sending ACK for 898
+
+Packet with sequence number 899 received
+Waiting for 897, But 899 received (buffered)
+Sending ACK for 899
+
+Packet with sequence number 900 received
+Waiting for 897, But 900 received (buffered)
+Sending ACK for 900
+
+Packet with sequence number 901 received
+Waiting for 897, But 901 received (buffered)
+Sending ACK for 901
+
+Packet with sequence number 902 received
+Waiting for 897, But 902 received (buffered)
+Sending ACK for 902
+
+Packet with sequence number 903 received
+Waiting for 897, But 903 received (buffered)
+Sending ACK for 903
+
+Packet with sequence number 904 received
+Waiting for 897, But 904 received (buffered)
+Sending ACK for 904
+
+XXXXXXXX 905 packet loss XXXXXXX
+
+Packet with sequence number 906 received
+Waiting for 897, But 906 received (buffered)
+Sending ACK for 906
+
+Packet with sequence number 897 received
+########## Success ##########
+Reassemble packet: 898 899 900 901 902 903 904 
+Sending ACK for 897
+
+Packet with sequence number 907 received
+Waiting for 905, But 907 received (buffered)
+Sending ACK for 907
+
+Packet with sequence number 908 received
+Waiting for 905, But 908 received (buffered)
+Sending ACK for 908
+
+XXXXXXXX 909 packet loss XXXXXXX
+
+Packet with sequence number 910 received
+Waiting for 905, But 910 received (buffered)
+Sending ACK for 910
+
+Packet with sequence number 911 received
+Waiting for 905, But 911 received (buffered)
+Sending ACK for 911
+
+Packet with sequence number 912 received
+Waiting for 905, But 912 received (buffered)
+Sending ACK for 912
+
+Packet with sequence number 913 received
+Waiting for 905, But 913 received (buffered)
+Sending ACK for 913
+
+Packet with sequence number 914 received
+Waiting for 905, But 914 received (buffered)
+Sending ACK for 914
+
+Packet with sequence number 905 received
+########## Success ##########
+Reassemble packet: 906 907 908 
+Sending ACK for 905
+
+XXXXXXXX 915 packet loss XXXXXXX
+
+Packet with sequence number 916 received
+Waiting for 909, But 916 received (buffered)
+Sending ACK for 916
+
+XXXXXXXX 917 packet loss XXXXXXX
+
+XXXXXXXX 918 packet loss XXXXXXX
+
+Packet with sequence number 909 received
+########## Success ##########
+Reassemble packet: 910 911 912 913 914 
+Sending ACK for 909
+
+XXXXXXXX 919 packet loss XXXXXXX
+
+Packet with sequence number 920 received
+Waiting for 915, But 920 received (buffered)
+Sending ACK for 920
+
+Packet with sequence number 921 received
+Waiting for 915, But 921 received (buffered)
+Sending ACK for 921
+
+XXXXXXXX 922 packet loss XXXXXXX
+
+XXXXXXXX 923 packet loss XXXXXXX
+
+Packet with sequence number 924 received
+Waiting for 915, But 924 received (buffered)
+Sending ACK for 924
+
+Packet with sequence number 915 received
+########## Success ##########
+Reassemble packet: 916 
+Sending ACK for 915
+
+Packet with sequence number 925 received
+Waiting for 917, But 925 received (buffered)
+Sending ACK for 925
+
+XXXXXXXX 926 packet loss XXXXXXX
+
+XXXXXXXX 917 packet loss XXXXXXX
+
+Packet with sequence number 917 received
+########## Success ##########
+Reassemble packet: 
+Sending ACK for 917
+
+Packet with sequence number 927 received
+Waiting for 918, But 927 received (buffered)
+Sending ACK for 927
+
+Packet with sequence number 918 received
+########## Success ##########
+Reassemble packet: 
+Sending ACK for 918
+
+Packet with sequence number 928 received
+Waiting for 919, But 928 received (buffered)
+Sending ACK for 928
+
+Packet with sequence number 919 received
+########## Success ##########
+Reassemble packet: 920 921 
+Sending ACK for 919
+
+Packet with sequence number 929 received
+Waiting for 922, But 929 received (buffered)
+Sending ACK for 929
+
+Packet with sequence number 930 received
+Waiting for 922, But 930 received (buffered)
+Sending ACK for 930
+
+Packet with sequence number 931 received
+Waiting for 922, But 931 received (buffered)
+Sending ACK for 931
+
+Packet with sequence number 922 received
+########## Success ##########
+Reassemble packet: 
+Sending ACK for 922
+
+Packet with sequence number 932 received
+Waiting for 923, But 932 received (buffered)
+Sending ACK for 932
+
+XXXXXXXX 923 packet loss XXXXXXX
+
+Packet with sequence number 923 received
+########## Success ##########
+Reassemble packet: 924 925 
+Sending ACK for 923
+
+Packet with sequence number 933 received
+Waiting for 926, But 933 received (buffered)
+Sending ACK for 933
+
+Packet with sequence number 934 received
+Waiting for 926, But 934 received (buffered)
+Sending ACK for 934
+
+Packet with sequence number 935 received
+Waiting for 926, But 935 received (buffered)
+Sending ACK for 935
+
+Packet with sequence number 926 received
+########## Success ##########
+Reassemble packet: 927 928 929 930 931 932 933 934 935 
+Sending ACK for 926
+
+Packet with sequence number 936 received
+########## Success ##########
+Sending ACK for 936
+
+Packet with sequence number 937 received
+########## Success ##########
+Sending ACK for 937
+
+Packet with sequence number 938 received
+########## Success ##########
+Sending ACK for 938
+
+Packet with sequence number 939 received
+########## Success ##########
+Sending ACK for 939
+
+Packet with sequence number 940 received
+########## Success ##########
+Sending ACK for 940
+
+Packet with sequence number 941 received
+########## Success ##########
+Sending ACK for 941
+
+Packet with sequence number 942 received
+########## Success ##########
+Sending ACK for 942
+
+Packet with sequence number 943 received
+########## Success ##########
+Sending ACK for 943
+
+Packet with sequence number 944 received
+########## Success ##########
+Sending ACK for 944
+
+Packet with sequence number 945 received
+########## Success ##########
+Sending ACK for 945
+
+Packet with sequence number 946 received
+########## Success ##########
+Sending ACK for 946
+
+Packet with sequence number 947 received
+########## Success ##########
+Sending ACK for 947
+
+Packet with sequence number 948 received
+########## Success ##########
+Sending ACK for 948
+
+XXXXXXXX 949 packet loss XXXXXXX
+
+Packet with sequence number 950 received
+Waiting for 949, But 950 received (buffered)
+Sending ACK for 950
+
+Packet with sequence number 951 received
+Waiting for 949, But 951 received (buffered)
+Sending ACK for 951
+
+Packet with sequence number 952 received
+Waiting for 949, But 952 received (buffered)
+Sending ACK for 952
+
+Packet with sequence number 953 received
+Waiting for 949, But 953 received (buffered)
+Sending ACK for 953
+
+Packet with sequence number 954 received
+Waiting for 949, But 954 received (buffered)
+Sending ACK for 954
+
+Packet with sequence number 955 received
+Waiting for 949, But 955 received (buffered)
+Sending ACK for 955
+
+Packet with sequence number 956 received
+Waiting for 949, But 956 received (buffered)
+Sending ACK for 956
+
+Packet with sequence number 957 received
+Waiting for 949, But 957 received (buffered)
+Sending ACK for 957
+
+Packet with sequence number 958 received
+Waiting for 949, But 958 received (buffered)
+Sending ACK for 958
+
+Packet with sequence number 949 received
+########## Success ##########
+Reassemble packet: 950 951 952 953 954 955 956 957 958 
+Sending ACK for 949
+
+Packet with sequence number 959 received
+########## Success ##########
+Sending ACK for 959
+
+Packet with sequence number 960 received
+########## Success ##########
+Sending ACK for 960
+
+Packet with sequence number 961 received
+########## Success ##########
+Sending ACK for 961
+
+Packet with sequence number 962 received
+########## Success ##########
+Sending ACK for 962
+
+Packet with sequence number 963 received
+########## Success ##########
+Sending ACK for 963
+
+Packet with sequence number 964 received
+########## Success ##########
+Sending ACK for 964
+
+Packet with sequence number 965 received
+########## Success ##########
+Sending ACK for 965
+
+Packet with sequence number 966 received
+########## Success ##########
+Sending ACK for 966
+
+Packet with sequence number 967 received
+########## Success ##########
+Sending ACK for 967
+
+Packet with sequence number 968 received
+########## Success ##########
+Sending ACK for 968
+
+Packet with sequence number 969 received
+########## Success ##########
+Sending ACK for 969
+
+Packet with sequence number 970 received
+########## Success ##########
+Sending ACK for 970
+
+Packet with sequence number 971 received
+########## Success ##########
+Sending ACK for 971
+
+Packet with sequence number 972 received
+########## Success ##########
+Sending ACK for 972
+
+Packet with sequence number 973 received
+########## Success ##########
+Sending ACK for 973
+
+XXXXXXXX 974 packet loss XXXXXXX
+
+Packet with sequence number 975 received
+Waiting for 974, But 975 received (buffered)
+Sending ACK for 975
+
+Packet with sequence number 976 received
+Waiting for 974, But 976 received (buffered)
+Sending ACK for 976
+
+Packet with sequence number 977 received
+Waiting for 974, But 977 received (buffered)
+Sending ACK for 977
+
+Packet with sequence number 978 received
+Waiting for 974, But 978 received (buffered)
+Sending ACK for 978
+
+Packet with sequence number 979 received
+Waiting for 974, But 979 received (buffered)
+Sending ACK for 979
+
+XXXXXXXX 980 packet loss XXXXXXX
+
+Packet with sequence number 981 received
+Waiting for 974, But 981 received (buffered)
+Sending ACK for 981
+
+Packet with sequence number 982 received
+Waiting for 974, But 982 received (buffered)
+Sending ACK for 982
+
+Packet with sequence number 983 received
+Waiting for 974, But 983 received (buffered)
+Sending ACK for 983
+
+Packet with sequence number 974 received
+########## Success ##########
+Reassemble packet: 975 976 977 978 979 
+Sending ACK for 974
+
+Packet with sequence number 984 received
+Waiting for 980, But 984 received (buffered)
+Sending ACK for 984
+
+Packet with sequence number 985 received
+Waiting for 980, But 985 received (buffered)
+Sending ACK for 985
+
+Packet with sequence number 986 received
+Waiting for 980, But 986 received (buffered)
+Sending ACK for 986
+
+Packet with sequence number 987 received
+Waiting for 980, But 987 received (buffered)
+Sending ACK for 987
+
+Packet with sequence number 988 received
+Waiting for 980, But 988 received (buffered)
+Sending ACK for 988
+
+Packet with sequence number 989 received
+Waiting for 980, But 989 received (buffered)
+Sending ACK for 989
+
+Packet with sequence number 980 received
+########## Success ##########
+Reassemble packet: 981 982 983 984 985 986 987 988 989 
+Sending ACK for 980
+
+Packet with sequence number 990 received
+########## Success ##########
+Sending ACK for 990
+
+Packet with sequence number 991 received
+########## Success ##########
+Sending ACK for 991
+
+Packet with sequence number 992 received
+########## Success ##########
+Sending ACK for 992
+
+XXXXXXXX 993 packet loss XXXXXXX
+
+Packet with sequence number 994 received
+Waiting for 993, But 994 received (buffered)
+Sending ACK for 994
+
+Packet with sequence number 995 received
+Waiting for 993, But 995 received (buffered)
+Sending ACK for 995
+
+Packet with sequence number 996 received
+Waiting for 993, But 996 received (buffered)
+Sending ACK for 996
+
+Packet with sequence number 997 received
+Waiting for 993, But 997 received (buffered)
+Sending ACK for 997
+
+Packet with sequence number 998 received
+Waiting for 993, But 998 received (buffered)
+Sending ACK for 998
+
+Packet with sequence number 999 received
+Waiting for 993, But 999 received (buffered)
+Sending ACK for 999
+
+Packet with sequence number 993 received
+########## Success ##########
+Reassemble packet: 994 995 996 997 998 999 
+Sending ACK for 993
+
+Finished transmission
+
+Process finished with exit code 0

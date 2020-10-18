@@ -1,0 +1,5202 @@
+"C:\Program Files\Java\jdk-11.0.8\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.2\lib\idea_rt.jar=3778:C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\82102\OneDrive\NetworkProgramming\Selective-Repeat\out\production\Selective-Repeat Sender
+Number of packets to send: 1000
+Sending packet with sequence number 0
+Sending packet with sequence number 1
+Sending packet with sequence number 2
+Sending packet with sequence number 3
+Sending packet with sequence number 4
+Sending packet with sequence number 5
+Sending packet with sequence number 6
+Sending packet with sequence number 7
+Sending packet with sequence number 8
+Sending packet with sequence number 9
+
+waitingForAck = 0
+Received ACK for 0
+elapsed time : 134
+Sending packet with sequence number 10
+
+waitingForAck = 1
+Received ACK for 1
+elapsed time : 124
+Sending packet with sequence number 11
+
+waitingForAck = 2
+Received ACK for 2
+elapsed time : 125
+Sending packet with sequence number 12
+
+waitingForAck = 3
+Received ACK for 3
+elapsed time : 125
+Sending packet with sequence number 13
+
+waitingForAck = 4
+Received ACK for 4
+elapsed time : 126
+Sending packet with sequence number 14
+
+waitingForAck = 5
+Received ACK for 6
+elapsed time : 139
+
+waitingForAck = 5
+Received ACK for 7
+elapsed time : 140
+
+waitingForAck = 5
+Received ACK for 8
+elapsed time : 140
+
+waitingForAck = 5
+Received ACK for 9
+elapsed time : 141
+
+waitingForAck = 5
+Received ACK for 10
+elapsed time : 21
+
+waitingForAck = 5
+Received ACK for 11
+elapsed time : 21
+
+waitingForAck = 5
+Received ACK for 12
+elapsed time : 22
+
+waitingForAck = 5
+Received ACK for 13
+elapsed time : 22
+
+waitingForAck = 5
+Received ACK for 14
+elapsed time : 24
+
+Resending packet with sequence number 5
+
+waitingForAck = 5
+Received ACK for 5
+elapsed time : 258
+Sending packet with sequence number 15
+Sending packet with sequence number 16
+Sending packet with sequence number 17
+Sending packet with sequence number 18
+Sending packet with sequence number 19
+Sending packet with sequence number 20
+Sending packet with sequence number 21
+Sending packet with sequence number 22
+Sending packet with sequence number 23
+Sending packet with sequence number 24
+
+waitingForAck = 15
+Received ACK for 15
+elapsed time : 4
+Sending packet with sequence number 25
+
+waitingForAck = 16
+Received ACK for 16
+elapsed time : 5
+Sending packet with sequence number 26
+
+waitingForAck = 17
+Received ACK for 17
+elapsed time : 5
+Sending packet with sequence number 27
+
+waitingForAck = 18
+Received ACK for 18
+elapsed time : 5
+Sending packet with sequence number 28
+
+waitingForAck = 19
+Received ACK for 19
+elapsed time : 6
+Sending packet with sequence number 29
+
+waitingForAck = 20
+Received ACK for 20
+elapsed time : 6
+Sending packet with sequence number 30
+
+waitingForAck = 21
+Received ACK for 21
+elapsed time : 6
+Sending packet with sequence number 31
+
+waitingForAck = 22
+Received ACK for 22
+elapsed time : 7
+Sending packet with sequence number 32
+
+waitingForAck = 23
+Received ACK for 23
+elapsed time : 8
+Sending packet with sequence number 33
+
+waitingForAck = 24
+Received ACK for 24
+elapsed time : 7
+Sending packet with sequence number 34
+
+waitingForAck = 25
+Received ACK for 25
+elapsed time : 7
+Sending packet with sequence number 35
+
+waitingForAck = 26
+Received ACK for 26
+elapsed time : 7
+Sending packet with sequence number 36
+
+waitingForAck = 27
+Received ACK for 27
+elapsed time : 7
+Sending packet with sequence number 37
+
+waitingForAck = 28
+Received ACK for 28
+elapsed time : 7
+Sending packet with sequence number 38
+
+waitingForAck = 29
+Received ACK for 29
+elapsed time : 6
+Sending packet with sequence number 39
+
+waitingForAck = 30
+Received ACK for 30
+elapsed time : 6
+Sending packet with sequence number 40
+
+waitingForAck = 31
+Received ACK for 31
+elapsed time : 7
+Sending packet with sequence number 41
+
+waitingForAck = 32
+Received ACK for 32
+elapsed time : 6
+Sending packet with sequence number 42
+
+waitingForAck = 33
+Received ACK for 33
+elapsed time : 6
+Sending packet with sequence number 43
+
+waitingForAck = 34
+Received ACK for 35
+elapsed time : 5
+
+waitingForAck = 34
+Received ACK for 36
+elapsed time : 5
+
+waitingForAck = 34
+Received ACK for 37
+elapsed time : 5
+
+waitingForAck = 34
+Received ACK for 38
+elapsed time : 4
+
+waitingForAck = 34
+Received ACK for 39
+elapsed time : 5
+
+waitingForAck = 34
+Received ACK for 40
+elapsed time : 5
+
+waitingForAck = 34
+Received ACK for 41
+elapsed time : 4
+
+waitingForAck = 34
+Received ACK for 42
+elapsed time : 5
+
+Resending packet with sequence number 34
+
+waitingForAck = 34
+Received ACK for 34
+elapsed time : 124
+Sending packet with sequence number 44
+Sending packet with sequence number 45
+Sending packet with sequence number 46
+Sending packet with sequence number 47
+Sending packet with sequence number 48
+Sending packet with sequence number 49
+Sending packet with sequence number 50
+Sending packet with sequence number 51
+Sending packet with sequence number 52
+
+waitingForAck = 43
+Received ACK for 44
+elapsed time : 2
+
+waitingForAck = 43
+Received ACK for 45
+elapsed time : 2
+
+waitingForAck = 43
+Received ACK for 46
+elapsed time : 3
+
+waitingForAck = 43
+Received ACK for 47
+elapsed time : 5
+
+waitingForAck = 43
+Received ACK for 48
+elapsed time : 6
+
+waitingForAck = 43
+Received ACK for 50
+elapsed time : 6
+
+waitingForAck = 43
+Received ACK for 51
+elapsed time : 6
+
+waitingForAck = 43
+Received ACK for 52
+elapsed time : 7
+
+Resending packet with sequence number 43
+
+waitingForAck = 43
+Received ACK for 43
+elapsed time : 243
+Sending packet with sequence number 53
+Sending packet with sequence number 54
+Sending packet with sequence number 55
+Sending packet with sequence number 56
+Sending packet with sequence number 57
+Sending packet with sequence number 58
+
+waitingForAck = 49
+Received ACK for 53
+elapsed time : 2
+
+waitingForAck = 49
+Received ACK for 54
+elapsed time : 2
+
+waitingForAck = 49
+Received ACK for 56
+elapsed time : 4
+
+waitingForAck = 49
+Received ACK for 57
+elapsed time : 3
+
+waitingForAck = 49
+Received ACK for 58
+elapsed time : 4
+
+Resending packet with sequence number 49
+
+waitingForAck = 49
+Received ACK for 49
+elapsed time : 230
+Sending packet with sequence number 59
+Sending packet with sequence number 60
+Sending packet with sequence number 61
+Sending packet with sequence number 62
+Sending packet with sequence number 63
+Sending packet with sequence number 64
+
+waitingForAck = 55
+Received ACK for 59
+elapsed time : 2
+
+waitingForAck = 55
+Received ACK for 60
+elapsed time : 2
+
+waitingForAck = 55
+Received ACK for 62
+elapsed time : 2
+
+waitingForAck = 55
+Received ACK for 63
+elapsed time : 3
+
+Resending packet with sequence number 55
+
+waitingForAck = 55
+Received ACK for 55
+elapsed time : 214
+Sending packet with sequence number 65
+Sending packet with sequence number 66
+Sending packet with sequence number 67
+Sending packet with sequence number 68
+Sending packet with sequence number 69
+Sending packet with sequence number 70
+
+waitingForAck = 61
+Received ACK for 65
+elapsed time : 2
+
+waitingForAck = 61
+Received ACK for 66
+elapsed time : 2
+
+waitingForAck = 61
+Received ACK for 68
+elapsed time : 2
+
+Resending packet with sequence number 61
+
+Resending packet with sequence number 61
+
+waitingForAck = 61
+Received ACK for 61
+elapsed time : 327
+Sending packet with sequence number 71
+Sending packet with sequence number 72
+Sending packet with sequence number 73
+
+waitingForAck = 64
+Received ACK for 71
+elapsed time : 1
+
+waitingForAck = 64
+Received ACK for 72
+elapsed time : 1
+
+waitingForAck = 64
+Received ACK for 73
+elapsed time : 2
+
+Resending packet with sequence number 64
+
+waitingForAck = 64
+Received ACK for 64
+elapsed time : 435
+Sending packet with sequence number 74
+Sending packet with sequence number 75
+Sending packet with sequence number 76
+
+waitingForAck = 67
+Received ACK for 74
+elapsed time : 1
+
+waitingForAck = 67
+Received ACK for 75
+elapsed time : 1
+
+waitingForAck = 67
+Received ACK for 76
+elapsed time : 2
+
+Resending packet with sequence number 67
+
+waitingForAck = 67
+Received ACK for 67
+elapsed time : 439
+Sending packet with sequence number 77
+Sending packet with sequence number 78
+
+waitingForAck = 69
+Received ACK for 77
+elapsed time : 2
+
+waitingForAck = 69
+Received ACK for 78
+elapsed time : 1
+
+Resending packet with sequence number 69
+
+waitingForAck = 69
+Received ACK for 69
+elapsed time : 549
+Sending packet with sequence number 79
+
+waitingForAck = 70
+Received ACK for 79
+elapsed time : 2
+
+Resending packet with sequence number 70
+
+waitingForAck = 70
+Received ACK for 70
+elapsed time : 657
+Sending packet with sequence number 80
+Sending packet with sequence number 81
+Sending packet with sequence number 82
+Sending packet with sequence number 83
+Sending packet with sequence number 84
+Sending packet with sequence number 85
+Sending packet with sequence number 86
+Sending packet with sequence number 87
+Sending packet with sequence number 88
+Sending packet with sequence number 89
+
+waitingForAck = 80
+Received ACK for 80
+elapsed time : 3
+Sending packet with sequence number 90
+
+waitingForAck = 81
+Received ACK for 81
+elapsed time : 3
+Sending packet with sequence number 91
+
+waitingForAck = 82
+Received ACK for 82
+elapsed time : 3
+Sending packet with sequence number 92
+
+waitingForAck = 83
+Received ACK for 83
+elapsed time : 3
+Sending packet with sequence number 93
+
+waitingForAck = 84
+Received ACK for 84
+elapsed time : 4
+Sending packet with sequence number 94
+
+waitingForAck = 85
+Received ACK for 85
+elapsed time : 4
+Sending packet with sequence number 95
+
+waitingForAck = 86
+Received ACK for 86
+elapsed time : 5
+Sending packet with sequence number 96
+
+waitingForAck = 87
+Received ACK for 87
+elapsed time : 4
+Sending packet with sequence number 97
+
+waitingForAck = 88
+Received ACK for 88
+elapsed time : 5
+Sending packet with sequence number 98
+
+waitingForAck = 89
+Received ACK for 89
+elapsed time : 5
+Sending packet with sequence number 99
+
+waitingForAck = 90
+Received ACK for 90
+elapsed time : 5
+Sending packet with sequence number 100
+
+waitingForAck = 91
+Received ACK for 91
+elapsed time : 5
+Sending packet with sequence number 101
+
+waitingForAck = 92
+Received ACK for 92
+elapsed time : 4
+Sending packet with sequence number 102
+
+waitingForAck = 93
+Received ACK for 93
+elapsed time : 5
+Sending packet with sequence number 103
+
+waitingForAck = 94
+Received ACK for 94
+elapsed time : 4
+Sending packet with sequence number 104
+
+waitingForAck = 95
+Received ACK for 95
+elapsed time : 5
+Sending packet with sequence number 105
+
+waitingForAck = 96
+Received ACK for 96
+elapsed time : 4
+Sending packet with sequence number 106
+
+waitingForAck = 97
+Received ACK for 97
+elapsed time : 5
+Sending packet with sequence number 107
+
+waitingForAck = 98
+Received ACK for 98
+elapsed time : 4
+Sending packet with sequence number 108
+
+waitingForAck = 99
+Received ACK for 99
+elapsed time : 5
+Sending packet with sequence number 109
+
+waitingForAck = 100
+Received ACK for 100
+elapsed time : 4
+Sending packet with sequence number 110
+
+waitingForAck = 101
+Received ACK for 101
+elapsed time : 5
+Sending packet with sequence number 111
+
+waitingForAck = 102
+Received ACK for 102
+elapsed time : 5
+Sending packet with sequence number 112
+
+waitingForAck = 103
+Received ACK for 103
+elapsed time : 5
+Sending packet with sequence number 113
+
+waitingForAck = 104
+Received ACK for 105
+elapsed time : 4
+
+waitingForAck = 104
+Received ACK for 106
+elapsed time : 4
+
+waitingForAck = 104
+Received ACK for 107
+elapsed time : 3
+
+waitingForAck = 104
+Received ACK for 108
+elapsed time : 4
+
+waitingForAck = 104
+Received ACK for 109
+elapsed time : 4
+
+waitingForAck = 104
+Received ACK for 110
+elapsed time : 4
+
+waitingForAck = 104
+Received ACK for 111
+elapsed time : 3
+
+waitingForAck = 104
+Received ACK for 112
+elapsed time : 3
+
+waitingForAck = 104
+Received ACK for 113
+elapsed time : 3
+
+Resending packet with sequence number 104
+
+waitingForAck = 104
+Received ACK for 104
+elapsed time : 116
+Sending packet with sequence number 114
+Sending packet with sequence number 115
+Sending packet with sequence number 116
+Sending packet with sequence number 117
+Sending packet with sequence number 118
+Sending packet with sequence number 119
+Sending packet with sequence number 120
+Sending packet with sequence number 121
+Sending packet with sequence number 122
+Sending packet with sequence number 123
+
+waitingForAck = 114
+Received ACK for 114
+elapsed time : 5
+Sending packet with sequence number 124
+
+waitingForAck = 115
+Received ACK for 115
+elapsed time : 3
+Sending packet with sequence number 125
+
+waitingForAck = 116
+Received ACK for 116
+elapsed time : 2
+Sending packet with sequence number 126
+
+waitingForAck = 117
+Received ACK for 117
+elapsed time : 3
+Sending packet with sequence number 127
+
+waitingForAck = 118
+Received ACK for 118
+elapsed time : 3
+Sending packet with sequence number 128
+
+waitingForAck = 119
+Received ACK for 119
+elapsed time : 3
+Sending packet with sequence number 129
+
+waitingForAck = 120
+Received ACK for 120
+elapsed time : 3
+Sending packet with sequence number 130
+
+waitingForAck = 121
+Received ACK for 121
+elapsed time : 3
+Sending packet with sequence number 131
+
+waitingForAck = 122
+Received ACK for 122
+elapsed time : 4
+Sending packet with sequence number 132
+
+waitingForAck = 123
+Received ACK for 124
+elapsed time : 4
+
+waitingForAck = 123
+Received ACK for 125
+elapsed time : 4
+
+waitingForAck = 123
+Received ACK for 126
+elapsed time : 3
+
+waitingForAck = 123
+Received ACK for 127
+elapsed time : 3
+
+waitingForAck = 123
+Received ACK for 128
+elapsed time : 4
+
+waitingForAck = 123
+Received ACK for 129
+elapsed time : 3
+
+waitingForAck = 123
+Received ACK for 130
+elapsed time : 3
+
+waitingForAck = 123
+Received ACK for 131
+elapsed time : 3
+
+waitingForAck = 123
+Received ACK for 132
+elapsed time : 3
+
+Resending packet with sequence number 123
+
+waitingForAck = 123
+Received ACK for 123
+elapsed time : 120
+Sending packet with sequence number 133
+Sending packet with sequence number 134
+Sending packet with sequence number 135
+Sending packet with sequence number 136
+Sending packet with sequence number 137
+Sending packet with sequence number 138
+Sending packet with sequence number 139
+Sending packet with sequence number 140
+Sending packet with sequence number 141
+Sending packet with sequence number 142
+
+waitingForAck = 133
+Received ACK for 133
+elapsed time : 2
+Sending packet with sequence number 143
+
+waitingForAck = 134
+Received ACK for 134
+elapsed time : 2
+Sending packet with sequence number 144
+
+waitingForAck = 135
+Received ACK for 135
+elapsed time : 2
+Sending packet with sequence number 145
+
+waitingForAck = 136
+Received ACK for 136
+elapsed time : 3
+Sending packet with sequence number 146
+
+waitingForAck = 137
+Received ACK for 137
+elapsed time : 3
+Sending packet with sequence number 147
+
+waitingForAck = 138
+Received ACK for 138
+elapsed time : 2
+Sending packet with sequence number 148
+
+waitingForAck = 139
+Received ACK for 139
+elapsed time : 3
+Sending packet with sequence number 149
+
+waitingForAck = 140
+Received ACK for 140
+elapsed time : 3
+Sending packet with sequence number 150
+
+waitingForAck = 141
+Received ACK for 141
+elapsed time : 3
+Sending packet with sequence number 151
+
+waitingForAck = 142
+Received ACK for 142
+elapsed time : 4
+Sending packet with sequence number 152
+
+waitingForAck = 143
+Received ACK for 143
+elapsed time : 3
+Sending packet with sequence number 153
+
+waitingForAck = 144
+Received ACK for 144
+elapsed time : 3
+Sending packet with sequence number 154
+
+waitingForAck = 145
+Received ACK for 145
+elapsed time : 4
+Sending packet with sequence number 155
+
+waitingForAck = 146
+Received ACK for 146
+elapsed time : 3
+Sending packet with sequence number 156
+
+waitingForAck = 147
+Received ACK for 148
+elapsed time : 4
+
+waitingForAck = 147
+Received ACK for 149
+elapsed time : 3
+
+waitingForAck = 147
+Received ACK for 150
+elapsed time : 4
+
+waitingForAck = 147
+Received ACK for 151
+elapsed time : 5
+
+waitingForAck = 147
+Received ACK for 152
+elapsed time : 4
+
+waitingForAck = 147
+Received ACK for 153
+elapsed time : 5
+
+waitingForAck = 147
+Received ACK for 156
+elapsed time : 4
+
+Resending packet with sequence number 147
+
+waitingForAck = 147
+Received ACK for 147
+elapsed time : 120
+Sending packet with sequence number 157
+Sending packet with sequence number 158
+Sending packet with sequence number 159
+Sending packet with sequence number 160
+Sending packet with sequence number 161
+Sending packet with sequence number 162
+Sending packet with sequence number 163
+
+waitingForAck = 154
+Received ACK for 157
+elapsed time : 1
+
+waitingForAck = 154
+Received ACK for 158
+elapsed time : 2
+
+waitingForAck = 154
+Received ACK for 159
+elapsed time : 2
+
+waitingForAck = 154
+Received ACK for 160
+elapsed time : 1
+
+waitingForAck = 154
+Received ACK for 161
+elapsed time : 2
+
+waitingForAck = 154
+Received ACK for 162
+elapsed time : 2
+
+waitingForAck = 154
+Received ACK for 163
+elapsed time : 2
+
+Resending packet with sequence number 154
+
+waitingForAck = 154
+Received ACK for 154
+elapsed time : 227
+Sending packet with sequence number 164
+
+waitingForAck = 155
+Received ACK for 164
+elapsed time : 1
+
+Resending packet with sequence number 155
+
+waitingForAck = 155
+Received ACK for 155
+elapsed time : 334
+Sending packet with sequence number 165
+Sending packet with sequence number 166
+Sending packet with sequence number 167
+Sending packet with sequence number 168
+Sending packet with sequence number 169
+Sending packet with sequence number 170
+Sending packet with sequence number 171
+Sending packet with sequence number 172
+Sending packet with sequence number 173
+Sending packet with sequence number 174
+
+waitingForAck = 165
+Received ACK for 165
+elapsed time : 2
+Sending packet with sequence number 175
+
+waitingForAck = 166
+Received ACK for 166
+elapsed time : 2
+Sending packet with sequence number 176
+
+waitingForAck = 167
+Received ACK for 167
+elapsed time : 2
+Sending packet with sequence number 177
+
+waitingForAck = 168
+Received ACK for 168
+elapsed time : 2
+Sending packet with sequence number 178
+
+waitingForAck = 169
+Received ACK for 169
+elapsed time : 2
+Sending packet with sequence number 179
+
+waitingForAck = 170
+Received ACK for 170
+elapsed time : 3
+Sending packet with sequence number 180
+
+waitingForAck = 171
+Received ACK for 171
+elapsed time : 3
+Sending packet with sequence number 181
+
+waitingForAck = 172
+Received ACK for 172
+elapsed time : 3
+Sending packet with sequence number 182
+
+waitingForAck = 173
+Received ACK for 173
+elapsed time : 4
+Sending packet with sequence number 183
+
+waitingForAck = 174
+Received ACK for 174
+elapsed time : 3
+Sending packet with sequence number 184
+
+waitingForAck = 175
+Received ACK for 175
+elapsed time : 3
+Sending packet with sequence number 185
+
+waitingForAck = 176
+Received ACK for 176
+elapsed time : 4
+Sending packet with sequence number 186
+
+waitingForAck = 177
+Received ACK for 177
+elapsed time : 3
+Sending packet with sequence number 187
+
+waitingForAck = 178
+Received ACK for 178
+elapsed time : 3
+Sending packet with sequence number 188
+
+waitingForAck = 179
+Received ACK for 179
+elapsed time : 4
+Sending packet with sequence number 189
+
+waitingForAck = 180
+Received ACK for 180
+elapsed time : 3
+Sending packet with sequence number 190
+
+waitingForAck = 181
+Received ACK for 182
+elapsed time : 4
+
+waitingForAck = 181
+Received ACK for 183
+elapsed time : 3
+
+waitingForAck = 181
+Received ACK for 184
+elapsed time : 3
+
+waitingForAck = 181
+Received ACK for 186
+elapsed time : 3
+
+waitingForAck = 181
+Received ACK for 187
+elapsed time : 4
+
+waitingForAck = 181
+Received ACK for 188
+elapsed time : 4
+
+waitingForAck = 181
+Received ACK for 189
+elapsed time : 3
+
+waitingForAck = 181
+Received ACK for 190
+elapsed time : 4
+
+Resending packet with sequence number 181
+
+waitingForAck = 181
+Received ACK for 181
+elapsed time : 119
+Sending packet with sequence number 191
+Sending packet with sequence number 192
+Sending packet with sequence number 193
+Sending packet with sequence number 194
+
+waitingForAck = 185
+Received ACK for 191
+elapsed time : 0
+
+waitingForAck = 185
+Received ACK for 192
+elapsed time : 1
+
+waitingForAck = 185
+Received ACK for 193
+elapsed time : 1
+
+waitingForAck = 185
+Received ACK for 194
+elapsed time : 1
+
+Resending packet with sequence number 185
+
+waitingForAck = 185
+Received ACK for 185
+elapsed time : 225
+Sending packet with sequence number 195
+Sending packet with sequence number 196
+Sending packet with sequence number 197
+Sending packet with sequence number 198
+Sending packet with sequence number 199
+Sending packet with sequence number 200
+Sending packet with sequence number 201
+Sending packet with sequence number 202
+Sending packet with sequence number 203
+Sending packet with sequence number 204
+
+waitingForAck = 195
+Received ACK for 195
+elapsed time : 1
+Sending packet with sequence number 205
+
+waitingForAck = 196
+Received ACK for 196
+elapsed time : 1
+Sending packet with sequence number 206
+
+waitingForAck = 197
+Received ACK for 197
+elapsed time : 1
+Sending packet with sequence number 207
+
+waitingForAck = 198
+Received ACK for 198
+elapsed time : 1
+Sending packet with sequence number 208
+
+waitingForAck = 199
+Received ACK for 200
+elapsed time : 2
+
+waitingForAck = 199
+Received ACK for 201
+elapsed time : 2
+
+waitingForAck = 199
+Received ACK for 202
+elapsed time : 3
+
+waitingForAck = 199
+Received ACK for 203
+elapsed time : 3
+
+waitingForAck = 199
+Received ACK for 205
+elapsed time : 2
+
+waitingForAck = 199
+Received ACK for 206
+elapsed time : 3
+
+waitingForAck = 199
+Received ACK for 207
+elapsed time : 3
+
+waitingForAck = 199
+Received ACK for 208
+elapsed time : 4
+
+Resending packet with sequence number 199
+
+waitingForAck = 199
+Received ACK for 199
+elapsed time : 107
+Sending packet with sequence number 209
+Sending packet with sequence number 210
+Sending packet with sequence number 211
+Sending packet with sequence number 212
+Sending packet with sequence number 213
+
+waitingForAck = 204
+Received ACK for 209
+elapsed time : 1
+
+waitingForAck = 204
+Received ACK for 210
+elapsed time : 1
+
+waitingForAck = 204
+Received ACK for 211
+elapsed time : 1
+
+waitingForAck = 204
+Received ACK for 213
+elapsed time : 2
+
+Resending packet with sequence number 204
+
+waitingForAck = 204
+Received ACK for 204
+elapsed time : 214
+Sending packet with sequence number 214
+Sending packet with sequence number 215
+Sending packet with sequence number 216
+Sending packet with sequence number 217
+Sending packet with sequence number 218
+Sending packet with sequence number 219
+Sending packet with sequence number 220
+Sending packet with sequence number 221
+
+waitingForAck = 212
+Received ACK for 214
+elapsed time : 1
+
+waitingForAck = 212
+Received ACK for 215
+elapsed time : 1
+
+waitingForAck = 212
+Received ACK for 216
+elapsed time : 1
+
+waitingForAck = 212
+Received ACK for 217
+elapsed time : 2
+
+waitingForAck = 212
+Received ACK for 218
+elapsed time : 1
+
+waitingForAck = 212
+Received ACK for 220
+elapsed time : 1
+
+waitingForAck = 212
+Received ACK for 221
+elapsed time : 2
+
+Resending packet with sequence number 212
+
+waitingForAck = 212
+Received ACK for 212
+elapsed time : 215
+Sending packet with sequence number 222
+Sending packet with sequence number 223
+Sending packet with sequence number 224
+Sending packet with sequence number 225
+Sending packet with sequence number 226
+Sending packet with sequence number 227
+Sending packet with sequence number 228
+
+waitingForAck = 219
+Received ACK for 222
+elapsed time : 0
+
+waitingForAck = 219
+Received ACK for 224
+elapsed time : 0
+
+waitingForAck = 219
+Received ACK for 225
+elapsed time : 1
+
+waitingForAck = 219
+Received ACK for 226
+elapsed time : 1
+
+waitingForAck = 219
+Received ACK for 227
+elapsed time : 1
+
+waitingForAck = 219
+Received ACK for 228
+elapsed time : 1
+
+Resending packet with sequence number 219
+
+waitingForAck = 219
+Received ACK for 219
+elapsed time : 217
+Sending packet with sequence number 229
+Sending packet with sequence number 230
+Sending packet with sequence number 231
+Sending packet with sequence number 232
+
+waitingForAck = 223
+Received ACK for 229
+elapsed time : 0
+
+waitingForAck = 223
+Received ACK for 230
+elapsed time : 1
+
+waitingForAck = 223
+Received ACK for 231
+elapsed time : 1
+
+waitingForAck = 223
+Received ACK for 232
+elapsed time : 1
+
+Resending packet with sequence number 223
+
+waitingForAck = 223
+Received ACK for 223
+elapsed time : 220
+Sending packet with sequence number 233
+Sending packet with sequence number 234
+Sending packet with sequence number 235
+Sending packet with sequence number 236
+Sending packet with sequence number 237
+Sending packet with sequence number 238
+Sending packet with sequence number 239
+Sending packet with sequence number 240
+Sending packet with sequence number 241
+Sending packet with sequence number 242
+
+waitingForAck = 233
+Received ACK for 233
+elapsed time : 1
+Sending packet with sequence number 243
+
+waitingForAck = 234
+Received ACK for 234
+elapsed time : 2
+Sending packet with sequence number 244
+
+waitingForAck = 235
+Received ACK for 235
+elapsed time : 2
+Sending packet with sequence number 245
+
+waitingForAck = 236
+Received ACK for 236
+elapsed time : 2
+Sending packet with sequence number 246
+
+waitingForAck = 237
+Received ACK for 237
+elapsed time : 3
+Sending packet with sequence number 247
+
+waitingForAck = 238
+Received ACK for 238
+elapsed time : 2
+Sending packet with sequence number 248
+
+waitingForAck = 239
+Received ACK for 239
+elapsed time : 5
+Sending packet with sequence number 249
+
+waitingForAck = 240
+Received ACK for 240
+elapsed time : 6
+Sending packet with sequence number 250
+
+waitingForAck = 241
+Received ACK for 241
+elapsed time : 6
+Sending packet with sequence number 251
+
+waitingForAck = 242
+Received ACK for 242
+elapsed time : 7
+Sending packet with sequence number 252
+
+waitingForAck = 243
+Received ACK for 243
+elapsed time : 7
+Sending packet with sequence number 253
+
+waitingForAck = 244
+Received ACK for 244
+elapsed time : 7
+Sending packet with sequence number 254
+
+waitingForAck = 245
+Received ACK for 245
+elapsed time : 8
+Sending packet with sequence number 255
+
+waitingForAck = 246
+Received ACK for 246
+elapsed time : 7
+Sending packet with sequence number 256
+
+waitingForAck = 247
+Received ACK for 247
+elapsed time : 8
+Sending packet with sequence number 257
+
+waitingForAck = 248
+Received ACK for 248
+elapsed time : 8
+Sending packet with sequence number 258
+
+waitingForAck = 249
+Received ACK for 249
+elapsed time : 5
+Sending packet with sequence number 259
+
+waitingForAck = 250
+Received ACK for 250
+elapsed time : 5
+Sending packet with sequence number 260
+
+waitingForAck = 251
+Received ACK for 251
+elapsed time : 6
+Sending packet with sequence number 261
+
+waitingForAck = 252
+Received ACK for 252
+elapsed time : 6
+Sending packet with sequence number 262
+
+waitingForAck = 253
+Received ACK for 253
+elapsed time : 6
+Sending packet with sequence number 263
+
+waitingForAck = 254
+Received ACK for 254
+elapsed time : 6
+Sending packet with sequence number 264
+
+waitingForAck = 255
+Received ACK for 255
+elapsed time : 5
+Sending packet with sequence number 265
+
+waitingForAck = 256
+Received ACK for 256
+elapsed time : 6
+Sending packet with sequence number 266
+
+waitingForAck = 257
+Received ACK for 257
+elapsed time : 5
+Sending packet with sequence number 267
+
+waitingForAck = 258
+Received ACK for 258
+elapsed time : 6
+Sending packet with sequence number 268
+
+waitingForAck = 259
+Received ACK for 259
+elapsed time : 6
+Sending packet with sequence number 269
+
+waitingForAck = 260
+Received ACK for 260
+elapsed time : 6
+Sending packet with sequence number 270
+
+waitingForAck = 261
+Received ACK for 261
+elapsed time : 5
+Sending packet with sequence number 271
+
+waitingForAck = 262
+Received ACK for 262
+elapsed time : 4
+Sending packet with sequence number 272
+
+waitingForAck = 263
+Received ACK for 263
+elapsed time : 4
+Sending packet with sequence number 273
+
+waitingForAck = 264
+Received ACK for 264
+elapsed time : 4
+Sending packet with sequence number 274
+
+waitingForAck = 265
+Received ACK for 265
+elapsed time : 4
+Sending packet with sequence number 275
+
+waitingForAck = 266
+Received ACK for 266
+elapsed time : 3
+Sending packet with sequence number 276
+
+waitingForAck = 267
+Received ACK for 267
+elapsed time : 4
+Sending packet with sequence number 277
+
+waitingForAck = 268
+Received ACK for 268
+elapsed time : 3
+Sending packet with sequence number 278
+
+waitingForAck = 269
+Received ACK for 269
+elapsed time : 2
+Sending packet with sequence number 279
+
+waitingForAck = 270
+Received ACK for 270
+elapsed time : 3
+Sending packet with sequence number 280
+
+waitingForAck = 271
+Received ACK for 271
+elapsed time : 3
+Sending packet with sequence number 281
+
+waitingForAck = 272
+Received ACK for 272
+elapsed time : 3
+Sending packet with sequence number 282
+
+waitingForAck = 273
+Received ACK for 273
+elapsed time : 4
+Sending packet with sequence number 283
+
+waitingForAck = 274
+Received ACK for 275
+elapsed time : 3
+
+waitingForAck = 274
+Received ACK for 276
+elapsed time : 2
+
+waitingForAck = 274
+Received ACK for 277
+elapsed time : 2
+
+waitingForAck = 274
+Received ACK for 278
+elapsed time : 2
+
+waitingForAck = 274
+Received ACK for 279
+elapsed time : 3
+
+waitingForAck = 274
+Received ACK for 280
+elapsed time : 2
+
+waitingForAck = 274
+Received ACK for 281
+elapsed time : 2
+
+waitingForAck = 274
+Received ACK for 282
+elapsed time : 2
+
+waitingForAck = 274
+Received ACK for 283
+elapsed time : 1
+
+Resending packet with sequence number 274
+
+waitingForAck = 274
+Received ACK for 274
+elapsed time : 106
+Sending packet with sequence number 284
+Sending packet with sequence number 285
+Sending packet with sequence number 286
+Sending packet with sequence number 287
+Sending packet with sequence number 288
+Sending packet with sequence number 289
+Sending packet with sequence number 290
+Sending packet with sequence number 291
+Sending packet with sequence number 292
+Sending packet with sequence number 293
+
+waitingForAck = 284
+Received ACK for 284
+elapsed time : 0
+Sending packet with sequence number 294
+
+waitingForAck = 285
+Received ACK for 285
+elapsed time : 1
+Sending packet with sequence number 295
+
+waitingForAck = 286
+Received ACK for 286
+elapsed time : 1
+Sending packet with sequence number 296
+
+waitingForAck = 287
+Received ACK for 287
+elapsed time : 1
+Sending packet with sequence number 297
+
+waitingForAck = 288
+Received ACK for 288
+elapsed time : 1
+Sending packet with sequence number 298
+
+waitingForAck = 289
+Received ACK for 289
+elapsed time : 1
+Sending packet with sequence number 299
+
+waitingForAck = 290
+Received ACK for 290
+elapsed time : 2
+Sending packet with sequence number 300
+
+waitingForAck = 291
+Received ACK for 291
+elapsed time : 2
+Sending packet with sequence number 301
+
+waitingForAck = 292
+Received ACK for 292
+elapsed time : 2
+Sending packet with sequence number 302
+
+waitingForAck = 293
+Received ACK for 293
+elapsed time : 2
+Sending packet with sequence number 303
+
+waitingForAck = 294
+Received ACK for 294
+elapsed time : 2
+Sending packet with sequence number 304
+
+waitingForAck = 295
+Received ACK for 296
+elapsed time : 2
+
+waitingForAck = 295
+Received ACK for 297
+elapsed time : 2
+
+waitingForAck = 295
+Received ACK for 298
+elapsed time : 2
+
+waitingForAck = 295
+Received ACK for 299
+elapsed time : 2
+
+waitingForAck = 295
+Received ACK for 300
+elapsed time : 2
+
+waitingForAck = 295
+Received ACK for 301
+elapsed time : 2
+
+waitingForAck = 295
+Received ACK for 302
+elapsed time : 2
+
+waitingForAck = 295
+Received ACK for 303
+elapsed time : 2
+
+waitingForAck = 295
+Received ACK for 304
+elapsed time : 2
+
+Resending packet with sequence number 295
+
+waitingForAck = 295
+Received ACK for 295
+elapsed time : 109
+Sending packet with sequence number 305
+Sending packet with sequence number 306
+Sending packet with sequence number 307
+Sending packet with sequence number 308
+Sending packet with sequence number 309
+Sending packet with sequence number 310
+Sending packet with sequence number 311
+Sending packet with sequence number 312
+Sending packet with sequence number 313
+Sending packet with sequence number 314
+
+waitingForAck = 305
+Received ACK for 305
+elapsed time : 1
+Sending packet with sequence number 315
+
+waitingForAck = 306
+Received ACK for 307
+elapsed time : 0
+
+waitingForAck = 306
+Received ACK for 308
+elapsed time : 1
+
+waitingForAck = 306
+Received ACK for 309
+elapsed time : 1
+
+waitingForAck = 306
+Received ACK for 310
+elapsed time : 1
+
+waitingForAck = 306
+Received ACK for 311
+elapsed time : 2
+
+waitingForAck = 306
+Received ACK for 313
+elapsed time : 2
+
+waitingForAck = 306
+Received ACK for 314
+elapsed time : 3
+
+waitingForAck = 306
+Received ACK for 315
+elapsed time : 3
+
+Resending packet with sequence number 306
+
+waitingForAck = 306
+Received ACK for 306
+elapsed time : 108
+Sending packet with sequence number 316
+Sending packet with sequence number 317
+Sending packet with sequence number 318
+Sending packet with sequence number 319
+Sending packet with sequence number 320
+Sending packet with sequence number 321
+
+waitingForAck = 312
+Received ACK for 316
+elapsed time : 1
+
+waitingForAck = 312
+Received ACK for 317
+elapsed time : 1
+
+waitingForAck = 312
+Received ACK for 318
+elapsed time : 1
+
+waitingForAck = 312
+Received ACK for 319
+elapsed time : 2
+
+waitingForAck = 312
+Received ACK for 320
+elapsed time : 2
+
+waitingForAck = 312
+Received ACK for 321
+elapsed time : 2
+
+Resending packet with sequence number 312
+
+waitingForAck = 312
+Received ACK for 312
+elapsed time : 214
+Sending packet with sequence number 322
+Sending packet with sequence number 323
+Sending packet with sequence number 324
+Sending packet with sequence number 325
+Sending packet with sequence number 326
+Sending packet with sequence number 327
+Sending packet with sequence number 328
+Sending packet with sequence number 329
+Sending packet with sequence number 330
+Sending packet with sequence number 331
+
+waitingForAck = 322
+Received ACK for 322
+elapsed time : 1
+Sending packet with sequence number 332
+
+waitingForAck = 323
+Received ACK for 323
+elapsed time : 1
+Sending packet with sequence number 333
+
+waitingForAck = 324
+Received ACK for 324
+elapsed time : 1
+Sending packet with sequence number 334
+
+waitingForAck = 325
+Received ACK for 325
+elapsed time : 1
+Sending packet with sequence number 335
+
+waitingForAck = 326
+Received ACK for 326
+elapsed time : 2
+Sending packet with sequence number 336
+
+waitingForAck = 327
+Received ACK for 327
+elapsed time : 2
+Sending packet with sequence number 337
+
+waitingForAck = 328
+Received ACK for 328
+elapsed time : 2
+Sending packet with sequence number 338
+
+waitingForAck = 329
+Received ACK for 329
+elapsed time : 3
+Sending packet with sequence number 339
+
+waitingForAck = 330
+Received ACK for 330
+elapsed time : 3
+Sending packet with sequence number 340
+
+waitingForAck = 331
+Received ACK for 331
+elapsed time : 3
+Sending packet with sequence number 341
+
+waitingForAck = 332
+Received ACK for 333
+elapsed time : 2
+
+waitingForAck = 332
+Received ACK for 334
+elapsed time : 3
+
+waitingForAck = 332
+Received ACK for 336
+elapsed time : 2
+
+waitingForAck = 332
+Received ACK for 337
+elapsed time : 2
+
+waitingForAck = 332
+Received ACK for 339
+elapsed time : 1
+
+waitingForAck = 332
+Received ACK for 340
+elapsed time : 1
+
+Resending packet with sequence number 332
+
+waitingForAck = 332
+Received ACK for 332
+elapsed time : 108
+Sending packet with sequence number 342
+Sending packet with sequence number 343
+Sending packet with sequence number 344
+
+waitingForAck = 335
+Received ACK for 342
+elapsed time : 0
+
+waitingForAck = 335
+Received ACK for 343
+elapsed time : 1
+
+waitingForAck = 335
+Received ACK for 344
+elapsed time : 1
+
+Resending packet with sequence number 335
+
+waitingForAck = 335
+Received ACK for 335
+elapsed time : 215
+Sending packet with sequence number 345
+Sending packet with sequence number 346
+Sending packet with sequence number 347
+
+waitingForAck = 338
+Received ACK for 345
+elapsed time : 0
+
+waitingForAck = 338
+Received ACK for 346
+elapsed time : 0
+
+waitingForAck = 338
+Received ACK for 347
+elapsed time : 1
+
+Resending packet with sequence number 338
+
+Resending packet with sequence number 338
+
+waitingForAck = 338
+Received ACK for 338
+elapsed time : 429
+Sending packet with sequence number 348
+Sending packet with sequence number 349
+Sending packet with sequence number 350
+
+waitingForAck = 341
+Received ACK for 348
+elapsed time : 1
+
+waitingForAck = 341
+Received ACK for 349
+elapsed time : 1
+
+waitingForAck = 341
+Received ACK for 350
+elapsed time : 1
+
+Resending packet with sequence number 341
+
+waitingForAck = 341
+Received ACK for 341
+elapsed time : 535
+Sending packet with sequence number 351
+Sending packet with sequence number 352
+Sending packet with sequence number 353
+Sending packet with sequence number 354
+Sending packet with sequence number 355
+Sending packet with sequence number 356
+Sending packet with sequence number 357
+Sending packet with sequence number 358
+Sending packet with sequence number 359
+Sending packet with sequence number 360
+
+waitingForAck = 351
+Received ACK for 351
+elapsed time : 1
+Sending packet with sequence number 361
+
+waitingForAck = 352
+Received ACK for 352
+elapsed time : 1
+Sending packet with sequence number 362
+
+waitingForAck = 353
+Received ACK for 353
+elapsed time : 1
+Sending packet with sequence number 363
+
+waitingForAck = 354
+Received ACK for 354
+elapsed time : 1
+Sending packet with sequence number 364
+
+waitingForAck = 355
+Received ACK for 355
+elapsed time : 1
+Sending packet with sequence number 365
+
+waitingForAck = 356
+Received ACK for 356
+elapsed time : 1
+Sending packet with sequence number 366
+
+waitingForAck = 357
+Received ACK for 357
+elapsed time : 2
+Sending packet with sequence number 367
+
+waitingForAck = 358
+Received ACK for 358
+elapsed time : 2
+Sending packet with sequence number 368
+
+waitingForAck = 359
+Received ACK for 359
+elapsed time : 2
+Sending packet with sequence number 369
+
+waitingForAck = 360
+Received ACK for 360
+elapsed time : 2
+Sending packet with sequence number 370
+
+waitingForAck = 361
+Received ACK for 362
+elapsed time : 1
+
+waitingForAck = 361
+Received ACK for 363
+elapsed time : 2
+
+waitingForAck = 361
+Received ACK for 364
+elapsed time : 2
+
+waitingForAck = 361
+Received ACK for 365
+elapsed time : 2
+
+waitingForAck = 361
+Received ACK for 366
+elapsed time : 2
+
+waitingForAck = 361
+Received ACK for 367
+elapsed time : 1
+
+waitingForAck = 361
+Received ACK for 368
+elapsed time : 1
+
+waitingForAck = 361
+Received ACK for 369
+elapsed time : 1
+
+waitingForAck = 361
+Received ACK for 370
+elapsed time : 2
+
+Resending packet with sequence number 361
+
+waitingForAck = 361
+Received ACK for 361
+elapsed time : 107
+Sending packet with sequence number 371
+Sending packet with sequence number 372
+Sending packet with sequence number 373
+Sending packet with sequence number 374
+Sending packet with sequence number 375
+Sending packet with sequence number 376
+Sending packet with sequence number 377
+Sending packet with sequence number 378
+Sending packet with sequence number 379
+Sending packet with sequence number 380
+
+waitingForAck = 371
+Received ACK for 371
+elapsed time : 0
+Sending packet with sequence number 381
+
+waitingForAck = 372
+Received ACK for 372
+elapsed time : 1
+Sending packet with sequence number 382
+
+waitingForAck = 373
+Received ACK for 373
+elapsed time : 1
+Sending packet with sequence number 383
+
+waitingForAck = 374
+Received ACK for 375
+elapsed time : 1
+
+waitingForAck = 374
+Received ACK for 376
+elapsed time : 1
+
+waitingForAck = 374
+Received ACK for 377
+elapsed time : 1
+
+waitingForAck = 374
+Received ACK for 379
+elapsed time : 1
+
+waitingForAck = 374
+Received ACK for 380
+elapsed time : 2
+
+waitingForAck = 374
+Received ACK for 381
+elapsed time : 2
+
+waitingForAck = 374
+Received ACK for 382
+elapsed time : 1
+
+waitingForAck = 374
+Received ACK for 383
+elapsed time : 1
+
+Resending packet with sequence number 374
+
+waitingForAck = 374
+Received ACK for 374
+elapsed time : 108
+Sending packet with sequence number 384
+Sending packet with sequence number 385
+Sending packet with sequence number 386
+Sending packet with sequence number 387
+
+waitingForAck = 378
+Received ACK for 384
+elapsed time : 1
+
+waitingForAck = 378
+Received ACK for 385
+elapsed time : 1
+
+waitingForAck = 378
+Received ACK for 386
+elapsed time : 1
+
+waitingForAck = 378
+Received ACK for 387
+elapsed time : 1
+
+Resending packet with sequence number 378
+
+waitingForAck = 378
+Received ACK for 378
+elapsed time : 215
+Sending packet with sequence number 388
+Sending packet with sequence number 389
+Sending packet with sequence number 390
+Sending packet with sequence number 391
+Sending packet with sequence number 392
+Sending packet with sequence number 393
+Sending packet with sequence number 394
+Sending packet with sequence number 395
+Sending packet with sequence number 396
+Sending packet with sequence number 397
+
+waitingForAck = 388
+Received ACK for 388
+elapsed time : 1
+Sending packet with sequence number 398
+
+waitingForAck = 389
+Received ACK for 389
+elapsed time : 0
+Sending packet with sequence number 399
+
+waitingForAck = 390
+Received ACK for 390
+elapsed time : 1
+Sending packet with sequence number 400
+
+waitingForAck = 391
+Received ACK for 391
+elapsed time : 1
+Sending packet with sequence number 401
+
+waitingForAck = 392
+Received ACK for 392
+elapsed time : 1
+Sending packet with sequence number 402
+
+waitingForAck = 393
+Received ACK for 393
+elapsed time : 1
+Sending packet with sequence number 403
+
+waitingForAck = 394
+Received ACK for 394
+elapsed time : 1
+Sending packet with sequence number 404
+
+waitingForAck = 395
+Received ACK for 396
+elapsed time : 1
+
+waitingForAck = 395
+Received ACK for 397
+elapsed time : 2
+
+waitingForAck = 395
+Received ACK for 398
+elapsed time : 2
+
+waitingForAck = 395
+Received ACK for 399
+elapsed time : 2
+
+waitingForAck = 395
+Received ACK for 400
+elapsed time : 1
+
+waitingForAck = 395
+Received ACK for 401
+elapsed time : 1
+
+waitingForAck = 395
+Received ACK for 402
+elapsed time : 1
+
+waitingForAck = 395
+Received ACK for 403
+elapsed time : 1
+
+waitingForAck = 395
+Received ACK for 404
+elapsed time : 1
+
+Resending packet with sequence number 395
+
+waitingForAck = 395
+Received ACK for 395
+elapsed time : 108
+Sending packet with sequence number 405
+Sending packet with sequence number 406
+Sending packet with sequence number 407
+Sending packet with sequence number 408
+Sending packet with sequence number 409
+Sending packet with sequence number 410
+Sending packet with sequence number 411
+Sending packet with sequence number 412
+Sending packet with sequence number 413
+Sending packet with sequence number 414
+
+waitingForAck = 405
+Received ACK for 405
+elapsed time : 1
+Sending packet with sequence number 415
+
+waitingForAck = 406
+Received ACK for 406
+elapsed time : 1
+Sending packet with sequence number 416
+
+waitingForAck = 407
+Received ACK for 407
+elapsed time : 1
+Sending packet with sequence number 417
+
+waitingForAck = 408
+Received ACK for 408
+elapsed time : 2
+Sending packet with sequence number 418
+
+waitingForAck = 409
+Received ACK for 409
+elapsed time : 2
+Sending packet with sequence number 419
+
+waitingForAck = 410
+Received ACK for 410
+elapsed time : 2
+Sending packet with sequence number 420
+
+waitingForAck = 411
+Received ACK for 411
+elapsed time : 2
+Sending packet with sequence number 421
+
+waitingForAck = 412
+Received ACK for 412
+elapsed time : 1
+Sending packet with sequence number 422
+
+waitingForAck = 413
+Received ACK for 413
+elapsed time : 1
+Sending packet with sequence number 423
+
+waitingForAck = 414
+Received ACK for 414
+elapsed time : 2
+Sending packet with sequence number 424
+
+waitingForAck = 415
+Received ACK for 415
+elapsed time : 2
+Sending packet with sequence number 425
+
+waitingForAck = 416
+Received ACK for 416
+elapsed time : 2
+Sending packet with sequence number 426
+
+waitingForAck = 417
+Received ACK for 417
+elapsed time : 2
+Sending packet with sequence number 427
+
+waitingForAck = 418
+Received ACK for 418
+elapsed time : 1
+Sending packet with sequence number 428
+
+waitingForAck = 419
+Received ACK for 419
+elapsed time : 2
+Sending packet with sequence number 429
+
+waitingForAck = 420
+Received ACK for 420
+elapsed time : 2
+Sending packet with sequence number 430
+
+waitingForAck = 421
+Received ACK for 421
+elapsed time : 2
+Sending packet with sequence number 431
+
+waitingForAck = 422
+Received ACK for 422
+elapsed time : 2
+Sending packet with sequence number 432
+
+waitingForAck = 423
+Received ACK for 423
+elapsed time : 3
+Sending packet with sequence number 433
+
+waitingForAck = 424
+Received ACK for 424
+elapsed time : 2
+Sending packet with sequence number 434
+
+waitingForAck = 425
+Received ACK for 425
+elapsed time : 2
+Sending packet with sequence number 435
+
+waitingForAck = 426
+Received ACK for 426
+elapsed time : 2
+Sending packet with sequence number 436
+
+waitingForAck = 427
+Received ACK for 427
+elapsed time : 3
+Sending packet with sequence number 437
+
+waitingForAck = 428
+Received ACK for 428
+elapsed time : 3
+Sending packet with sequence number 438
+
+waitingForAck = 429
+Received ACK for 429
+elapsed time : 2
+Sending packet with sequence number 439
+
+waitingForAck = 430
+Received ACK for 430
+elapsed time : 2
+Sending packet with sequence number 440
+
+waitingForAck = 431
+Received ACK for 431
+elapsed time : 3
+Sending packet with sequence number 441
+
+waitingForAck = 432
+Received ACK for 432
+elapsed time : 3
+Sending packet with sequence number 442
+
+waitingForAck = 433
+Received ACK for 433
+elapsed time : 2
+Sending packet with sequence number 443
+
+waitingForAck = 434
+Received ACK for 434
+elapsed time : 2
+Sending packet with sequence number 444
+
+waitingForAck = 435
+Received ACK for 435
+elapsed time : 3
+Sending packet with sequence number 445
+
+waitingForAck = 436
+Received ACK for 436
+elapsed time : 3
+Sending packet with sequence number 446
+
+waitingForAck = 437
+Received ACK for 437
+elapsed time : 2
+Sending packet with sequence number 447
+
+waitingForAck = 438
+Received ACK for 438
+elapsed time : 2
+Sending packet with sequence number 448
+
+waitingForAck = 439
+Received ACK for 439
+elapsed time : 2
+Sending packet with sequence number 449
+
+waitingForAck = 440
+Received ACK for 440
+elapsed time : 3
+Sending packet with sequence number 450
+
+waitingForAck = 441
+Received ACK for 441
+elapsed time : 2
+Sending packet with sequence number 451
+
+waitingForAck = 442
+Received ACK for 442
+elapsed time : 2
+Sending packet with sequence number 452
+
+waitingForAck = 443
+Received ACK for 443
+elapsed time : 2
+Sending packet with sequence number 453
+
+waitingForAck = 444
+Received ACK for 444
+elapsed time : 2
+Sending packet with sequence number 454
+
+waitingForAck = 445
+Received ACK for 445
+elapsed time : 2
+Sending packet with sequence number 455
+
+waitingForAck = 446
+Received ACK for 447
+elapsed time : 2
+
+waitingForAck = 446
+Received ACK for 448
+elapsed time : 2
+
+waitingForAck = 446
+Received ACK for 449
+elapsed time : 2
+
+waitingForAck = 446
+Received ACK for 450
+elapsed time : 1
+
+waitingForAck = 446
+Received ACK for 451
+elapsed time : 1
+
+waitingForAck = 446
+Received ACK for 452
+elapsed time : 2
+
+waitingForAck = 446
+Received ACK for 453
+elapsed time : 2
+
+waitingForAck = 446
+Received ACK for 454
+elapsed time : 2
+
+waitingForAck = 446
+Received ACK for 455
+elapsed time : 1
+
+Resending packet with sequence number 446
+
+waitingForAck = 446
+Received ACK for 446
+elapsed time : 116
+Sending packet with sequence number 456
+Sending packet with sequence number 457
+Sending packet with sequence number 458
+Sending packet with sequence number 459
+Sending packet with sequence number 460
+Sending packet with sequence number 461
+Sending packet with sequence number 462
+Sending packet with sequence number 463
+Sending packet with sequence number 464
+Sending packet with sequence number 465
+
+waitingForAck = 456
+Received ACK for 456
+elapsed time : 1
+Sending packet with sequence number 466
+
+waitingForAck = 457
+Received ACK for 457
+elapsed time : 1
+Sending packet with sequence number 467
+
+waitingForAck = 458
+Received ACK for 458
+elapsed time : 1
+Sending packet with sequence number 468
+
+waitingForAck = 459
+Received ACK for 459
+elapsed time : 2
+Sending packet with sequence number 469
+
+waitingForAck = 460
+Received ACK for 461
+elapsed time : 2
+
+waitingForAck = 460
+Received ACK for 462
+elapsed time : 2
+
+waitingForAck = 460
+Received ACK for 463
+elapsed time : 2
+
+waitingForAck = 460
+Received ACK for 464
+elapsed time : 2
+
+waitingForAck = 460
+Received ACK for 465
+elapsed time : 2
+
+waitingForAck = 460
+Received ACK for 466
+elapsed time : 1
+
+waitingForAck = 460
+Received ACK for 467
+elapsed time : 2
+
+waitingForAck = 460
+Received ACK for 468
+elapsed time : 2
+
+Resending packet with sequence number 460
+
+waitingForAck = 460
+Received ACK for 460
+elapsed time : 110
+Sending packet with sequence number 470
+Sending packet with sequence number 471
+Sending packet with sequence number 472
+Sending packet with sequence number 473
+Sending packet with sequence number 474
+Sending packet with sequence number 475
+Sending packet with sequence number 476
+Sending packet with sequence number 477
+Sending packet with sequence number 478
+
+waitingForAck = 469
+Received ACK for 470
+elapsed time : 1
+
+waitingForAck = 469
+Received ACK for 471
+elapsed time : 2
+
+waitingForAck = 469
+Received ACK for 472
+elapsed time : 2
+
+waitingForAck = 469
+Received ACK for 473
+elapsed time : 1
+
+waitingForAck = 469
+Received ACK for 474
+elapsed time : 1
+
+waitingForAck = 469
+Received ACK for 475
+elapsed time : 1
+
+waitingForAck = 469
+Received ACK for 477
+elapsed time : 1
+
+waitingForAck = 469
+Received ACK for 478
+elapsed time : 2
+
+Resending packet with sequence number 469
+
+waitingForAck = 469
+Received ACK for 469
+elapsed time : 215
+Sending packet with sequence number 479
+Sending packet with sequence number 480
+Sending packet with sequence number 481
+Sending packet with sequence number 482
+Sending packet with sequence number 483
+Sending packet with sequence number 484
+Sending packet with sequence number 485
+
+waitingForAck = 476
+Received ACK for 479
+elapsed time : 1
+
+waitingForAck = 476
+Received ACK for 481
+elapsed time : 0
+
+waitingForAck = 476
+Received ACK for 482
+elapsed time : 0
+
+waitingForAck = 476
+Received ACK for 483
+elapsed time : 0
+
+waitingForAck = 476
+Received ACK for 484
+elapsed time : 1
+
+waitingForAck = 476
+Received ACK for 485
+elapsed time : 1
+
+Resending packet with sequence number 476
+
+waitingForAck = 476
+Received ACK for 476
+elapsed time : 215
+Sending packet with sequence number 486
+Sending packet with sequence number 487
+Sending packet with sequence number 488
+Sending packet with sequence number 489
+
+waitingForAck = 480
+Received ACK for 487
+elapsed time : 0
+
+waitingForAck = 480
+Received ACK for 488
+elapsed time : 0
+
+waitingForAck = 480
+Received ACK for 489
+elapsed time : 0
+
+Resending packet with sequence number 480
+
+waitingForAck = 480
+Received ACK for 480
+elapsed time : 217
+Sending packet with sequence number 490
+Sending packet with sequence number 491
+Sending packet with sequence number 492
+Sending packet with sequence number 493
+Sending packet with sequence number 494
+Sending packet with sequence number 495
+
+waitingForAck = 486
+Received ACK for 491
+elapsed time : 0
+
+waitingForAck = 486
+Received ACK for 493
+elapsed time : 0
+
+waitingForAck = 486
+Received ACK for 494
+elapsed time : 0
+
+waitingForAck = 486
+Received ACK for 495
+elapsed time : 0
+
+Resending packet with sequence number 486
+
+waitingForAck = 486
+Received ACK for 486
+elapsed time : 219
+Sending packet with sequence number 496
+Sending packet with sequence number 497
+Sending packet with sequence number 498
+Sending packet with sequence number 499
+
+waitingForAck = 490
+Received ACK for 496
+elapsed time : 0
+
+waitingForAck = 490
+Received ACK for 497
+elapsed time : 1
+
+waitingForAck = 490
+Received ACK for 499
+elapsed time : 1
+
+Resending packet with sequence number 490
+
+waitingForAck = 490
+Received ACK for 490
+elapsed time : 217
+Sending packet with sequence number 500
+Sending packet with sequence number 501
+
+waitingForAck = 492
+Received ACK for 500
+elapsed time : 0
+
+waitingForAck = 492
+Received ACK for 501
+elapsed time : 0
+
+Resending packet with sequence number 492
+
+waitingForAck = 492
+Received ACK for 492
+elapsed time : 324
+Sending packet with sequence number 502
+Sending packet with sequence number 503
+Sending packet with sequence number 504
+Sending packet with sequence number 505
+Sending packet with sequence number 506
+Sending packet with sequence number 507
+
+waitingForAck = 498
+Received ACK for 502
+elapsed time : 0
+
+waitingForAck = 498
+Received ACK for 505
+elapsed time : 0
+
+waitingForAck = 498
+Received ACK for 506
+elapsed time : 0
+
+waitingForAck = 498
+Received ACK for 507
+elapsed time : 1
+
+Resending packet with sequence number 498
+
+waitingForAck = 498
+Received ACK for 498
+elapsed time : 322
+Sending packet with sequence number 508
+Sending packet with sequence number 509
+Sending packet with sequence number 510
+Sending packet with sequence number 511
+Sending packet with sequence number 512
+
+waitingForAck = 503
+Received ACK for 508
+elapsed time : 1
+
+waitingForAck = 503
+Received ACK for 510
+elapsed time : 1
+
+waitingForAck = 503
+Received ACK for 511
+elapsed time : 0
+
+waitingForAck = 503
+Received ACK for 512
+elapsed time : 0
+
+Resending packet with sequence number 503
+
+waitingForAck = 503
+Received ACK for 503
+elapsed time : 215
+Sending packet with sequence number 513
+
+waitingForAck = 504
+Received ACK for 513
+elapsed time : 1
+
+Resending packet with sequence number 504
+
+waitingForAck = 504
+Received ACK for 504
+elapsed time : 322
+Sending packet with sequence number 514
+Sending packet with sequence number 515
+Sending packet with sequence number 516
+Sending packet with sequence number 517
+Sending packet with sequence number 518
+
+waitingForAck = 509
+Received ACK for 514
+elapsed time : 1
+
+waitingForAck = 509
+Received ACK for 516
+elapsed time : 0
+
+waitingForAck = 509
+Received ACK for 517
+elapsed time : 0
+
+waitingForAck = 509
+Received ACK for 518
+elapsed time : 0
+
+Resending packet with sequence number 509
+
+waitingForAck = 509
+Received ACK for 509
+elapsed time : 323
+Sending packet with sequence number 519
+Sending packet with sequence number 520
+Sending packet with sequence number 521
+Sending packet with sequence number 522
+Sending packet with sequence number 523
+Sending packet with sequence number 524
+
+waitingForAck = 515
+Received ACK for 519
+elapsed time : 0
+
+waitingForAck = 515
+Received ACK for 520
+elapsed time : 0
+
+waitingForAck = 515
+Received ACK for 521
+elapsed time : 0
+
+waitingForAck = 515
+Received ACK for 522
+elapsed time : 1
+
+waitingForAck = 515
+Received ACK for 523
+elapsed time : 1
+
+waitingForAck = 515
+Received ACK for 524
+elapsed time : 1
+
+Resending packet with sequence number 515
+
+Resending packet with sequence number 515
+
+waitingForAck = 515
+Received ACK for 515
+elapsed time : 321
+Sending packet with sequence number 525
+Sending packet with sequence number 526
+Sending packet with sequence number 527
+Sending packet with sequence number 528
+Sending packet with sequence number 529
+Sending packet with sequence number 530
+Sending packet with sequence number 531
+Sending packet with sequence number 532
+Sending packet with sequence number 533
+Sending packet with sequence number 534
+
+waitingForAck = 525
+Received ACK for 525
+elapsed time : 1
+Sending packet with sequence number 535
+
+waitingForAck = 526
+Received ACK for 526
+elapsed time : 1
+Sending packet with sequence number 536
+
+waitingForAck = 527
+Received ACK for 527
+elapsed time : 1
+Sending packet with sequence number 537
+
+waitingForAck = 528
+Received ACK for 528
+elapsed time : 1
+Sending packet with sequence number 538
+
+waitingForAck = 529
+Received ACK for 529
+elapsed time : 1
+Sending packet with sequence number 539
+
+waitingForAck = 530
+Received ACK for 530
+elapsed time : 2
+Sending packet with sequence number 540
+
+waitingForAck = 531
+Received ACK for 531
+elapsed time : 2
+Sending packet with sequence number 541
+
+waitingForAck = 532
+Received ACK for 532
+elapsed time : 2
+Sending packet with sequence number 542
+
+waitingForAck = 533
+Received ACK for 533
+elapsed time : 2
+Sending packet with sequence number 543
+
+waitingForAck = 534
+Received ACK for 534
+elapsed time : 2
+Sending packet with sequence number 544
+
+waitingForAck = 535
+Received ACK for 535
+elapsed time : 1
+Sending packet with sequence number 545
+
+waitingForAck = 536
+Received ACK for 537
+elapsed time : 2
+
+waitingForAck = 536
+Received ACK for 539
+elapsed time : 2
+
+waitingForAck = 536
+Received ACK for 540
+elapsed time : 1
+
+waitingForAck = 536
+Received ACK for 541
+elapsed time : 1
+
+waitingForAck = 536
+Received ACK for 542
+elapsed time : 1
+
+waitingForAck = 536
+Received ACK for 543
+elapsed time : 1
+
+waitingForAck = 536
+Received ACK for 544
+elapsed time : 1
+
+waitingForAck = 536
+Received ACK for 545
+elapsed time : 1
+
+Resending packet with sequence number 536
+
+waitingForAck = 536
+Received ACK for 536
+elapsed time : 106
+Sending packet with sequence number 546
+Sending packet with sequence number 547
+
+waitingForAck = 538
+Received ACK for 547
+elapsed time : 1
+
+Resending packet with sequence number 538
+
+waitingForAck = 538
+Received ACK for 538
+elapsed time : 214
+Sending packet with sequence number 548
+Sending packet with sequence number 549
+Sending packet with sequence number 550
+Sending packet with sequence number 551
+Sending packet with sequence number 552
+Sending packet with sequence number 553
+Sending packet with sequence number 554
+Sending packet with sequence number 555
+
+waitingForAck = 546
+Received ACK for 548
+elapsed time : 0
+
+waitingForAck = 546
+Received ACK for 549
+elapsed time : 0
+
+waitingForAck = 546
+Received ACK for 550
+elapsed time : 0
+
+waitingForAck = 546
+Received ACK for 551
+elapsed time : 0
+
+waitingForAck = 546
+Received ACK for 552
+elapsed time : 1
+
+waitingForAck = 546
+Received ACK for 553
+elapsed time : 1
+
+waitingForAck = 546
+Received ACK for 554
+elapsed time : 1
+
+Resending packet with sequence number 546
+
+Resending packet with sequence number 546
+
+waitingForAck = 546
+Received ACK for 546
+elapsed time : 325
+Sending packet with sequence number 556
+Sending packet with sequence number 557
+Sending packet with sequence number 558
+Sending packet with sequence number 559
+Sending packet with sequence number 560
+Sending packet with sequence number 561
+Sending packet with sequence number 562
+Sending packet with sequence number 563
+Sending packet with sequence number 564
+
+waitingForAck = 555
+Received ACK for 556
+elapsed time : 1
+
+waitingForAck = 555
+Received ACK for 557
+elapsed time : 1
+
+waitingForAck = 555
+Received ACK for 558
+elapsed time : 1
+
+waitingForAck = 555
+Received ACK for 559
+elapsed time : 0
+
+waitingForAck = 555
+Received ACK for 560
+elapsed time : 0
+
+waitingForAck = 555
+Received ACK for 561
+elapsed time : 0
+
+waitingForAck = 555
+Received ACK for 562
+elapsed time : 1
+
+waitingForAck = 555
+Received ACK for 563
+elapsed time : 1
+
+waitingForAck = 555
+Received ACK for 564
+elapsed time : 1
+
+Resending packet with sequence number 555
+
+waitingForAck = 555
+Received ACK for 555
+elapsed time : 323
+Sending packet with sequence number 565
+Sending packet with sequence number 566
+Sending packet with sequence number 567
+Sending packet with sequence number 568
+Sending packet with sequence number 569
+Sending packet with sequence number 570
+Sending packet with sequence number 571
+Sending packet with sequence number 572
+Sending packet with sequence number 573
+Sending packet with sequence number 574
+
+waitingForAck = 565
+Received ACK for 565
+elapsed time : 1
+Sending packet with sequence number 575
+
+waitingForAck = 566
+Received ACK for 566
+elapsed time : 1
+Sending packet with sequence number 576
+
+waitingForAck = 567
+Received ACK for 567
+elapsed time : 0
+Sending packet with sequence number 577
+
+waitingForAck = 568
+Received ACK for 568
+elapsed time : 0
+Sending packet with sequence number 578
+
+waitingForAck = 569
+Received ACK for 569
+elapsed time : 1
+Sending packet with sequence number 579
+
+waitingForAck = 570
+Received ACK for 570
+elapsed time : 1
+Sending packet with sequence number 580
+
+waitingForAck = 571
+Received ACK for 571
+elapsed time : 1
+Sending packet with sequence number 581
+
+waitingForAck = 572
+Received ACK for 572
+elapsed time : 1
+Sending packet with sequence number 582
+
+waitingForAck = 573
+Received ACK for 573
+elapsed time : 1
+Sending packet with sequence number 583
+
+waitingForAck = 574
+Received ACK for 574
+elapsed time : 2
+Sending packet with sequence number 584
+
+waitingForAck = 575
+Received ACK for 575
+elapsed time : 2
+Sending packet with sequence number 585
+
+waitingForAck = 576
+Received ACK for 576
+elapsed time : 2
+Sending packet with sequence number 586
+
+waitingForAck = 577
+Received ACK for 577
+elapsed time : 2
+Sending packet with sequence number 587
+
+waitingForAck = 578
+Received ACK for 578
+elapsed time : 2
+Sending packet with sequence number 588
+
+waitingForAck = 579
+Received ACK for 579
+elapsed time : 2
+Sending packet with sequence number 589
+
+waitingForAck = 580
+Received ACK for 580
+elapsed time : 2
+Sending packet with sequence number 590
+
+waitingForAck = 581
+Received ACK for 581
+elapsed time : 2
+Sending packet with sequence number 591
+
+waitingForAck = 582
+Received ACK for 582
+elapsed time : 2
+Sending packet with sequence number 592
+
+waitingForAck = 583
+Received ACK for 583
+elapsed time : 2
+Sending packet with sequence number 593
+
+waitingForAck = 584
+Received ACK for 584
+elapsed time : 1
+Sending packet with sequence number 594
+
+waitingForAck = 585
+Received ACK for 585
+elapsed time : 2
+Sending packet with sequence number 595
+
+waitingForAck = 586
+Received ACK for 586
+elapsed time : 2
+Sending packet with sequence number 596
+
+waitingForAck = 587
+Received ACK for 587
+elapsed time : 2
+Sending packet with sequence number 597
+
+waitingForAck = 588
+Received ACK for 589
+elapsed time : 1
+
+waitingForAck = 588
+Received ACK for 590
+elapsed time : 1
+
+waitingForAck = 588
+Received ACK for 591
+elapsed time : 1
+
+waitingForAck = 588
+Received ACK for 592
+elapsed time : 1
+
+waitingForAck = 588
+Received ACK for 593
+elapsed time : 1
+
+waitingForAck = 588
+Received ACK for 594
+elapsed time : 1
+
+waitingForAck = 588
+Received ACK for 595
+elapsed time : 0
+
+waitingForAck = 588
+Received ACK for 596
+elapsed time : 0
+
+waitingForAck = 588
+Received ACK for 597
+elapsed time : 1
+
+Resending packet with sequence number 588
+
+waitingForAck = 588
+Received ACK for 588
+elapsed time : 105
+Sending packet with sequence number 598
+Sending packet with sequence number 599
+Sending packet with sequence number 600
+Sending packet with sequence number 601
+Sending packet with sequence number 602
+Sending packet with sequence number 603
+Sending packet with sequence number 604
+Sending packet with sequence number 605
+Sending packet with sequence number 606
+Sending packet with sequence number 607
+
+waitingForAck = 598
+Received ACK for 598
+elapsed time : 1
+Sending packet with sequence number 608
+
+waitingForAck = 599
+Received ACK for 599
+elapsed time : 1
+Sending packet with sequence number 609
+
+waitingForAck = 600
+Received ACK for 600
+elapsed time : 0
+Sending packet with sequence number 610
+
+waitingForAck = 601
+Received ACK for 601
+elapsed time : 0
+Sending packet with sequence number 611
+
+waitingForAck = 602
+Received ACK for 602
+elapsed time : 1
+Sending packet with sequence number 612
+
+waitingForAck = 603
+Received ACK for 603
+elapsed time : 1
+Sending packet with sequence number 613
+
+waitingForAck = 604
+Received ACK for 604
+elapsed time : 1
+Sending packet with sequence number 614
+
+waitingForAck = 605
+Received ACK for 605
+elapsed time : 1
+Sending packet with sequence number 615
+
+waitingForAck = 606
+Received ACK for 606
+elapsed time : 1
+Sending packet with sequence number 616
+
+waitingForAck = 607
+Received ACK for 607
+elapsed time : 1
+Sending packet with sequence number 617
+
+waitingForAck = 608
+Received ACK for 608
+elapsed time : 1
+Sending packet with sequence number 618
+
+waitingForAck = 609
+Received ACK for 609
+elapsed time : 2
+Sending packet with sequence number 619
+
+waitingForAck = 610
+Received ACK for 610
+elapsed time : 2
+Sending packet with sequence number 620
+
+waitingForAck = 611
+Received ACK for 611
+elapsed time : 2
+Sending packet with sequence number 621
+
+waitingForAck = 612
+Received ACK for 612
+elapsed time : 1
+Sending packet with sequence number 622
+
+waitingForAck = 613
+Received ACK for 613
+elapsed time : 1
+Sending packet with sequence number 623
+
+waitingForAck = 614
+Received ACK for 614
+elapsed time : 1
+Sending packet with sequence number 624
+
+waitingForAck = 615
+Received ACK for 615
+elapsed time : 1
+Sending packet with sequence number 625
+
+waitingForAck = 616
+Received ACK for 616
+elapsed time : 2
+Sending packet with sequence number 626
+
+waitingForAck = 617
+Received ACK for 617
+elapsed time : 2
+Sending packet with sequence number 627
+
+waitingForAck = 618
+Received ACK for 618
+elapsed time : 2
+Sending packet with sequence number 628
+
+waitingForAck = 619
+Received ACK for 619
+elapsed time : 1
+Sending packet with sequence number 629
+
+waitingForAck = 620
+Received ACK for 620
+elapsed time : 1
+Sending packet with sequence number 630
+
+waitingForAck = 621
+Received ACK for 621
+elapsed time : 1
+Sending packet with sequence number 631
+
+waitingForAck = 622
+Received ACK for 622
+elapsed time : 1
+Sending packet with sequence number 632
+
+waitingForAck = 623
+Received ACK for 623
+elapsed time : 2
+Sending packet with sequence number 633
+
+waitingForAck = 624
+Received ACK for 624
+elapsed time : 2
+Sending packet with sequence number 634
+
+waitingForAck = 625
+Received ACK for 625
+elapsed time : 2
+Sending packet with sequence number 635
+
+waitingForAck = 626
+Received ACK for 626
+elapsed time : 1
+Sending packet with sequence number 636
+
+waitingForAck = 627
+Received ACK for 627
+elapsed time : 1
+Sending packet with sequence number 637
+
+waitingForAck = 628
+Received ACK for 628
+elapsed time : 1
+Sending packet with sequence number 638
+
+waitingForAck = 629
+Received ACK for 629
+elapsed time : 1
+Sending packet with sequence number 639
+
+waitingForAck = 630
+Received ACK for 630
+elapsed time : 2
+Sending packet with sequence number 640
+
+waitingForAck = 631
+Received ACK for 631
+elapsed time : 2
+Sending packet with sequence number 641
+
+waitingForAck = 632
+Received ACK for 632
+elapsed time : 2
+Sending packet with sequence number 642
+
+waitingForAck = 633
+Received ACK for 633
+elapsed time : 1
+Sending packet with sequence number 643
+
+waitingForAck = 634
+Received ACK for 634
+elapsed time : 1
+Sending packet with sequence number 644
+
+waitingForAck = 635
+Received ACK for 635
+elapsed time : 1
+Sending packet with sequence number 645
+
+waitingForAck = 636
+Received ACK for 636
+elapsed time : 2
+Sending packet with sequence number 646
+
+waitingForAck = 637
+Received ACK for 637
+elapsed time : 2
+Sending packet with sequence number 647
+
+waitingForAck = 638
+Received ACK for 638
+elapsed time : 2
+Sending packet with sequence number 648
+
+waitingForAck = 639
+Received ACK for 639
+elapsed time : 1
+Sending packet with sequence number 649
+
+waitingForAck = 640
+Received ACK for 641
+elapsed time : 2
+
+waitingForAck = 640
+Received ACK for 643
+elapsed time : 2
+
+waitingForAck = 640
+Received ACK for 644
+elapsed time : 2
+
+waitingForAck = 640
+Received ACK for 645
+elapsed time : 2
+
+waitingForAck = 640
+Received ACK for 646
+elapsed time : 1
+
+waitingForAck = 640
+Received ACK for 648
+elapsed time : 1
+
+waitingForAck = 640
+Received ACK for 649
+elapsed time : 2
+
+Resending packet with sequence number 640
+
+waitingForAck = 640
+Received ACK for 640
+elapsed time : 117
+Sending packet with sequence number 650
+Sending packet with sequence number 651
+
+waitingForAck = 642
+Received ACK for 650
+elapsed time : 0
+
+waitingForAck = 642
+Received ACK for 651
+elapsed time : 0
+
+Resending packet with sequence number 642
+
+waitingForAck = 642
+Received ACK for 642
+elapsed time : 227
+Sending packet with sequence number 652
+Sending packet with sequence number 653
+Sending packet with sequence number 654
+Sending packet with sequence number 655
+Sending packet with sequence number 656
+
+waitingForAck = 647
+Received ACK for 652
+elapsed time : 1
+
+waitingForAck = 647
+Received ACK for 653
+elapsed time : 1
+
+waitingForAck = 647
+Received ACK for 654
+elapsed time : 1
+
+waitingForAck = 647
+Received ACK for 655
+elapsed time : 1
+
+waitingForAck = 647
+Received ACK for 656
+elapsed time : 0
+
+Resending packet with sequence number 647
+
+waitingForAck = 647
+Received ACK for 647
+elapsed time : 333
+Sending packet with sequence number 657
+Sending packet with sequence number 658
+Sending packet with sequence number 659
+Sending packet with sequence number 660
+Sending packet with sequence number 661
+Sending packet with sequence number 662
+Sending packet with sequence number 663
+Sending packet with sequence number 664
+Sending packet with sequence number 665
+Sending packet with sequence number 666
+
+waitingForAck = 657
+Received ACK for 657
+elapsed time : 1
+Sending packet with sequence number 667
+
+waitingForAck = 658
+Received ACK for 658
+elapsed time : 1
+Sending packet with sequence number 668
+
+waitingForAck = 659
+Received ACK for 659
+elapsed time : 1
+Sending packet with sequence number 669
+
+waitingForAck = 660
+Received ACK for 660
+elapsed time : 1
+Sending packet with sequence number 670
+
+waitingForAck = 661
+Received ACK for 661
+elapsed time : 1
+Sending packet with sequence number 671
+
+waitingForAck = 662
+Received ACK for 662
+elapsed time : 1
+Sending packet with sequence number 672
+
+waitingForAck = 663
+Received ACK for 663
+elapsed time : 1
+Sending packet with sequence number 673
+
+waitingForAck = 664
+Received ACK for 664
+elapsed time : 1
+Sending packet with sequence number 674
+
+waitingForAck = 665
+Received ACK for 665
+elapsed time : 1
+Sending packet with sequence number 675
+
+waitingForAck = 666
+Received ACK for 666
+elapsed time : 1
+Sending packet with sequence number 676
+
+waitingForAck = 667
+Received ACK for 668
+elapsed time : 2
+
+waitingForAck = 667
+Received ACK for 669
+elapsed time : 1
+
+waitingForAck = 667
+Received ACK for 670
+elapsed time : 1
+
+waitingForAck = 667
+Received ACK for 671
+elapsed time : 1
+
+waitingForAck = 667
+Received ACK for 672
+elapsed time : 1
+
+waitingForAck = 667
+Received ACK for 673
+elapsed time : 1
+
+waitingForAck = 667
+Received ACK for 674
+elapsed time : 1
+
+waitingForAck = 667
+Received ACK for 675
+elapsed time : 1
+
+waitingForAck = 667
+Received ACK for 676
+elapsed time : 2
+
+Resending packet with sequence number 667
+
+waitingForAck = 667
+Received ACK for 667
+elapsed time : 109
+Sending packet with sequence number 677
+Sending packet with sequence number 678
+Sending packet with sequence number 679
+Sending packet with sequence number 680
+Sending packet with sequence number 681
+Sending packet with sequence number 682
+Sending packet with sequence number 683
+Sending packet with sequence number 684
+Sending packet with sequence number 685
+Sending packet with sequence number 686
+
+waitingForAck = 677
+Received ACK for 677
+elapsed time : 1
+Sending packet with sequence number 687
+
+waitingForAck = 678
+Received ACK for 678
+elapsed time : 1
+Sending packet with sequence number 688
+
+waitingForAck = 679
+Received ACK for 679
+elapsed time : 1
+Sending packet with sequence number 689
+
+waitingForAck = 680
+Received ACK for 680
+elapsed time : 0
+Sending packet with sequence number 690
+
+waitingForAck = 681
+Received ACK for 681
+elapsed time : 1
+Sending packet with sequence number 691
+
+waitingForAck = 682
+Received ACK for 682
+elapsed time : 1
+Sending packet with sequence number 692
+
+waitingForAck = 683
+Received ACK for 683
+elapsed time : 1
+Sending packet with sequence number 693
+
+waitingForAck = 684
+Received ACK for 684
+elapsed time : 1
+Sending packet with sequence number 694
+
+waitingForAck = 685
+Received ACK for 686
+elapsed time : 1
+
+waitingForAck = 685
+Received ACK for 687
+elapsed time : 1
+
+waitingForAck = 685
+Received ACK for 688
+elapsed time : 1
+
+waitingForAck = 685
+Received ACK for 689
+elapsed time : 1
+
+waitingForAck = 685
+Received ACK for 690
+elapsed time : 2
+
+waitingForAck = 685
+Received ACK for 691
+elapsed time : 1
+
+waitingForAck = 685
+Received ACK for 692
+elapsed time : 1
+
+waitingForAck = 685
+Received ACK for 693
+elapsed time : 1
+
+waitingForAck = 685
+Received ACK for 694
+elapsed time : 1
+
+Resending packet with sequence number 685
+
+waitingForAck = 685
+Received ACK for 685
+elapsed time : 108
+Sending packet with sequence number 695
+Sending packet with sequence number 696
+Sending packet with sequence number 697
+Sending packet with sequence number 698
+Sending packet with sequence number 699
+Sending packet with sequence number 700
+Sending packet with sequence number 701
+Sending packet with sequence number 702
+Sending packet with sequence number 703
+Sending packet with sequence number 704
+
+waitingForAck = 695
+Received ACK for 695
+elapsed time : 0
+Sending packet with sequence number 705
+
+waitingForAck = 696
+Received ACK for 696
+elapsed time : 1
+Sending packet with sequence number 706
+
+waitingForAck = 697
+Received ACK for 697
+elapsed time : 1
+Sending packet with sequence number 707
+
+waitingForAck = 698
+Received ACK for 698
+elapsed time : 1
+Sending packet with sequence number 708
+
+waitingForAck = 699
+Received ACK for 699
+elapsed time : 1
+Sending packet with sequence number 709
+
+waitingForAck = 700
+Received ACK for 700
+elapsed time : 1
+Sending packet with sequence number 710
+
+waitingForAck = 701
+Received ACK for 701
+elapsed time : 1
+Sending packet with sequence number 711
+
+waitingForAck = 702
+Received ACK for 702
+elapsed time : 2
+Sending packet with sequence number 712
+
+waitingForAck = 703
+Received ACK for 703
+elapsed time : 2
+Sending packet with sequence number 713
+
+waitingForAck = 704
+Received ACK for 704
+elapsed time : 2
+Sending packet with sequence number 714
+
+waitingForAck = 705
+Received ACK for 707
+elapsed time : 1
+
+waitingForAck = 705
+Received ACK for 708
+elapsed time : 1
+
+waitingForAck = 705
+Received ACK for 709
+elapsed time : 1
+
+waitingForAck = 705
+Received ACK for 710
+elapsed time : 1
+
+waitingForAck = 705
+Received ACK for 711
+elapsed time : 1
+
+waitingForAck = 705
+Received ACK for 712
+elapsed time : 1
+
+waitingForAck = 705
+Received ACK for 713
+elapsed time : 1
+
+waitingForAck = 705
+Received ACK for 714
+elapsed time : 1
+
+Resending packet with sequence number 705
+
+waitingForAck = 705
+Received ACK for 705
+elapsed time : 107
+Sending packet with sequence number 715
+
+waitingForAck = 706
+Received ACK for 715
+elapsed time : 1
+
+Resending packet with sequence number 706
+
+waitingForAck = 706
+Received ACK for 706
+elapsed time : 214
+Sending packet with sequence number 716
+Sending packet with sequence number 717
+Sending packet with sequence number 718
+Sending packet with sequence number 719
+Sending packet with sequence number 720
+Sending packet with sequence number 721
+Sending packet with sequence number 722
+Sending packet with sequence number 723
+Sending packet with sequence number 724
+Sending packet with sequence number 725
+
+waitingForAck = 716
+Received ACK for 716
+elapsed time : 1
+Sending packet with sequence number 726
+
+waitingForAck = 717
+Received ACK for 717
+elapsed time : 1
+Sending packet with sequence number 727
+
+waitingForAck = 718
+Received ACK for 718
+elapsed time : 1
+Sending packet with sequence number 728
+
+waitingForAck = 719
+Received ACK for 719
+elapsed time : 1
+Sending packet with sequence number 729
+
+waitingForAck = 720
+Received ACK for 720
+elapsed time : 1
+Sending packet with sequence number 730
+
+waitingForAck = 721
+Received ACK for 721
+elapsed time : 1
+Sending packet with sequence number 731
+
+waitingForAck = 722
+Received ACK for 722
+elapsed time : 1
+Sending packet with sequence number 732
+
+waitingForAck = 723
+Received ACK for 723
+elapsed time : 1
+Sending packet with sequence number 733
+
+waitingForAck = 724
+Received ACK for 724
+elapsed time : 2
+Sending packet with sequence number 734
+
+waitingForAck = 725
+Received ACK for 725
+elapsed time : 2
+Sending packet with sequence number 735
+
+waitingForAck = 726
+Received ACK for 726
+elapsed time : 1
+Sending packet with sequence number 736
+
+waitingForAck = 727
+Received ACK for 727
+elapsed time : 1
+Sending packet with sequence number 737
+
+waitingForAck = 728
+Received ACK for 728
+elapsed time : 1
+Sending packet with sequence number 738
+
+waitingForAck = 729
+Received ACK for 729
+elapsed time : 1
+Sending packet with sequence number 739
+
+waitingForAck = 730
+Received ACK for 730
+elapsed time : 1
+Sending packet with sequence number 740
+
+waitingForAck = 731
+Received ACK for 731
+elapsed time : 2
+Sending packet with sequence number 741
+
+waitingForAck = 732
+Received ACK for 732
+elapsed time : 2
+Sending packet with sequence number 742
+
+waitingForAck = 733
+Received ACK for 734
+elapsed time : 1
+
+waitingForAck = 733
+Received ACK for 735
+elapsed time : 1
+
+waitingForAck = 733
+Received ACK for 736
+elapsed time : 1
+
+waitingForAck = 733
+Received ACK for 737
+elapsed time : 1
+
+waitingForAck = 733
+Received ACK for 738
+elapsed time : 1
+
+waitingForAck = 733
+Received ACK for 739
+elapsed time : 2
+
+waitingForAck = 733
+Received ACK for 740
+elapsed time : 2
+
+waitingForAck = 733
+Received ACK for 741
+elapsed time : 1
+
+waitingForAck = 733
+Received ACK for 742
+elapsed time : 1
+
+Resending packet with sequence number 733
+
+waitingForAck = 733
+Received ACK for 733
+elapsed time : 106
+Sending packet with sequence number 743
+Sending packet with sequence number 744
+Sending packet with sequence number 745
+Sending packet with sequence number 746
+Sending packet with sequence number 747
+Sending packet with sequence number 748
+Sending packet with sequence number 749
+Sending packet with sequence number 750
+Sending packet with sequence number 751
+Sending packet with sequence number 752
+
+waitingForAck = 743
+Received ACK for 743
+elapsed time : 1
+Sending packet with sequence number 753
+
+waitingForAck = 744
+Received ACK for 744
+elapsed time : 1
+Sending packet with sequence number 754
+
+waitingForAck = 745
+Received ACK for 746
+elapsed time : 0
+
+waitingForAck = 745
+Received ACK for 747
+elapsed time : 0
+
+waitingForAck = 745
+Received ACK for 748
+elapsed time : 0
+
+waitingForAck = 745
+Received ACK for 749
+elapsed time : 0
+
+waitingForAck = 745
+Received ACK for 750
+elapsed time : 1
+
+waitingForAck = 745
+Received ACK for 751
+elapsed time : 1
+
+waitingForAck = 745
+Received ACK for 752
+elapsed time : 1
+
+waitingForAck = 745
+Received ACK for 753
+elapsed time : 1
+
+waitingForAck = 745
+Received ACK for 754
+elapsed time : 1
+
+Resending packet with sequence number 745
+
+waitingForAck = 745
+Received ACK for 745
+elapsed time : 109
+Sending packet with sequence number 755
+Sending packet with sequence number 756
+Sending packet with sequence number 757
+Sending packet with sequence number 758
+Sending packet with sequence number 759
+Sending packet with sequence number 760
+Sending packet with sequence number 761
+Sending packet with sequence number 762
+Sending packet with sequence number 763
+Sending packet with sequence number 764
+
+waitingForAck = 755
+Received ACK for 755
+elapsed time : 1
+Sending packet with sequence number 765
+
+waitingForAck = 756
+Received ACK for 756
+elapsed time : 1
+Sending packet with sequence number 766
+
+waitingForAck = 757
+Received ACK for 757
+elapsed time : 2
+Sending packet with sequence number 767
+
+waitingForAck = 758
+Received ACK for 758
+elapsed time : 2
+Sending packet with sequence number 768
+
+waitingForAck = 759
+Received ACK for 759
+elapsed time : 2
+Sending packet with sequence number 769
+
+waitingForAck = 760
+Received ACK for 760
+elapsed time : 1
+Sending packet with sequence number 770
+
+waitingForAck = 761
+Received ACK for 761
+elapsed time : 1
+Sending packet with sequence number 771
+
+waitingForAck = 762
+Received ACK for 762
+elapsed time : 1
+Sending packet with sequence number 772
+
+waitingForAck = 763
+Received ACK for 763
+elapsed time : 1
+Sending packet with sequence number 773
+
+waitingForAck = 764
+Received ACK for 764
+elapsed time : 1
+Sending packet with sequence number 774
+
+waitingForAck = 765
+Received ACK for 765
+elapsed time : 2
+Sending packet with sequence number 775
+
+waitingForAck = 766
+Received ACK for 766
+elapsed time : 2
+Sending packet with sequence number 776
+
+waitingForAck = 767
+Received ACK for 767
+elapsed time : 1
+Sending packet with sequence number 777
+
+waitingForAck = 768
+Received ACK for 768
+elapsed time : 1
+Sending packet with sequence number 778
+
+waitingForAck = 769
+Received ACK for 770
+elapsed time : 1
+
+waitingForAck = 769
+Received ACK for 771
+elapsed time : 1
+
+waitingForAck = 769
+Received ACK for 772
+elapsed time : 1
+
+waitingForAck = 769
+Received ACK for 773
+elapsed time : 1
+
+waitingForAck = 769
+Received ACK for 774
+elapsed time : 2
+
+waitingForAck = 769
+Received ACK for 775
+elapsed time : 1
+
+waitingForAck = 769
+Received ACK for 778
+elapsed time : 1
+
+Resending packet with sequence number 769
+
+waitingForAck = 769
+Received ACK for 769
+elapsed time : 104
+Sending packet with sequence number 779
+Sending packet with sequence number 780
+Sending packet with sequence number 781
+Sending packet with sequence number 782
+Sending packet with sequence number 783
+Sending packet with sequence number 784
+Sending packet with sequence number 785
+
+waitingForAck = 776
+Received ACK for 779
+elapsed time : 1
+
+waitingForAck = 776
+Received ACK for 780
+elapsed time : 1
+
+waitingForAck = 776
+Received ACK for 781
+elapsed time : 1
+
+waitingForAck = 776
+Received ACK for 782
+elapsed time : 0
+
+waitingForAck = 776
+Received ACK for 783
+elapsed time : 0
+
+waitingForAck = 776
+Received ACK for 784
+elapsed time : 0
+
+waitingForAck = 776
+Received ACK for 785
+elapsed time : 1
+
+Resending packet with sequence number 776
+
+waitingForAck = 776
+Received ACK for 776
+elapsed time : 210
+Sending packet with sequence number 786
+
+waitingForAck = 777
+Received ACK for 786
+elapsed time : 0
+
+Resending packet with sequence number 777
+
+waitingForAck = 777
+Received ACK for 777
+elapsed time : 317
+Sending packet with sequence number 787
+Sending packet with sequence number 788
+Sending packet with sequence number 789
+Sending packet with sequence number 790
+Sending packet with sequence number 791
+Sending packet with sequence number 792
+Sending packet with sequence number 793
+Sending packet with sequence number 794
+Sending packet with sequence number 795
+Sending packet with sequence number 796
+
+waitingForAck = 787
+Received ACK for 787
+elapsed time : 1
+Sending packet with sequence number 797
+
+waitingForAck = 788
+Received ACK for 788
+elapsed time : 1
+Sending packet with sequence number 798
+
+waitingForAck = 789
+Received ACK for 789
+elapsed time : 1
+Sending packet with sequence number 799
+
+waitingForAck = 790
+Received ACK for 790
+elapsed time : 1
+Sending packet with sequence number 800
+
+waitingForAck = 791
+Received ACK for 791
+elapsed time : 1
+Sending packet with sequence number 801
+
+waitingForAck = 792
+Received ACK for 792
+elapsed time : 1
+Sending packet with sequence number 802
+
+waitingForAck = 793
+Received ACK for 793
+elapsed time : 1
+Sending packet with sequence number 803
+
+waitingForAck = 794
+Received ACK for 794
+elapsed time : 1
+Sending packet with sequence number 804
+
+waitingForAck = 795
+Received ACK for 795
+elapsed time : 1
+Sending packet with sequence number 805
+
+waitingForAck = 796
+Received ACK for 796
+elapsed time : 1
+Sending packet with sequence number 806
+
+waitingForAck = 797
+Received ACK for 798
+elapsed time : 1
+
+waitingForAck = 797
+Received ACK for 799
+elapsed time : 1
+
+waitingForAck = 797
+Received ACK for 800
+elapsed time : 1
+
+waitingForAck = 797
+Received ACK for 801
+elapsed time : 1
+
+waitingForAck = 797
+Received ACK for 802
+elapsed time : 1
+
+waitingForAck = 797
+Received ACK for 803
+elapsed time : 1
+
+waitingForAck = 797
+Received ACK for 804
+elapsed time : 1
+
+waitingForAck = 797
+Received ACK for 805
+elapsed time : 1
+
+Resending packet with sequence number 797
+
+waitingForAck = 797
+Received ACK for 797
+elapsed time : 108
+Sending packet with sequence number 807
+Sending packet with sequence number 808
+Sending packet with sequence number 809
+Sending packet with sequence number 810
+Sending packet with sequence number 811
+Sending packet with sequence number 812
+Sending packet with sequence number 813
+Sending packet with sequence number 814
+Sending packet with sequence number 815
+
+waitingForAck = 806
+Received ACK for 808
+elapsed time : 0
+
+waitingForAck = 806
+Received ACK for 809
+elapsed time : 0
+
+waitingForAck = 806
+Received ACK for 810
+elapsed time : 0
+
+waitingForAck = 806
+Received ACK for 811
+elapsed time : 1
+
+waitingForAck = 806
+Received ACK for 812
+elapsed time : 1
+
+waitingForAck = 806
+Received ACK for 813
+elapsed time : 1
+
+waitingForAck = 806
+Received ACK for 814
+elapsed time : 1
+
+waitingForAck = 806
+Received ACK for 815
+elapsed time : 1
+
+Resending packet with sequence number 806
+
+waitingForAck = 806
+Received ACK for 806
+elapsed time : 214
+Sending packet with sequence number 816
+
+waitingForAck = 807
+Received ACK for 816
+elapsed time : 1
+
+Resending packet with sequence number 807
+
+waitingForAck = 807
+Received ACK for 807
+elapsed time : 216
+Sending packet with sequence number 817
+Sending packet with sequence number 818
+Sending packet with sequence number 819
+Sending packet with sequence number 820
+Sending packet with sequence number 821
+Sending packet with sequence number 822
+Sending packet with sequence number 823
+Sending packet with sequence number 824
+Sending packet with sequence number 825
+Sending packet with sequence number 826
+
+waitingForAck = 817
+Received ACK for 817
+elapsed time : 1
+Sending packet with sequence number 827
+
+waitingForAck = 818
+Received ACK for 818
+elapsed time : 1
+Sending packet with sequence number 828
+
+waitingForAck = 819
+Received ACK for 819
+elapsed time : 1
+Sending packet with sequence number 829
+
+waitingForAck = 820
+Received ACK for 820
+elapsed time : 0
+Sending packet with sequence number 830
+
+waitingForAck = 821
+Received ACK for 822
+elapsed time : 0
+
+waitingForAck = 821
+Received ACK for 824
+elapsed time : 0
+
+waitingForAck = 821
+Received ACK for 825
+elapsed time : 1
+
+waitingForAck = 821
+Received ACK for 826
+elapsed time : 1
+
+waitingForAck = 821
+Received ACK for 827
+elapsed time : 1
+
+waitingForAck = 821
+Received ACK for 828
+elapsed time : 1
+
+waitingForAck = 821
+Received ACK for 829
+elapsed time : 1
+
+waitingForAck = 821
+Received ACK for 830
+elapsed time : 1
+
+Resending packet with sequence number 821
+
+waitingForAck = 821
+Received ACK for 821
+elapsed time : 109
+Sending packet with sequence number 831
+Sending packet with sequence number 832
+
+waitingForAck = 823
+Received ACK for 831
+elapsed time : 1
+
+Resending packet with sequence number 823
+
+waitingForAck = 823
+Received ACK for 823
+elapsed time : 215
+Sending packet with sequence number 833
+Sending packet with sequence number 834
+Sending packet with sequence number 835
+Sending packet with sequence number 836
+Sending packet with sequence number 837
+Sending packet with sequence number 838
+Sending packet with sequence number 839
+Sending packet with sequence number 840
+Sending packet with sequence number 841
+
+waitingForAck = 832
+Received ACK for 833
+elapsed time : 1
+
+waitingForAck = 832
+Received ACK for 836
+elapsed time : 1
+
+waitingForAck = 832
+Received ACK for 838
+elapsed time : 0
+
+waitingForAck = 832
+Received ACK for 839
+elapsed time : 0
+
+waitingForAck = 832
+Received ACK for 840
+elapsed time : 0
+
+waitingForAck = 832
+Received ACK for 841
+elapsed time : 0
+
+Resending packet with sequence number 832
+
+waitingForAck = 832
+Received ACK for 832
+elapsed time : 215
+Sending packet with sequence number 842
+Sending packet with sequence number 843
+
+waitingForAck = 834
+Received ACK for 842
+elapsed time : 1
+
+waitingForAck = 834
+Received ACK for 843
+elapsed time : 1
+
+Resending packet with sequence number 834
+
+waitingForAck = 834
+Received ACK for 834
+elapsed time : 217
+Sending packet with sequence number 844
+
+waitingForAck = 835
+Received ACK for 844
+elapsed time : 1
+
+Resending packet with sequence number 835
+
+waitingForAck = 835
+Received ACK for 835
+elapsed time : 324
+Sending packet with sequence number 845
+Sending packet with sequence number 846
+
+waitingForAck = 837
+Received ACK for 845
+elapsed time : 1
+
+waitingForAck = 837
+Received ACK for 846
+elapsed time : 0
+
+Resending packet with sequence number 837
+
+waitingForAck = 837
+Received ACK for 837
+elapsed time : 432
+Sending packet with sequence number 847
+Sending packet with sequence number 848
+Sending packet with sequence number 849
+Sending packet with sequence number 850
+Sending packet with sequence number 851
+Sending packet with sequence number 852
+Sending packet with sequence number 853
+Sending packet with sequence number 854
+Sending packet with sequence number 855
+Sending packet with sequence number 856
+
+waitingForAck = 847
+Received ACK for 847
+elapsed time : 1
+Sending packet with sequence number 857
+
+waitingForAck = 848
+Received ACK for 848
+elapsed time : 1
+Sending packet with sequence number 858
+
+waitingForAck = 849
+Received ACK for 849
+elapsed time : 1
+Sending packet with sequence number 859
+
+waitingForAck = 850
+Received ACK for 850
+elapsed time : 1
+Sending packet with sequence number 860
+
+waitingForAck = 851
+Received ACK for 852
+elapsed time : 1
+
+waitingForAck = 851
+Received ACK for 853
+elapsed time : 1
+
+waitingForAck = 851
+Received ACK for 855
+elapsed time : 1
+
+waitingForAck = 851
+Received ACK for 856
+elapsed time : 1
+
+waitingForAck = 851
+Received ACK for 857
+elapsed time : 1
+
+waitingForAck = 851
+Received ACK for 858
+elapsed time : 1
+
+waitingForAck = 851
+Received ACK for 859
+elapsed time : 1
+
+waitingForAck = 851
+Received ACK for 860
+elapsed time : 0
+
+Resending packet with sequence number 851
+
+waitingForAck = 851
+Received ACK for 851
+elapsed time : 110
+Sending packet with sequence number 861
+Sending packet with sequence number 862
+Sending packet with sequence number 863
+
+waitingForAck = 854
+Received ACK for 861
+elapsed time : 0
+
+waitingForAck = 854
+Received ACK for 862
+elapsed time : 0
+
+Resending packet with sequence number 854
+
+waitingForAck = 854
+Received ACK for 854
+elapsed time : 214
+Sending packet with sequence number 864
+Sending packet with sequence number 865
+Sending packet with sequence number 866
+Sending packet with sequence number 867
+Sending packet with sequence number 868
+Sending packet with sequence number 869
+Sending packet with sequence number 870
+Sending packet with sequence number 871
+Sending packet with sequence number 872
+
+waitingForAck = 863
+Received ACK for 864
+elapsed time : 1
+
+waitingForAck = 863
+Received ACK for 865
+elapsed time : 1
+
+waitingForAck = 863
+Received ACK for 866
+elapsed time : 0
+
+waitingForAck = 863
+Received ACK for 867
+elapsed time : 0
+
+waitingForAck = 863
+Received ACK for 869
+elapsed time : 0
+
+waitingForAck = 863
+Received ACK for 870
+elapsed time : 1
+
+waitingForAck = 863
+Received ACK for 871
+elapsed time : 1
+
+waitingForAck = 863
+Received ACK for 872
+elapsed time : 1
+
+Resending packet with sequence number 863
+
+waitingForAck = 863
+Received ACK for 863
+elapsed time : 213
+Sending packet with sequence number 873
+Sending packet with sequence number 874
+Sending packet with sequence number 875
+Sending packet with sequence number 876
+Sending packet with sequence number 877
+
+waitingForAck = 868
+Received ACK for 873
+elapsed time : 1
+
+waitingForAck = 868
+Received ACK for 874
+elapsed time : 1
+
+waitingForAck = 868
+Received ACK for 875
+elapsed time : 1
+
+waitingForAck = 868
+Received ACK for 876
+elapsed time : 1
+
+waitingForAck = 868
+Received ACK for 877
+elapsed time : 1
+
+Resending packet with sequence number 868
+
+waitingForAck = 868
+Received ACK for 868
+elapsed time : 216
+Sending packet with sequence number 878
+Sending packet with sequence number 879
+Sending packet with sequence number 880
+Sending packet with sequence number 881
+Sending packet with sequence number 882
+Sending packet with sequence number 883
+Sending packet with sequence number 884
+Sending packet with sequence number 885
+Sending packet with sequence number 886
+Sending packet with sequence number 887
+
+waitingForAck = 878
+Received ACK for 878
+elapsed time : 1
+Sending packet with sequence number 888
+
+waitingForAck = 879
+Received ACK for 879
+elapsed time : 1
+Sending packet with sequence number 889
+
+waitingForAck = 880
+Received ACK for 880
+elapsed time : 1
+Sending packet with sequence number 890
+
+waitingForAck = 881
+Received ACK for 881
+elapsed time : 1
+Sending packet with sequence number 891
+
+waitingForAck = 882
+Received ACK for 882
+elapsed time : 1
+Sending packet with sequence number 892
+
+waitingForAck = 883
+Received ACK for 883
+elapsed time : 1
+Sending packet with sequence number 893
+
+waitingForAck = 884
+Received ACK for 884
+elapsed time : 1
+Sending packet with sequence number 894
+
+waitingForAck = 885
+Received ACK for 885
+elapsed time : 1
+Sending packet with sequence number 895
+
+waitingForAck = 886
+Received ACK for 887
+elapsed time : 2
+
+waitingForAck = 886
+Received ACK for 888
+elapsed time : 1
+
+waitingForAck = 886
+Received ACK for 889
+elapsed time : 1
+
+waitingForAck = 886
+Received ACK for 890
+elapsed time : 1
+
+waitingForAck = 886
+Received ACK for 891
+elapsed time : 1
+
+waitingForAck = 886
+Received ACK for 892
+elapsed time : 1
+
+waitingForAck = 886
+Received ACK for 893
+elapsed time : 1
+
+waitingForAck = 886
+Received ACK for 894
+elapsed time : 1
+
+waitingForAck = 886
+Received ACK for 895
+elapsed time : 1
+
+Resending packet with sequence number 886
+
+waitingForAck = 886
+Received ACK for 886
+elapsed time : 110
+Sending packet with sequence number 896
+Sending packet with sequence number 897
+Sending packet with sequence number 898
+Sending packet with sequence number 899
+Sending packet with sequence number 900
+Sending packet with sequence number 901
+Sending packet with sequence number 902
+Sending packet with sequence number 903
+Sending packet with sequence number 904
+Sending packet with sequence number 905
+
+waitingForAck = 896
+Received ACK for 896
+elapsed time : 1
+Sending packet with sequence number 906
+
+waitingForAck = 897
+Received ACK for 898
+elapsed time : 1
+
+waitingForAck = 897
+Received ACK for 899
+elapsed time : 1
+
+waitingForAck = 897
+Received ACK for 900
+elapsed time : 1
+
+waitingForAck = 897
+Received ACK for 901
+elapsed time : 1
+
+waitingForAck = 897
+Received ACK for 902
+elapsed time : 1
+
+waitingForAck = 897
+Received ACK for 903
+elapsed time : 1
+
+waitingForAck = 897
+Received ACK for 904
+elapsed time : 1
+
+waitingForAck = 897
+Received ACK for 906
+elapsed time : 1
+
+Resending packet with sequence number 897
+
+waitingForAck = 897
+Received ACK for 897
+elapsed time : 108
+Sending packet with sequence number 907
+Sending packet with sequence number 908
+Sending packet with sequence number 909
+Sending packet with sequence number 910
+Sending packet with sequence number 911
+Sending packet with sequence number 912
+Sending packet with sequence number 913
+Sending packet with sequence number 914
+
+waitingForAck = 905
+Received ACK for 907
+elapsed time : 1
+
+waitingForAck = 905
+Received ACK for 908
+elapsed time : 1
+
+waitingForAck = 905
+Received ACK for 910
+elapsed time : 1
+
+waitingForAck = 905
+Received ACK for 911
+elapsed time : 1
+
+waitingForAck = 905
+Received ACK for 912
+elapsed time : 0
+
+waitingForAck = 905
+Received ACK for 913
+elapsed time : 0
+
+waitingForAck = 905
+Received ACK for 914
+elapsed time : 0
+
+Resending packet with sequence number 905
+
+waitingForAck = 905
+Received ACK for 905
+elapsed time : 215
+Sending packet with sequence number 915
+Sending packet with sequence number 916
+Sending packet with sequence number 917
+Sending packet with sequence number 918
+
+waitingForAck = 909
+Received ACK for 916
+elapsed time : 0
+
+Resending packet with sequence number 909
+
+waitingForAck = 909
+Received ACK for 909
+elapsed time : 215
+Sending packet with sequence number 919
+Sending packet with sequence number 920
+Sending packet with sequence number 921
+Sending packet with sequence number 922
+Sending packet with sequence number 923
+Sending packet with sequence number 924
+
+waitingForAck = 915
+Received ACK for 920
+elapsed time : 1
+
+waitingForAck = 915
+Received ACK for 921
+elapsed time : 1
+
+waitingForAck = 915
+Received ACK for 924
+elapsed time : 1
+
+Resending packet with sequence number 915
+
+waitingForAck = 915
+Received ACK for 915
+elapsed time : 214
+Sending packet with sequence number 925
+Sending packet with sequence number 926
+
+waitingForAck = 917
+Received ACK for 925
+elapsed time : 0
+
+Resending packet with sequence number 917
+
+Resending packet with sequence number 917
+
+waitingForAck = 917
+Received ACK for 917
+elapsed time : 429
+Sending packet with sequence number 927
+
+waitingForAck = 918
+Received ACK for 927
+elapsed time : 1
+
+Resending packet with sequence number 918
+
+waitingForAck = 918
+Received ACK for 918
+elapsed time : 537
+Sending packet with sequence number 928
+
+waitingForAck = 919
+Received ACK for 928
+elapsed time : 1
+
+Resending packet with sequence number 919
+
+waitingForAck = 919
+Received ACK for 919
+elapsed time : 538
+Sending packet with sequence number 929
+Sending packet with sequence number 930
+Sending packet with sequence number 931
+
+waitingForAck = 922
+Received ACK for 929
+elapsed time : 1
+
+waitingForAck = 922
+Received ACK for 930
+elapsed time : 0
+
+waitingForAck = 922
+Received ACK for 931
+elapsed time : 0
+
+Resending packet with sequence number 922
+
+waitingForAck = 922
+Received ACK for 922
+elapsed time : 648
+Sending packet with sequence number 932
+
+waitingForAck = 923
+Received ACK for 932
+elapsed time : 1
+
+Resending packet with sequence number 923
+
+Resending packet with sequence number 923
+
+waitingForAck = 923
+Received ACK for 923
+elapsed time : 866
+Sending packet with sequence number 933
+Sending packet with sequence number 934
+Sending packet with sequence number 935
+
+waitingForAck = 926
+Received ACK for 933
+elapsed time : 1
+
+waitingForAck = 926
+Received ACK for 934
+elapsed time : 1
+
+waitingForAck = 926
+Received ACK for 935
+elapsed time : 1
+
+Resending packet with sequence number 926
+
+waitingForAck = 926
+Received ACK for 926
+elapsed time : 870
+Sending packet with sequence number 936
+Sending packet with sequence number 937
+Sending packet with sequence number 938
+Sending packet with sequence number 939
+Sending packet with sequence number 940
+Sending packet with sequence number 941
+Sending packet with sequence number 942
+Sending packet with sequence number 943
+Sending packet with sequence number 944
+Sending packet with sequence number 945
+
+waitingForAck = 936
+Received ACK for 936
+elapsed time : 1
+Sending packet with sequence number 946
+
+waitingForAck = 937
+Received ACK for 937
+elapsed time : 1
+Sending packet with sequence number 947
+
+waitingForAck = 938
+Received ACK for 938
+elapsed time : 0
+Sending packet with sequence number 948
+
+waitingForAck = 939
+Received ACK for 939
+elapsed time : 1
+Sending packet with sequence number 949
+
+waitingForAck = 940
+Received ACK for 940
+elapsed time : 1
+Sending packet with sequence number 950
+
+waitingForAck = 941
+Received ACK for 941
+elapsed time : 1
+Sending packet with sequence number 951
+
+waitingForAck = 942
+Received ACK for 942
+elapsed time : 1
+Sending packet with sequence number 952
+
+waitingForAck = 943
+Received ACK for 943
+elapsed time : 1
+Sending packet with sequence number 953
+
+waitingForAck = 944
+Received ACK for 944
+elapsed time : 1
+Sending packet with sequence number 954
+
+waitingForAck = 945
+Received ACK for 945
+elapsed time : 2
+Sending packet with sequence number 955
+
+waitingForAck = 946
+Received ACK for 946
+elapsed time : 2
+Sending packet with sequence number 956
+
+waitingForAck = 947
+Received ACK for 947
+elapsed time : 2
+Sending packet with sequence number 957
+
+waitingForAck = 948
+Received ACK for 948
+elapsed time : 2
+Sending packet with sequence number 958
+
+waitingForAck = 949
+Received ACK for 950
+elapsed time : 1
+
+waitingForAck = 949
+Received ACK for 951
+elapsed time : 1
+
+waitingForAck = 949
+Received ACK for 952
+elapsed time : 2
+
+waitingForAck = 949
+Received ACK for 953
+elapsed time : 2
+
+waitingForAck = 949
+Received ACK for 954
+elapsed time : 2
+
+waitingForAck = 949
+Received ACK for 955
+elapsed time : 1
+
+waitingForAck = 949
+Received ACK for 956
+elapsed time : 1
+
+waitingForAck = 949
+Received ACK for 957
+elapsed time : 1
+
+waitingForAck = 949
+Received ACK for 958
+elapsed time : 1
+
+Resending packet with sequence number 949
+
+waitingForAck = 949
+Received ACK for 949
+elapsed time : 108
+Sending packet with sequence number 959
+Sending packet with sequence number 960
+Sending packet with sequence number 961
+Sending packet with sequence number 962
+Sending packet with sequence number 963
+Sending packet with sequence number 964
+Sending packet with sequence number 965
+Sending packet with sequence number 966
+Sending packet with sequence number 967
+Sending packet with sequence number 968
+
+waitingForAck = 959
+Received ACK for 959
+elapsed time : 0
+Sending packet with sequence number 969
+
+waitingForAck = 960
+Received ACK for 960
+elapsed time : 0
+Sending packet with sequence number 970
+
+waitingForAck = 961
+Received ACK for 961
+elapsed time : 1
+Sending packet with sequence number 971
+
+waitingForAck = 962
+Received ACK for 962
+elapsed time : 1
+Sending packet with sequence number 972
+
+waitingForAck = 963
+Received ACK for 963
+elapsed time : 1
+Sending packet with sequence number 973
+
+waitingForAck = 964
+Received ACK for 964
+elapsed time : 1
+Sending packet with sequence number 974
+
+waitingForAck = 965
+Received ACK for 965
+elapsed time : 1
+Sending packet with sequence number 975
+
+waitingForAck = 966
+Received ACK for 966
+elapsed time : 1
+Sending packet with sequence number 976
+
+waitingForAck = 967
+Received ACK for 967
+elapsed time : 1
+Sending packet with sequence number 977
+
+waitingForAck = 968
+Received ACK for 968
+elapsed time : 2
+Sending packet with sequence number 978
+
+waitingForAck = 969
+Received ACK for 969
+elapsed time : 2
+Sending packet with sequence number 979
+
+waitingForAck = 970
+Received ACK for 970
+elapsed time : 2
+Sending packet with sequence number 980
+
+waitingForAck = 971
+Received ACK for 971
+elapsed time : 1
+Sending packet with sequence number 981
+
+waitingForAck = 972
+Received ACK for 972
+elapsed time : 1
+Sending packet with sequence number 982
+
+waitingForAck = 973
+Received ACK for 973
+elapsed time : 1
+Sending packet with sequence number 983
+
+waitingForAck = 974
+Received ACK for 975
+elapsed time : 1
+
+waitingForAck = 974
+Received ACK for 976
+elapsed time : 1
+
+waitingForAck = 974
+Received ACK for 977
+elapsed time : 2
+
+waitingForAck = 974
+Received ACK for 978
+elapsed time : 1
+
+waitingForAck = 974
+Received ACK for 979
+elapsed time : 1
+
+waitingForAck = 974
+Received ACK for 981
+elapsed time : 1
+
+waitingForAck = 974
+Received ACK for 982
+elapsed time : 1
+
+waitingForAck = 974
+Received ACK for 983
+elapsed time : 1
+
+Resending packet with sequence number 974
+
+waitingForAck = 974
+Received ACK for 974
+elapsed time : 107
+Sending packet with sequence number 984
+Sending packet with sequence number 985
+Sending packet with sequence number 986
+Sending packet with sequence number 987
+Sending packet with sequence number 988
+Sending packet with sequence number 989
+
+waitingForAck = 980
+Received ACK for 984
+elapsed time : 1
+
+waitingForAck = 980
+Received ACK for 985
+elapsed time : 1
+
+waitingForAck = 980
+Received ACK for 986
+elapsed time : 0
+
+waitingForAck = 980
+Received ACK for 987
+elapsed time : 0
+
+waitingForAck = 980
+Received ACK for 988
+elapsed time : 0
+
+waitingForAck = 980
+Received ACK for 989
+elapsed time : 0
+
+Resending packet with sequence number 980
+
+waitingForAck = 980
+Received ACK for 980
+elapsed time : 213
+Sending packet with sequence number 990
+Sending packet with sequence number 991
+Sending packet with sequence number 992
+Sending packet with sequence number 993
+Sending packet with sequence number 994
+Sending packet with sequence number 995
+Sending packet with sequence number 996
+Sending packet with sequence number 997
+Sending packet with sequence number 998
+Sending packet with sequence number 999
+
+waitingForAck = 990
+Received ACK for 990
+elapsed time : 1
+
+waitingForAck = 991
+Received ACK for 991
+elapsed time : 1
+
+waitingForAck = 992
+Received ACK for 992
+elapsed time : 1
+
+waitingForAck = 993
+Received ACK for 994
+elapsed time : 1
+
+waitingForAck = 993
+Received ACK for 995
+elapsed time : 1
+
+waitingForAck = 993
+Received ACK for 996
+elapsed time : 1
+
+waitingForAck = 993
+Received ACK for 997
+elapsed time : 0
+
+waitingForAck = 993
+Received ACK for 998
+elapsed time : 0
+
+waitingForAck = 993
+Received ACK for 999
+elapsed time : 0
+
+Resending packet with sequence number 993
+
+waitingForAck = 993
+Received ACK for 993
+elapsed time : 110
+
+Finished transmission
+
+Process finished with exit code 0
